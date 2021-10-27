@@ -1,0 +1,53 @@
+﻿Original category;New Category
+Budget overrun;Budget overrun
+Conflicts with the customer;Customer conflicts
+Conflicts within the customer;Customer conflicts
+Conflicts within the team;Team conflicts
+Customer dissatisfaction;Customer dissatisfaction
+Decreased business value;Decreased business value
+Decreased efficiency (overall);Decreased efficiency
+Decreased manageability;Decreased manageability
+Decreased test efficiency;Decreased efficiency
+Decreased user acceptance;Poor product quality
+Delayed detection of bugs and failures;Poor product quality
+Delayed detection of missing functions;Poor product quality
+Difficulties in project management;Decreased manageability
+Effort overrun;Budget overrun
+Implementation of irrelevant requirements;Decreased efficiency
+Incomplete requirements;Incomplete requirements
+Increased communication;Increase in communication problems
+Increased complexity in RE;Increased complexity
+Increased difficulty of impact analyses;Increased complexity
+Increased difficulty of requirements elicitation;Increased complexity
+Increased maintenance costs;Budget overrun
+Increased number of change requests;Increased complexity
+Increased number of failures / bugs;Poor product quality
+Increased number of requirements changes;Increased complexity
+Inefficient development;Decreased efficiency
+Information gets lost;Increased complexity
+Lack of innovation;Lack of innovation
+Late decision;Time overrun
+Less time left for RE;Time overrun
+Missing engagement by customer;Customer dissatisfaction
+Missing functionality of product;Poor product quality
+Missing traceability;Increased complexity
+Misunderstanding (overall);Increase in communication problems
+Need for support by a more experienced developer;Increased complexity
+Overall demotivation;Overall demotivation at project level
+Poor (system) design quality;Poor product quality
+Poor communication;Increase in communication problems
+Poor documentation of requirements;Poor requirements quality
+Poor product quality;Poor product quality
+Poor requirements quality (general);Poor requirements quality
+Project scope becomes unclear;Increased complexity
+Rework;Increased complexity
+Solution becomes difficult to maintain;Increased complexity
+Solution becomes more complex;Increased complexity
+Tests are of low quality;Poor product quality
+Time overrun;Time overrun
+Unexpected non-functional requirements;Incomplete non-functional requirements
+Untestable requirements;Requirements cannot be validated
+Validation of requirements becomes difficult;Requirements cannot be validated
+Weak knowledge transfer;Decreased business value
+Wrong estimates;General overrun of project ressources
+Wrong sizing of hardware;Poor product quality

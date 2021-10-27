@@ -1,0 +1,53 @@
+﻿Original Category; New Category
+Budget overrun;Budget overrun
+Rework;Increased complexity
+Tests are of low quality;Poor product quality
+Wrong sizing of hardware;Poor product quality
+Effort overrun;Budget overrun
+Increased maintenance costs;Budget overrun
+Conflicts with the customer;Conflicts with the customer
+Conflicts within the customer;Conflicts within the customer
+Conflicts within the team;Conflicts within the team
+Customer dissatisfaction;Customer dissatisfaction
+Missing engagement by customer;Customer dissatisfaction
+Decreased business value;Decreased business value
+Weak knowledge transfer;Decreased business value
+Decreased efficiency (overall);Decreased efficiency
+Decreased test efficiency;Decreased efficiency
+Implementation of irrelevant requirements;Decreased efficiency
+Inefficient development;Decreased efficiency
+Decreased manageability;Decreased manageability
+Difficulties in project management;Decreased manageability
+Wrong estimates;General overrun of project ressources
+Unexpected non-functional requirements;Incomplete non-functional requirements
+Incomplete Requirements;Incomplete Requirements
+Increased communication;Increase in communication problems
+Misunderstanding (overall);Increase in communication problems
+Poor communication;Increase in communication problems
+Increased complexity in RE;Increased complexity
+Increased difficulty of impact analyses;Increased complexity
+Increased difficulty of requirements elicitation;Increased complexity
+Increased number of change requests;Increased complexity
+Increased number of requirements changes;Increased complexity
+Information gets lost;Increased complexity
+Missing traceability;Increased complexity
+Need for support by a more experienced developer;Increased complexity
+Project scope becomes unclear;Increased complexity
+Solution becomes difficult to maintain;Increased complexity
+Solution becomes more complex;Increased complexity
+Lack of innovation;Lack of innovation
+Overall demotivation;Overall demotivation
+Decreased user acceptance;Poor product quality
+Delayed detection of bugs and failures;Poor product quality
+Delayed detection of missing functions;Poor product quality
+Increased number of failures / bugs;Poor product quality
+Missing functionality of product;Poor product quality
+Poor (system) design quality;Poor product quality
+Poor product quality;Poor product quality
+Poor documentation of requirements;Poor requirements quality
+Poor requirements quality (general);Poor requirements quality
+Untestable requirements;Requirements cannot be validated
+Validation of requirements becomes difficult;Requirements cannot be validated
+Late decision;Time overrun
+Less time left for RE;Time overrun
+Time overrun;Time overrun
