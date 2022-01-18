@@ -1,0 +1,12 @@
+.visualisationContainer{
+    min-height: 500px;
+    height: 100%;
+}
+
+.ngxGraphContainer {
+    border-style: solid;
+    border: 2.5px;
+    border-color: black;
+    align-self: center;
+    width: 50%;
+}

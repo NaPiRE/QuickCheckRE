@@ -1,0 +1,1426 @@
+lfdn;tag;converted
+35;Less time left for RE;Time overrun
+35;Conflicts within the team;Team conflicts
+35;Need for support by a more experienced developer;Increased complexity
+35;Need for support by a more experienced developer;Increased complexity
+41;Unexpected non-functional requirements;Incomplete non-functional requirements
+41;Missing functionality of product;Poor product quality
+41;Difficulties in project management;Decreased manageability
+41;Time overrun;Time overrun
+41;Inefficient development;Decreased efficiency
+58;Information gets lost;Increased complexity
+58;Information gets lost;Increased complexity
+58;Information gets lost;Increased complexity
+58;Incomplete requirements;Incomplete requirements
+58;Weak knowledge transfer;Decreased business value
+76;Decreased manageability;Decreased manageability
+76;Project scope becomes unclear;Increased complexity
+76;Conflicts within the team;Team conflicts
+81;Poor communication;Increase in communication problems
+81;Untestable requirements;Requirements cannot be validated
+81;Increased difficulty of requirements elicitation;Increased complexity
+81;Poor requirements quality (general);Poor requirements quality
+81;Difficulties in project management;Decreased manageability
+91;Time overrun;Time overrun
+91;Increased difficulty of requirements elicitation;Increased complexity
+91;Increased difficulty of requirements elicitation;Increased complexity
+93;Poor communication;Increase in communication problems
+93;Customer dissatisfaction;Customer dissatisfaction
+93;Effort overrun;Budget overrun
+93;Increased difficulty of requirements elicitation;Increased complexity
+93;Increased complexity in RE;Increased complexity
+106;Decreased test efficiency;Decreased efficiency
+106;Increased number of requirements changes;Increased complexity
+106;Implementation of irrelevant requirements;Decreased efficiency
+106;Increased difficulty of requirements elicitation;Increased complexity
+106;Decreased efficiency (overall);Decreased efficiency
+119;Incomplete requirements;Incomplete requirements
+119;Overall demotivation;Overall demotivation at project level
+119;Incomplete requirements;Incomplete requirements
+119;Increased difficulty of requirements elicitation;Increased complexity
+119;Customer dissatisfaction;Customer dissatisfaction
+120;Time overrun;Time overrun
+120;Time overrun;Time overrun
+120;Time overrun;Time overrun
+120;Poor (system) design quality;Poor product quality
+120;Lack of innovation;Lack of innovation
+126;Solution becomes more complex;Increased complexity
+126;Wrong estimates;General overrun of project ressources
+126;Difficulties in project management;Decreased manageability
+126;Inefficient development;Decreased efficiency
+129;Misunderstanding (overall);Increase in communication problems
+129;Poor (system) design quality;Poor product quality
+129;Increased difficulty of requirements elicitation;Increased complexity
+129;Project scope becomes unclear;Increased complexity
+129;Incomplete requirements;Incomplete requirements
+141;Delayed detection of missing functions;Poor product quality
+141;Poor requirements quality (general);Poor requirements quality
+141;Validation of requirements becomes difficult;Requirements cannot be validated
+144;Effort overrun;Budget overrun
+144;Inefficient development;Decreased efficiency
+144;Poor requirements quality (general);Poor requirements quality
+144;Time overrun;Time overrun
+144;Solution becomes more complex;Increased complexity
+146;Customer dissatisfaction;Customer dissatisfaction
+146;Solution becomes difficult to maintain;Increased complexity
+146;Increased difficulty of requirements elicitation;Increased complexity
+146;Inefficient development;Decreased efficiency
+146;Inefficient development;Decreased efficiency
+147;Effort overrun;Budget overrun
+147;Rework;Increased complexity
+147;Effort overrun;Budget overrun
+147;Effort overrun;Budget overrun
+147;Poor requirements quality (general);Poor requirements quality
+149;Conflicts within the team;Team conflicts
+149;Difficulties in project management;Decreased manageability
+149;Time overrun;Time overrun
+149;Decreased efficiency (overall);Decreased efficiency
+149;Poor (system) design quality;Poor product quality
+150;Poor product quality;Poor product quality
+150;Customer dissatisfaction;Customer dissatisfaction
+150;Time overrun;Time overrun
+150;Missing traceability;Increased complexity
+150;Conflicts with the customer;Customer conflicts
+150;Decreased efficiency (overall);Decreased efficiency
+160;Need for support by a more experienced developer;Increased complexity
+160;Increased difficulty of requirements elicitation;Increased complexity
+160;Budget overrun;Budget overrun
+160;Conflicts with the customer;Customer conflicts
+163;Poor requirements quality (general);Poor requirements quality
+163;Missing functionality of product;Poor product quality
+163;Incomplete requirements;Incomplete requirements
+163;Decreased efficiency (overall);Decreased efficiency
+163;Difficulties in project management;Decreased manageability
+163;Need for support by a more experienced developer;Increased complexity
+165;Time overrun;Time overrun
+165;Time overrun;Time overrun
+165;Difficulties in project management;Decreased manageability
+165;Time overrun;Time overrun
+165;Decreased efficiency (overall);Decreased efficiency
+166;Overall demotivation;Overall demotivation at project level
+166;Increased number of requirements changes;Increased complexity
+166;Time overrun;Time overrun
+166;Increased number of requirements changes;Increased complexity
+166;Difficulties in project management;Decreased manageability
+167;Overall demotivation;Overall demotivation at project level
+167;Time overrun;Time overrun
+167;Time overrun;Time overrun
+167;Customer dissatisfaction;Customer dissatisfaction
+167;Customer dissatisfaction;Customer dissatisfaction
+167;Customer dissatisfaction;Customer dissatisfaction
+168;Misunderstanding (overall);Increase in communication problems
+168;Difficulties in project management;Decreased manageability
+168;Conflicts within the team;Team conflicts
+168;Project scope becomes unclear;Increased complexity
+168;Incomplete requirements;Incomplete requirements
+178;Delayed detection of missing functions;Poor product quality
+178;Increased number of failures / bugs;Poor product quality
+179;Implementation of irrelevant requirements;Decreased efficiency
+179;Implementation of irrelevant requirements;Decreased efficiency
+179;Poor requirements quality (general);Poor requirements quality
+179;Increased difficulty of requirements elicitation;Increased complexity
+179;Poor requirements quality (general);Poor requirements quality
+182;Difficulties in project management;Decreased manageability
+182;Poor product quality;Poor product quality
+182;Poor product quality;Poor product quality
+188;Decreased efficiency (overall);Decreased efficiency
+188;Time overrun;Time overrun
+188;Time overrun;Time overrun
+188;Inefficient development;Decreased efficiency
+188;Conflicts within the team;Team conflicts
+199;Validation of requirements becomes difficult;Requirements cannot be validated
+199;Difficulties in project management;Decreased manageability
+199;Poor product quality;Poor product quality
+199;Increased number of failures / bugs;Poor product quality
+199;Inefficient development;Decreased efficiency
+203;Poor (system) design quality;Poor product quality
+205;Conflicts with the customer;Customer conflicts
+205;Increased maintenance costs;Budget overrun
+205;Project scope becomes unclear;Increased complexity
+205;Customer dissatisfaction;Customer dissatisfaction
+205;Time overrun;Time overrun
+208;Decreased efficiency (overall);Decreased efficiency
+208;Conflicts with the customer;Customer conflicts
+208;Increased number of change requests;Increased complexity
+208;Increased difficulty of requirements elicitation;Increased complexity
+213;Poor requirements quality (general);Poor requirements quality
+213;Poor product quality;Poor product quality
+213;Poor product quality;Poor product quality
+213;Increased difficulty of requirements elicitation;Increased complexity
+213;Time overrun;Time overrun
+215;Customer dissatisfaction;Customer dissatisfaction
+215;Customer dissatisfaction;Customer dissatisfaction
+215;Effort overrun;Budget overrun
+215;Increased maintenance costs;Budget overrun
+217;Increased difficulty of requirements elicitation;Increased complexity
+217;Poor requirements quality (general);Poor requirements quality
+217;Implementation of irrelevant requirements;Decreased efficiency
+217;Implementation of irrelevant requirements;Decreased efficiency
+217;Poor product quality;Poor product quality
+231;Validation of requirements becomes difficult;Requirements cannot be validated
+231;Implementation of irrelevant requirements;Decreased efficiency
+231;Decreased business value;Decreased business value
+231;Poor requirements quality (general);Poor requirements quality
+231;Customer dissatisfaction;Customer dissatisfaction
+239;Time overrun;Time overrun
+239;Misunderstanding (overall);Increase in communication problems
+239;Decreased efficiency (overall);Decreased efficiency
+249;Poor (system) design quality;Poor product quality
+249;Poor product quality;Poor product quality
+249;Difficulties in project management;Decreased manageability
+249;Increased maintenance costs;Budget overrun
+249;Decreased efficiency (overall);Decreased efficiency
+258;Poor documentation of requirements;Poor requirements quality
+259;Increased difficulty of requirements elicitation;Increased complexity
+259;Poor requirements quality (general);Poor requirements quality
+259;Decreased efficiency (overall);Decreased efficiency
+259;Misunderstanding (overall);Increase in communication problems
+263;Difficulties in project management;Decreased manageability
+263;Inefficient development;Decreased efficiency
+263;Increased complexity in RE;Increased complexity
+263;Tests are of low quality;Poor product quality
+263;Time overrun;Time overrun
+267;Poor product quality;Poor product quality
+267;Effort overrun;Budget overrun
+267;Time overrun;Time overrun
+267;Customer dissatisfaction;Customer dissatisfaction
+267;Information gets lost;Increased complexity
+268;Difficulties in project management;Decreased manageability
+268;Difficulties in project management;Decreased manageability
+268;Poor product quality;Poor product quality
+268;Poor documentation of requirements;Poor requirements quality
+278;Difficulties in project management;Decreased manageability
+278;Poor requirements quality (general);Poor requirements quality
+278;Incomplete requirements;Incomplete requirements
+278;Conflicts within the team;Team conflicts
+278;Effort overrun;Budget overrun
+283;Poor requirements quality (general);Poor requirements quality
+283;Implementation of irrelevant requirements;Decreased efficiency
+283;Misunderstanding (overall);Increase in communication problems
+283;Poor (system) design quality;Poor product quality
+283;Decreased test efficiency;Decreased efficiency
+291;Conflicts within the team;Team conflicts
+291;Customer dissatisfaction;Customer dissatisfaction
+291;Project scope becomes unclear;Increased complexity
+297;Incomplete requirements;Incomplete requirements
+297;Poor requirements quality (general);Poor requirements quality
+297;Poor product quality;Poor product quality
+297;Customer dissatisfaction;Customer dissatisfaction
+297;Inefficient development;Decreased efficiency
+304;Increased communication;Increase in communication problems
+304;Poor product quality;Poor product quality
+304;Time overrun;Time overrun
+304;Inefficient development;Decreased efficiency
+304;Validation of requirements becomes difficult;Requirements cannot be validated
+310;Difficulties in project management;Decreased manageability
+310;Customer dissatisfaction;Customer dissatisfaction
+310;Decreased efficiency (overall);Decreased efficiency
+310;Incomplete requirements;Incomplete requirements
+313;Poor requirements quality (general);Poor requirements quality
+313;Inefficient development;Decreased efficiency
+313;Increased difficulty of requirements elicitation;Increased complexity
+313;Missing traceability;Increased complexity
+313;Poor communication;Increase in communication problems
+317;Conflicts within the customer;Customer conflicts
+330;Difficulties in project management;Decreased manageability
+330;Difficulties in project management;Decreased manageability
+330;Difficulties in project management;Decreased manageability
+330;Customer dissatisfaction;Customer dissatisfaction
+330;Time overrun;Time overrun
+330;Conflicts with the customer;Customer conflicts
+332;Customer dissatisfaction;Customer dissatisfaction
+341;Increased communication;Increase in communication problems
+341;Conflicts within the customer;Customer conflicts
+355;Time overrun;Time overrun
+355;Time overrun;Time overrun
+355;Decreased business value;Decreased business value
+355;Less time left for RE;Time overrun
+355;Difficulties in project management;Decreased manageability
+359;Increased difficulty of requirements elicitation;Increased complexity
+359;Need for support by a more experienced developer;Increased complexity
+359;Wrong estimates;General overrun of project ressources
+359;Weak knowledge transfer;Decreased business value
+359;Incomplete requirements;Incomplete requirements
+364;Budget overrun;Budget overrun
+364;Difficulties in project management;Decreased manageability
+364;Difficulties in project management;Decreased manageability
+364;Time overrun;Time overrun
+364;Time overrun;Time overrun
+365;Effort overrun;Budget overrun
+365;Decreased manageability;Decreased manageability
+370;Customer dissatisfaction;Customer dissatisfaction
+370;Conflicts within the team;Team conflicts
+370;Effort overrun;Budget overrun
+370;Inefficient development;Decreased efficiency
+370;Poor product quality;Poor product quality
+372;Poor product quality;Poor product quality
+377;Poor product quality;Poor product quality
+377;Customer dissatisfaction;Customer dissatisfaction
+377;Project scope becomes unclear;Increased complexity
+377;Time overrun;Time overrun
+377;Poor requirements quality (general);Poor requirements quality
+384;Inefficient development;Decreased efficiency
+384;Inefficient development;Decreased efficiency
+384;Time overrun;Time overrun
+384;Budget overrun;Budget overrun
+384;Budget overrun;Budget overrun
+384;Increased complexity in RE;Increased complexity
+387;Untestable requirements;Requirements cannot be validated
+387;Decreased test efficiency;Decreased efficiency
+387;Overall demotivation;Overall demotivation at project level
+387;Poor product quality;Poor product quality
+393;Increased complexity in RE;Increased complexity
+393;Poor (system) design quality;Poor product quality
+393;Poor communication;Increase in communication problems
+393;Missing functionality of product;Poor product quality
+393;Poor product quality;Poor product quality
+416;Poor (system) design quality;Poor product quality
+416;Effort overrun;Budget overrun
+416;Budget overrun;Budget overrun
+416;Budget overrun;Budget overrun
+416;Poor product quality;Poor product quality
+420;Misunderstanding (overall);Increase in communication problems
+420;Difficulties in project management;Decreased manageability
+420;Conflicts with the customer;Customer conflicts
+425;Increased difficulty of requirements elicitation;Increased complexity
+425;Increased difficulty of requirements elicitation;Increased complexity
+425;Customer dissatisfaction;Customer dissatisfaction
+425;Customer dissatisfaction;Customer dissatisfaction
+425;Decreased user acceptance;Poor product quality
+427;Increased maintenance costs;Budget overrun
+427;Missing traceability;Increased complexity
+427;Rework;Increased complexity
+427;Increased number of requirements changes;Increased complexity
+437;Effort overrun;Budget overrun
+437;Rework;Increased complexity
+437;Poor requirements quality (general);Poor requirements quality
+437;Inefficient development;Decreased efficiency
+437;Conflicts with the customer;Customer conflicts
+442;Conflicts with the customer;Customer conflicts
+442;Project scope becomes unclear;Increased complexity
+442;Inefficient development;Decreased efficiency
+444;Overall demotivation;Overall demotivation at project level
+444;Effort overrun;Budget overrun
+444;Poor requirements quality (general);Poor requirements quality
+444;Delayed detection of missing functions;Poor product quality
+444;Less time left for RE;Time overrun
+446;Poor product quality;Poor product quality
+446;Time overrun;Time overrun
+446;Difficulties in project management;Decreased manageability
+446;Decreased efficiency (overall);Decreased efficiency
+446;Customer dissatisfaction;Customer dissatisfaction
+453;Delayed detection of bugs and failures;Poor product quality
+453;Difficulties in project management;Decreased manageability
+453;Rework;Increased complexity
+453;Increased number of change requests;Increased complexity
+453;Inefficient development;Decreased efficiency
+461;Customer dissatisfaction;Customer dissatisfaction
+461;Customer dissatisfaction;Customer dissatisfaction
+461;Customer dissatisfaction;Customer dissatisfaction
+461;Customer dissatisfaction;Customer dissatisfaction
+461;Customer dissatisfaction;Customer dissatisfaction
+467;Customer dissatisfaction;Customer dissatisfaction
+467;Poor product quality;Poor product quality
+467;Decreased efficiency (overall);Decreased efficiency
+467;Implementation of irrelevant requirements;Decreased efficiency
+467;Difficulties in project management;Decreased manageability
+468;Customer dissatisfaction;Customer dissatisfaction
+468;Customer dissatisfaction;Customer dissatisfaction
+468;Overall demotivation;Overall demotivation at project level
+468;Poor product quality;Poor product quality
+468;Solution becomes difficult to maintain;Increased complexity
+479;Inefficient development;Decreased efficiency
+479;Increased communication;Increase in communication problems
+479;Weak knowledge transfer;Decreased business value
+479;Poor communication;Increase in communication problems
+479;Validation of requirements becomes difficult;Requirements cannot be validated
+482;Decreased efficiency (overall);Decreased efficiency
+482;Inefficient development;Decreased efficiency
+482;Inefficient development;Decreased efficiency
+482;Effort overrun;Budget overrun
+482;Decreased efficiency (overall);Decreased efficiency
+485;Poor (system) design quality;Poor product quality
+485;Increased difficulty of requirements elicitation;Increased complexity
+485;Increased difficulty of requirements elicitation;Increased complexity
+485;Inefficient development;Decreased efficiency
+485;Conflicts with the customer;Customer conflicts
+489;Customer dissatisfaction;Customer dissatisfaction
+489;Customer dissatisfaction;Customer dissatisfaction
+489;Decreased user acceptance;Poor product quality
+489;Customer dissatisfaction;Customer dissatisfaction
+502;Need for support by a more experienced developer;Increased complexity
+511;Poor requirements quality (general);Poor requirements quality
+511;Increased difficulty of requirements elicitation;Increased complexity
+511;Conflicts within the team;Team conflicts
+511;Time overrun;Time overrun
+512;Poor requirements quality (general);Poor requirements quality
+512;Decreased business value;Decreased business value
+512;Implementation of irrelevant requirements;Decreased efficiency
+512;Poor product quality;Poor product quality
+512;Difficulties in project management;Decreased manageability
+518;Poor product quality;Poor product quality
+518;Poor (system) design quality;Poor product quality
+518;Inefficient development;Decreased efficiency
+518;Time overrun;Time overrun
+523;Inefficient development;Decreased efficiency
+523;Inefficient development;Decreased efficiency
+523;Poor product quality;Poor product quality
+523;Poor product quality;Poor product quality
+523;Customer dissatisfaction;Customer dissatisfaction
+525;Inefficient development;Decreased efficiency
+525;Missing functionality of product;Poor product quality
+525;Missing functionality of product;Poor product quality
+525;Poor requirements quality (general);Poor requirements quality
+525;Poor (system) design quality;Poor product quality
+534;Poor (system) design quality;Poor product quality
+534;Customer dissatisfaction;Customer dissatisfaction
+534;Inefficient development;Decreased efficiency
+534;Increased number of requirements changes;Increased complexity
+539;Time overrun;Time overrun
+539;Decreased test efficiency;Decreased efficiency
+539;Increased difficulty of requirements elicitation;Increased complexity
+539;Poor (system) design quality;Poor product quality
+541;Delayed detection of bugs and failures;Poor product quality
+549;Poor product quality;Poor product quality
+549;Increased number of failures / bugs;Poor product quality
+549;Poor requirements quality (general);Poor requirements quality
+549;Decreased efficiency (overall);Decreased efficiency
+549;Customer dissatisfaction;Customer dissatisfaction
+570;Decreased efficiency (overall);Decreased efficiency
+570;Poor documentation of requirements;Poor requirements quality
+570;Incomplete requirements;Incomplete requirements
+570;Time overrun;Time overrun
+570;Implementation of irrelevant requirements;Decreased efficiency
+573;Difficulties in project management;Decreased manageability
+573;Conflicts within the team;Team conflicts
+573;Poor product quality;Poor product quality
+573;Customer dissatisfaction;Customer dissatisfaction
+573;Inefficient development;Decreased efficiency
+586;Increased difficulty of requirements elicitation;Increased complexity
+586;Poor communication;Increase in communication problems
+586;Inefficient development;Decreased efficiency
+586;Customer dissatisfaction;Customer dissatisfaction
+586;Conflicts within the team;Team conflicts
+626;Increased difficulty of requirements elicitation;Increased complexity
+626;Increased communication;Increase in communication problems
+626;Increased number of requirements changes;Increased complexity
+626;Incomplete requirements;Incomplete requirements
+637;Increased maintenance costs;Budget overrun
+637;Poor requirements quality (general);Poor requirements quality
+637;Inefficient development;Decreased efficiency
+637;Incomplete requirements;Incomplete requirements
+637;Poor product quality;Poor product quality
+640;Budget overrun;Budget overrun
+640;Poor documentation of requirements;Poor requirements quality
+640;Difficulties in project management;Decreased manageability
+640;Poor product quality;Poor product quality
+640;Misunderstanding (overall);Increase in communication problems
+649;Overall demotivation;Overall demotivation at project level
+649;Customer dissatisfaction;Customer dissatisfaction
+649;Inefficient development;Decreased efficiency
+649;Poor product quality;Poor product quality
+649;Increased number of failures / bugs;Poor product quality
+661;Poor communication;Increase in communication problems
+661;Difficulties in project management;Decreased manageability
+661;Decreased efficiency (overall);Decreased efficiency
+661;Inefficient development;Decreased efficiency
+661;Implementation of irrelevant requirements;Decreased efficiency
+663;Incomplete requirements;Incomplete requirements
+663;Poor product quality;Poor product quality
+663;Poor product quality;Poor product quality
+663;Poor product quality;Poor product quality
+663;Effort overrun;Budget overrun
+663;Poor (system) design quality;Poor product quality
+676;Customer dissatisfaction;Customer dissatisfaction
+676;Time overrun;Time overrun
+676;Time overrun;Time overrun
+676;Inefficient development;Decreased efficiency
+676;Poor product quality;Poor product quality
+694;Decreased efficiency (overall);Decreased efficiency
+694;Time overrun;Time overrun
+694;Difficulties in project management;Decreased manageability
+694;Time overrun;Time overrun
+694;Decreased efficiency (overall);Decreased efficiency
+710;Difficulties in project management;Decreased manageability
+710;Delayed detection of bugs and failures;Poor product quality
+710;Implementation of irrelevant requirements;Decreased efficiency
+710;Effort overrun;Budget overrun
+710;Customer dissatisfaction;Customer dissatisfaction
+719;Missing functionality of product;Poor product quality
+719;Increased maintenance costs;Budget overrun
+719;Delayed detection of missing functions;Poor product quality
+719;Poor requirements quality (general);Poor requirements quality
+719;Poor requirements quality (general);Poor requirements quality
+722;Time overrun;Time overrun
+722;Customer dissatisfaction;Customer dissatisfaction
+722;Inefficient development;Decreased efficiency
+722;Budget overrun;Budget overrun
+722;Increased maintenance costs;Budget overrun
+723;Inefficient development;Decreased efficiency
+729;Decreased efficiency (overall);Decreased efficiency
+729;Difficulties in project management;Decreased manageability
+729;Increased difficulty of requirements elicitation;Increased complexity
+735;Increased number of failures / bugs;Poor product quality
+735;Time overrun;Time overrun
+740;Time overrun;Time overrun
+740;Wrong estimates;General overrun of project ressources
+740;Inefficient development;Decreased efficiency
+740;Effort overrun;Budget overrun
+740;Time overrun;Time overrun
+742;Conflicts with the customer;Customer conflicts
+742;Effort overrun;Budget overrun
+742;Conflicts within the team;Team conflicts
+754;Conflicts with the customer;Customer conflicts
+758;Implementation of irrelevant requirements;Decreased efficiency
+758;Effort overrun;Budget overrun
+758;Conflicts within the team;Team conflicts
+768;Misunderstanding (overall);Increase in communication problems
+768;Effort overrun;Budget overrun
+768;Conflicts with the customer;Customer conflicts
+768;Poor documentation of requirements;Poor requirements quality
+768;Poor requirements quality (general);Poor requirements quality
+774;Customer dissatisfaction;Customer dissatisfaction
+774;Poor product quality;Poor product quality
+786;Increased number of failures / bugs;Poor product quality
+786;Inefficient development;Decreased efficiency
+786;Validation of requirements becomes difficult;Requirements cannot be validated
+819;Poor product quality;Poor product quality
+819;Poor product quality;Poor product quality
+819;Missing functionality of product;Poor product quality
+819;Project scope becomes unclear;Increased complexity
+819;Increased difficulty of requirements elicitation;Increased complexity
+825;Poor communication;Increase in communication problems
+825;Difficulties in project management;Decreased manageability
+830;Solution becomes difficult to maintain;Increased complexity
+830;Customer dissatisfaction;Customer dissatisfaction
+830;Difficulties in project management;Decreased manageability
+831;Budget overrun;Budget overrun
+845;Time overrun;Time overrun
+847;Inefficient development;Decreased efficiency
+847;Poor product quality;Poor product quality
+847;Decreased efficiency (overall);Decreased efficiency
+847;Lack of innovation;Lack of innovation
+849;Time overrun;Time overrun
+849;Difficulties in project management;Decreased manageability
+849;Difficulties in project management;Decreased manageability
+849;Overall demotivation;Overall demotivation at project level
+849;Difficulties in project management;Decreased manageability
+851;Increased difficulty of requirements elicitation;Increased complexity
+851;Decreased efficiency (overall);Decreased efficiency
+851;Time overrun;Time overrun
+851;Conflicts within the team;Team conflicts
+851;Poor product quality;Poor product quality
+856;Conflicts with the customer;Customer conflicts
+856;Poor requirements quality (general);Poor requirements quality
+856;Effort overrun;Budget overrun
+856;Weak knowledge transfer;Decreased business value
+856;Poor product quality;Poor product quality
+857;Conflicts with the customer;Customer conflicts
+857;Implementation of irrelevant requirements;Decreased efficiency
+864;Increased difficulty of requirements elicitation;Increased complexity
+864;Increased difficulty of impact analyses;Increased complexity
+864;Inefficient development;Decreased efficiency
+864;Increased maintenance costs;Budget overrun
+864;Poor requirements quality (general);Poor requirements quality
+865;Difficulties in project management;Decreased manageability
+865;Incomplete requirements;Incomplete requirements
+865;Inefficient development;Decreased efficiency
+865;Poor product quality;Poor product quality
+865;Poor product quality;Poor product quality
+868;Budget overrun;Budget overrun
+868;Rework;Increased complexity
+868;Effort overrun;Budget overrun
+868;Increased number of requirements changes;Increased complexity
+868;Customer dissatisfaction;Customer dissatisfaction
+870;Missing functionality of product;Poor product quality
+870;Poor product quality;Poor product quality
+870;Poor product quality;Poor product quality
+870;Customer dissatisfaction;Customer dissatisfaction
+870;Poor product quality;Poor product quality
+876;Weak knowledge transfer;Decreased business value
+876;Poor requirements quality (general);Poor requirements quality
+876;Inefficient development;Decreased efficiency
+876;Difficulties in project management;Decreased manageability
+879;Inefficient development;Decreased efficiency
+879;Poor product quality;Poor product quality
+879;Rework;Increased complexity
+879;Poor requirements quality (general);Poor requirements quality
+879;Effort overrun;Budget overrun
+880;Decreased test efficiency;Decreased efficiency
+880;Increased number of change requests;Increased complexity
+880;Wrong estimates;General overrun of project ressources
+880;Inefficient development;Decreased efficiency
+880;Poor product quality;Poor product quality
+900;Poor requirements quality (general);Poor requirements quality
+900;Inefficient development;Decreased efficiency
+900;Customer dissatisfaction;Customer dissatisfaction
+901;Poor product quality;Poor product quality
+901;Poor requirements quality (general);Poor requirements quality
+901;Inefficient development;Decreased efficiency
+901;Effort overrun;Budget overrun
+901;Effort overrun;Budget overrun
+909;Poor requirements quality (general);Poor requirements quality
+909;Time overrun;Time overrun
+909;Incomplete requirements;Incomplete requirements
+909;Poor (system) design quality;Poor product quality
+909;Decreased efficiency (overall);Decreased efficiency
+910;Poor product quality;Poor product quality
+910;Poor product quality;Poor product quality
+910;Effort overrun;Budget overrun
+910;Poor requirements quality (general);Poor requirements quality
+910;Increased maintenance costs;Budget overrun
+912;Misunderstanding (overall);Increase in communication problems
+912;Increased difficulty of requirements elicitation;Increased complexity
+912;Decreased efficiency (overall);Decreased efficiency
+912;Conflicts with the customer;Customer conflicts
+912;Customer dissatisfaction;Customer dissatisfaction
+916;Decreased business value;Decreased business value
+916;Poor requirements quality (general);Poor requirements quality
+916;Customer dissatisfaction;Customer dissatisfaction
+916;Conflicts with the customer;Customer conflicts
+916;Decreased business value;Decreased business value
+917;Inefficient development;Decreased efficiency
+917;Rework;Increased complexity
+917;Effort overrun;Budget overrun
+917;Effort overrun;Budget overrun
+917;Poor requirements quality (general);Poor requirements quality
+921;Inefficient development;Decreased efficiency
+921;Inefficient development;Decreased efficiency
+921;Inefficient development;Decreased efficiency
+921;Inefficient development;Decreased efficiency
+921;Inefficient development;Decreased efficiency
+923;Overall demotivation;Overall demotivation at project level
+923;Inefficient development;Decreased efficiency
+923;Customer dissatisfaction;Customer dissatisfaction
+923;Effort overrun;Budget overrun
+923;Project scope becomes unclear;Increased complexity
+924;Inefficient development;Decreased efficiency
+924;Effort overrun;Budget overrun
+924;Effort overrun;Budget overrun
+924;Rework;Increased complexity
+924;Poor requirements quality (general);Poor requirements quality
+928;Customer dissatisfaction;Customer dissatisfaction
+928;Poor product quality;Poor product quality
+928;Poor requirements quality (general);Poor requirements quality
+928;Inefficient development;Decreased efficiency
+928;Conflicts with the customer;Customer conflicts
+929;Incomplete requirements;Incomplete requirements
+929;Increased difficulty of requirements elicitation;Increased complexity
+929;Customer dissatisfaction;Customer dissatisfaction
+929;Poor product quality;Poor product quality
+929;Poor product quality;Poor product quality
+930;Poor requirements quality (general);Poor requirements quality
+930;Increased difficulty of requirements elicitation;Increased complexity
+930;Budget overrun;Budget overrun
+930;Inefficient development;Decreased efficiency
+930;Increased number of change requests;Increased complexity
+931;Incomplete requirements;Incomplete requirements
+932;Effort overrun;Budget overrun
+932;Time overrun;Time overrun
+933;Poor product quality;Poor product quality
+933;Delayed detection of missing functions;Poor product quality
+933;Poor product quality;Poor product quality
+933;Customer dissatisfaction;Customer dissatisfaction
+933;Misunderstanding (overall);Increase in communication problems
+937;Customer dissatisfaction;Customer dissatisfaction
+937;Difficulties in project management;Decreased manageability
+937;Budget overrun;Budget overrun
+945;Customer dissatisfaction;Customer dissatisfaction
+945;Budget overrun;Budget overrun
+945;Poor product quality;Poor product quality
+945;Poor product quality;Poor product quality
+945;Missing functionality of product;Poor product quality
+947;Poor product quality;Poor product quality
+947;Poor product quality;Poor product quality
+947;Missing functionality of product;Poor product quality
+947;Increased maintenance costs;Budget overrun
+947;Customer dissatisfaction;Customer dissatisfaction
+952;Project scope becomes unclear;Increased complexity
+952;Project scope becomes unclear;Increased complexity
+952;Poor requirements quality (general);Poor requirements quality
+952;Increased difficulty of requirements elicitation;Increased complexity
+952;Difficulties in project management;Decreased manageability
+958;Difficulties in project management;Decreased manageability
+958;Time overrun;Time overrun
+958;Poor product quality;Poor product quality
+958;Poor requirements quality (general);Poor requirements quality
+959;Delayed detection of bugs and failures;Poor product quality
+959;Poor documentation of requirements;Poor requirements quality
+959;Conflicts with the customer;Customer conflicts
+959;Difficulties in project management;Decreased manageability
+959;Difficulties in project management;Decreased manageability
+968;Poor requirements quality (general);Poor requirements quality
+968;Poor product quality;Poor product quality
+980;Poor product quality;Poor product quality
+984;Time overrun;Time overrun
+984;Misunderstanding (overall);Increase in communication problems
+984;Conflicts within the team;Team conflicts
+984;Lack of innovation;Lack of innovation
+985;Effort overrun;Budget overrun
+985;Poor requirements quality (general);Poor requirements quality
+985;Inefficient development;Decreased efficiency
+985;Difficulties in project management;Decreased manageability
+985;Inefficient development;Decreased efficiency
+987;Inefficient development;Decreased efficiency
+987;Time overrun;Time overrun
+987;Time overrun;Time overrun
+987;Time overrun;Time overrun
+987;Time overrun;Time overrun
+990;Missing functionality of product;Poor product quality
+990;Incomplete requirements;Incomplete requirements
+990;Time overrun;Time overrun
+990;Difficulties in project management;Decreased manageability
+990;Increased number of change requests;Increased complexity
+997;Time overrun;Time overrun
+997;Poor product quality;Poor product quality
+997;Inefficient development;Decreased efficiency
+997;Poor (system) design quality;Poor product quality
+1006;Inefficient development;Decreased efficiency
+1006;Increased number of requirements changes;Increased complexity
+1006;Time overrun;Time overrun
+1006;Inefficient development;Decreased efficiency
+1006;Inefficient development;Decreased efficiency
+1010;Difficulties in project management;Decreased manageability
+1010;Difficulties in project management;Decreased manageability
+1010;Incomplete requirements;Incomplete requirements
+1010;Inefficient development;Decreased efficiency
+1010;Inefficient development;Decreased efficiency
+1011;Budget overrun;Budget overrun
+1011;Time overrun;Time overrun
+1011;Inefficient development;Decreased efficiency
+1011;Difficulties in project management;Decreased manageability
+1011;Effort overrun;Budget overrun
+1012;Effort overrun;Budget overrun
+1012;Implementation of irrelevant requirements;Decreased efficiency
+1012;Poor requirements quality (general);Poor requirements quality
+1012;Missing functionality of product;Poor product quality
+1012;Poor product quality;Poor product quality
+1014;Poor documentation of requirements;Poor requirements quality
+1014;Poor documentation of requirements;Poor requirements quality
+1014;Poor communication;Increase in communication problems
+1014;Budget overrun;Budget overrun
+1017;Effort overrun;Budget overrun
+1017;Increased communication;Increase in communication problems
+1017;Need for support by a more experienced developer;Increased complexity
+1017;Conflicts within the team;Team conflicts
+1017;Difficulties in project management;Decreased manageability
+1021;Poor product quality;Poor product quality
+1021;Difficulties in project management;Decreased manageability
+1021;Inefficient development;Decreased efficiency
+1021;Inefficient development;Decreased efficiency
+1021;Poor product quality;Poor product quality
+1031;Poor product quality;Poor product quality
+1031;Effort overrun;Budget overrun
+1031;Effort overrun;Budget overrun
+1031;Poor product quality;Poor product quality
+1031;Customer dissatisfaction;Customer dissatisfaction
+1033;Incomplete requirements;Incomplete requirements
+1033;Effort overrun;Budget overrun
+1033;Effort overrun;Budget overrun
+1033;Rework;Increased complexity
+1033;Overall demotivation;Overall demotivation at project level
+1039;Project scope becomes unclear;Increased complexity
+1039;Effort overrun;Budget overrun
+1039;Implementation of irrelevant requirements;Decreased efficiency
+1039;Difficulties in project management;Decreased manageability
+1039;Implementation of irrelevant requirements;Decreased efficiency
+1051;Missing traceability;Increased complexity
+1051;Inefficient development;Decreased efficiency
+1051;Difficulties in project management;Decreased manageability
+1051;Poor product quality;Poor product quality
+1051;Poor product quality;Poor product quality
+1055;Inefficient development;Decreased efficiency
+1055;Decreased business value;Decreased business value
+1055;Poor requirements quality (general);Poor requirements quality
+1055;Poor (system) design quality;Poor product quality
+1055;Time overrun;Time overrun
+1064;Time overrun;Time overrun
+1064;Time overrun;Time overrun
+1064;Time overrun;Time overrun
+1064;Time overrun;Time overrun
+1064;Decreased efficiency (overall);Decreased efficiency
+1065;Time overrun;Time overrun
+1065;Poor requirements quality (general);Poor requirements quality
+1065;Increased communication;Increase in communication problems
+1065;Poor product quality;Poor product quality
+1065;Conflicts within the team;Team conflicts
+1066;Time overrun;Time overrun
+1066;Difficulties in project management;Decreased manageability
+1066;Budget overrun;Budget overrun
+1066;Difficulties in project management;Decreased manageability
+1066;Difficulties in project management;Decreased manageability
+1066;Difficulties in project management;Decreased manageability
+1069;Increased communication;Increase in communication problems
+1069;Increased communication;Increase in communication problems
+1069;Increased communication;Increase in communication problems
+1070;Conflicts with the customer;Customer conflicts
+1070;Conflicts with the customer;Customer conflicts
+1070;Customer dissatisfaction;Customer dissatisfaction
+1070;Difficulties in project management;Decreased manageability
+1070;Rework;Increased complexity
+1076;Increased communication;Increase in communication problems
+1076;Time overrun;Time overrun
+1076;Poor product quality;Poor product quality
+1079;Poor requirements quality (general);Poor requirements quality
+1079;Effort overrun;Budget overrun
+1079;Effort overrun;Budget overrun
+1079;Time overrun;Time overrun
+1079;Inefficient development;Decreased efficiency
+1080;Poor requirements quality (general);Poor requirements quality
+1080;Customer dissatisfaction;Customer dissatisfaction
+1080;Inefficient development;Decreased efficiency
+1080;Time overrun;Time overrun
+1080;Effort overrun;Budget overrun
+1082;Poor requirements quality (general);Poor requirements quality
+1082;Incomplete requirements;Incomplete requirements
+1082;Poor requirements quality (general);Poor requirements quality
+1082;Missing engagement by customer;Customer dissatisfaction
+1091;Conflicts with the customer;Customer conflicts
+1091;Poor communication;Increase in communication problems
+1091;Inefficient development;Decreased efficiency
+1091;Information gets lost;Increased complexity
+1091;Poor product quality;Poor product quality
+1097;Increased difficulty of requirements elicitation;Increased complexity
+1097;Poor product quality;Poor product quality
+1097;Increased difficulty of requirements elicitation;Increased complexity
+1097;Unexpected non-functional requirements;Incomplete non-functional requirements
+1097;Poor (system) design quality;Poor product quality
+1100;Rework;Increased complexity
+1100;Inefficient development;Decreased efficiency
+1100;Effort overrun;Budget overrun
+1100;Effort overrun;Budget overrun
+1100;Poor requirements quality (general);Poor requirements quality
+1101;Solution becomes difficult to maintain;Increased complexity
+1101;Poor product quality;Poor product quality
+1101;Less time left for RE;Time overrun
+1101;Difficulties in project management;Decreased manageability
+1101;Inefficient development;Decreased efficiency
+1105;Tests are of low quality;Poor product quality
+1105;Tests are of low quality;Poor product quality
+1105;Poor product quality;Poor product quality
+1105;Decreased test efficiency;Decreased efficiency
+1105;Decreased test efficiency;Decreased efficiency
+1111;Effort overrun;Budget overrun
+1111;Inefficient development;Decreased efficiency
+1111;Decreased manageability;Decreased manageability
+1111;Inefficient development;Decreased efficiency
+1111;Poor requirements quality (general);Poor requirements quality
+1114;Effort overrun;Budget overrun
+1114;Poor requirements quality (general);Poor requirements quality
+1114;Effort overrun;Budget overrun
+1114;Rework;Increased complexity
+1114;Effort overrun;Budget overrun
+1118;Inefficient development;Decreased efficiency
+1118;Time overrun;Time overrun
+1118;Effort overrun;Budget overrun
+1122;Customer dissatisfaction;Customer dissatisfaction
+1122;Poor product quality;Poor product quality
+1122;Customer dissatisfaction;Customer dissatisfaction
+1122;Poor product quality;Poor product quality
+1122;Conflicts within the team;Team conflicts
+1124;Time overrun;Time overrun
+1124;Difficulties in project management;Decreased manageability
+1124;Poor requirements quality (general);Poor requirements quality
+1124;Increased difficulty of requirements elicitation;Increased complexity
+1124;Conflicts within the team;Team conflicts
+1126;Budget overrun;Budget overrun
+1126;Time overrun;Time overrun
+1126;Difficulties in project management;Decreased manageability
+1126;Missing functionality of product;Poor product quality
+1126;Poor product quality;Poor product quality
+1126;Customer dissatisfaction;Customer dissatisfaction
+1126;Increased maintenance costs;Budget overrun
+1126;Customer dissatisfaction;Customer dissatisfaction
+1139;Poor requirements quality (general);Poor requirements quality
+1139;Conflicts within the team;Team conflicts
+1139;Misunderstanding (overall);Increase in communication problems
+1139;Decreased test efficiency;Decreased efficiency
+1141;Increased number of requirements changes;Increased complexity
+1141;Poor (system) design quality;Poor product quality
+1141;Difficulties in project management;Decreased manageability
+1141;Inefficient development;Decreased efficiency
+1141;Effort overrun;Budget overrun
+1159;Decreased efficiency (overall);Decreased efficiency
+1159;Implementation of irrelevant requirements;Decreased efficiency
+1159;Poor (system) design quality;Poor product quality
+1161;Solution becomes more complex;Increased complexity
+1161;Conflicts with the customer;Customer conflicts
+1161;Time overrun;Time overrun
+1161;Misunderstanding (overall);Increase in communication problems
+1161;Increased complexity in RE;Increased complexity
+1163;Time overrun;Time overrun
+1163;Difficulties in project management;Decreased manageability
+1163;Time overrun;Time overrun
+1163;Overall demotivation;Overall demotivation at project level
+1163;Conflicts within the team;Team conflicts
+1166;Budget overrun;Budget overrun
+1168;Poor product quality;Poor product quality
+1168;Budget overrun;Budget overrun
+1168;Customer dissatisfaction;Customer dissatisfaction
+1168;Customer dissatisfaction;Customer dissatisfaction
+1168;Increased number of change requests;Increased complexity
+1171;Missing functionality of product;Poor product quality
+1171;Time overrun;Time overrun
+1171;Customer dissatisfaction;Customer dissatisfaction
+1171;Poor product quality;Poor product quality
+1171;Difficulties in project management;Decreased manageability
+1187;Increased difficulty of requirements elicitation;Increased complexity
+1187;Inefficient development;Decreased efficiency
+1187;Project scope becomes unclear;Increased complexity
+1187;Increased difficulty of requirements elicitation;Increased complexity
+1189;Increased difficulty of requirements elicitation;Increased complexity
+1189;Effort overrun;Budget overrun
+1194;Inefficient development;Decreased efficiency
+1194;Conflicts within the team;Team conflicts
+1194;Solution becomes difficult to maintain;Increased complexity
+1194;Difficulties in project management;Decreased manageability
+1194;Tests are of low quality;Poor product quality
+1204;Incomplete requirements;Incomplete requirements
+1204;Difficulties in project management;Decreased manageability
+1204;Time overrun;Time overrun
+1204;Difficulties in project management;Decreased manageability
+1204;Wrong estimates;General overrun of project ressources
+1207;Customer dissatisfaction;Customer dissatisfaction
+1207;Customer dissatisfaction;Customer dissatisfaction
+1207;Time overrun;Time overrun
+1207;Incomplete requirements;Incomplete requirements
+1207;Misunderstanding (overall);Increase in communication problems
+1223;Time overrun;Time overrun
+1224;Conflicts with the customer;Customer conflicts
+1224;Customer dissatisfaction;Customer dissatisfaction
+1224;Customer dissatisfaction;Customer dissatisfaction
+1227;Increased difficulty of requirements elicitation;Increased complexity
+1229;Effort overrun;Budget overrun
+1229;Incomplete requirements;Incomplete requirements
+1229;Inefficient development;Decreased efficiency
+1229;Need for support by a more experienced developer;Increased complexity
+1229;Customer dissatisfaction;Customer dissatisfaction
+1238;Increased maintenance costs;Budget overrun
+1238;Effort overrun;Budget overrun
+1238;Effort overrun;Budget overrun
+1238;Time overrun;Time overrun
+1238;Poor requirements quality (general);Poor requirements quality
+1239;Rework;Increased complexity
+1239;Inefficient development;Decreased efficiency
+1239;Effort overrun;Budget overrun
+1239;Time overrun;Time overrun
+1239;Poor product quality;Poor product quality
+1266;Time overrun;Time overrun
+1266;Time overrun;Time overrun
+1266;Increased number of change requests;Increased complexity
+1266;Inefficient development;Decreased efficiency
+1266;Difficulties in project management;Decreased manageability
+1279;Increased number of change requests;Increased complexity
+1279;Implementation of irrelevant requirements;Decreased efficiency
+1279;Misunderstanding (overall);Increase in communication problems
+1279;Customer dissatisfaction;Customer dissatisfaction
+1279;Need for support by a more experienced developer;Increased complexity
+1283;Time overrun;Time overrun
+1283;Time overrun;Time overrun
+1283;Time overrun;Time overrun
+1283;Time overrun;Time overrun
+1283;Poor product quality;Poor product quality
+1288;Time overrun;Time overrun
+1288;Time overrun;Time overrun
+1288;Inefficient development;Decreased efficiency
+1289;Budget overrun;Budget overrun
+1289;Time overrun;Time overrun
+1289;Validation of requirements becomes difficult;Requirements cannot be validated
+1289;Decreased user acceptance;Poor product quality
+1289;Budget overrun;Budget overrun
+1290;Inefficient development;Decreased efficiency
+1290;Time overrun;Time overrun
+1290;Time overrun;Time overrun
+1290;Inefficient development;Decreased efficiency
+1291;Increased number of requirements changes;Increased complexity
+1291;Customer dissatisfaction;Customer dissatisfaction
+1291;Poor product quality;Poor product quality
+1291;Poor product quality;Poor product quality
+1291;Implementation of irrelevant requirements;Decreased efficiency
+1296;Incomplete requirements;Incomplete requirements
+1296;Misunderstanding (overall);Increase in communication problems
+1296;Project scope becomes unclear;Increased complexity
+1296;Decreased efficiency (overall);Decreased efficiency
+1316;Inefficient development;Decreased efficiency
+1316;Increased number of change requests;Increased complexity
+1316;Poor requirements quality (general);Poor requirements quality
+1316;Difficulties in project management;Decreased manageability
+1316;Poor product quality;Poor product quality
+1321;Misunderstanding (overall);Increase in communication problems
+1327;Time overrun;Time overrun
+1327;Customer dissatisfaction;Customer dissatisfaction
+1327;Budget overrun;Budget overrun
+1327;Budget overrun;Budget overrun
+1327;Increased maintenance costs;Budget overrun
+1327;Difficulties in project management;Decreased manageability
+1331;Increased difficulty of impact analyses;Increased complexity
+1331;Inefficient development;Decreased efficiency
+1331;Increased difficulty of requirements elicitation;Increased complexity
+1331;Increased number of change requests;Increased complexity
+1331;Poor (system) design quality;Poor product quality
+1339;Conflicts within the team;Team conflicts
+1339;Difficulties in project management;Decreased manageability
+1339;Overall demotivation;Overall demotivation at project level
+1339;Decreased efficiency (overall);Decreased efficiency
+1339;Conflicts with the customer;Customer conflicts
+1341;Budget overrun;Budget overrun
+1341;Incomplete requirements;Incomplete requirements
+1341;Effort overrun;Budget overrun
+1341;Poor product quality;Poor product quality
+1343;Overall demotivation;Overall demotivation at project level
+1343;Customer dissatisfaction;Customer dissatisfaction
+1343;Poor requirements quality (general);Poor requirements quality
+1343;Time overrun;Time overrun
+1343;Inefficient development;Decreased efficiency
+1344;Poor product quality;Poor product quality
+1344;Missing traceability;Increased complexity
+1347;Decreased business value;Decreased business value
+1347;Implementation of irrelevant requirements;Decreased efficiency
+1347;Poor requirements quality (general);Poor requirements quality
+1347;Lack of innovation;Lack of innovation
+1347;Missing functionality of product;Poor product quality
+1349;Poor product quality;Poor product quality
+1349;Customer dissatisfaction;Customer dissatisfaction
+1349;Difficulties in project management;Decreased manageability
+1349;Implementation of irrelevant requirements;Decreased efficiency
+1350;Poor product quality;Poor product quality
+1350;Customer dissatisfaction;Customer dissatisfaction
+1350;Inefficient development;Decreased efficiency
+1350;Missing functionality of product;Poor product quality
+1350;Implementation of irrelevant requirements;Decreased efficiency
+1351;Poor requirements quality (general);Poor requirements quality
+1351;Increased communication;Increase in communication problems
+1351;Overall demotivation;Overall demotivation at project level
+1351;Customer dissatisfaction;Customer dissatisfaction
+1352;Customer dissatisfaction;Customer dissatisfaction
+1352;Time overrun;Time overrun
+1352;Budget overrun;Budget overrun
+1353;Rework;Increased complexity
+1353;Effort overrun;Budget overrun
+1353;Effort overrun;Budget overrun
+1353;Conflicts with the customer;Customer conflicts
+1353;Decreased efficiency (overall);Decreased efficiency
+1354;Overall demotivation;Overall demotivation at project level
+1354;Time overrun;Time overrun
+1354;Budget overrun;Budget overrun
+1354;Overall demotivation;Overall demotivation at project level
+1354;Information gets lost;Increased complexity
+1354;Conflicts within the team;Team conflicts
+1355;Customer dissatisfaction;Customer dissatisfaction
+1355;Conflicts within the team;Team conflicts
+1355;Customer dissatisfaction;Customer dissatisfaction
+1355;Customer dissatisfaction;Customer dissatisfaction
+1356;Poor requirements quality (general);Poor requirements quality
+1356;Increased number of failures / bugs;Poor product quality
+1356;Poor communication;Increase in communication problems
+1356;Poor communication;Increase in communication problems
+1357;Time overrun;Time overrun
+1357;Wrong estimates;General overrun of project ressources
+1357;Effort overrun;Budget overrun
+1357;Time overrun;Time overrun
+1357;Inefficient development;Decreased efficiency
+1358;Poor communication;Increase in communication problems
+1358;Incomplete requirements;Incomplete requirements
+1358;Increased difficulty of requirements elicitation;Increased complexity
+1358;Increased number of requirements changes;Increased complexity
+1358;Poor requirements quality (general);Poor requirements quality
+1359;Customer dissatisfaction;Customer dissatisfaction
+1359;Increased number of change requests;Increased complexity
+1359;Poor product quality;Poor product quality
+1360;Poor (system) design quality;Poor product quality
+1360;Poor product quality;Poor product quality
+1360;Increased number of change requests;Increased complexity
+1383;Time overrun;Time overrun
+1402;Difficulties in project management;Decreased manageability
+1402;Poor communication;Increase in communication problems
+1402;Increased number of failures / bugs;Poor product quality
+1402;Increased difficulty of requirements elicitation;Increased complexity
+1402;Difficulties in project management;Decreased manageability
+1403;Conflicts within the team;Team conflicts
+1403;Increased number of change requests;Increased complexity
+1403;Poor product quality;Poor product quality
+1403;Poor requirements quality (general);Poor requirements quality
+1406;Conflicts within the team;Team conflicts
+1406;Validation of requirements becomes difficult;Requirements cannot be validated
+1406;Conflicts within the team;Team conflicts
+1406;Increased number of change requests;Increased complexity
+1406;Effort overrun;Budget overrun
+1411;Poor product quality;Poor product quality
+1411;Difficulties in project management;Decreased manageability
+1411;Poor product quality;Poor product quality
+1411;Incomplete requirements;Incomplete requirements
+1411;Inefficient development;Decreased efficiency
+1413;Missing functionality of product;Poor product quality
+1413;Poor product quality;Poor product quality
+1413;Poor product quality;Poor product quality
+1413;Increased difficulty of requirements elicitation;Increased complexity
+1413;Validation of requirements becomes difficult;Requirements cannot be validated
+1415;Poor product quality;Poor product quality
+1415;Increased difficulty of requirements elicitation;Increased complexity
+1415;Conflicts with the customer;Customer conflicts
+1415;Poor product quality;Poor product quality
+1415;Poor product quality;Poor product quality
+1416;Conflicts within the team;Team conflicts
+1416;Project scope becomes unclear;Increased complexity
+1416;Inefficient development;Decreased efficiency
+1416;Customer dissatisfaction;Customer dissatisfaction
+1416;Time overrun;Time overrun
+1417;Solution becomes more complex;Increased complexity
+1417;Time overrun;Time overrun
+1417;Poor product quality;Poor product quality
+1417;Implementation of irrelevant requirements;Decreased efficiency
+1417;Poor requirements quality (general);Poor requirements quality
+1419;Decreased business value;Decreased business value
+1419;Poor communication;Increase in communication problems
+1419;Inefficient development;Decreased efficiency
+1419;Customer dissatisfaction;Customer dissatisfaction
+1419;Poor requirements quality (general);Poor requirements quality
+1423;Incomplete requirements;Incomplete requirements
+1423;Poor product quality;Poor product quality
+1423;Conflicts within the team;Team conflicts
+1424;Difficulties in project management;Decreased manageability
+1424;Poor requirements quality (general);Poor requirements quality
+1424;Increased difficulty of requirements elicitation;Increased complexity
+1424;Poor communication;Increase in communication problems
+1426;Validation of requirements becomes difficult;Requirements cannot be validated
+1426;Incomplete requirements;Incomplete requirements
+1426;Difficulties in project management;Decreased manageability
+1426;Effort overrun;Budget overrun
+1426;Effort overrun;Budget overrun
+1433;Difficulties in project management;Decreased manageability
+1433;Time overrun;Time overrun
+1433;Missing traceability;Increased complexity
+1433;Increased complexity in RE;Increased complexity
+1433;Poor product quality;Poor product quality
+1435;Time overrun;Time overrun
+1435;Difficulties in project management;Decreased manageability
+1435;Poor product quality;Poor product quality
+1441;Late decision;Time overrun
+1441;Increased number of change requests;Increased complexity
+1441;Inefficient development;Decreased efficiency
+1441;Increased complexity in RE;Increased complexity
+1454;Time overrun;Time overrun
+1454;Project scope becomes unclear;Increased complexity
+1454;Overall demotivation;Overall demotivation at project level
+1454;Decreased user acceptance;Poor product quality
+1455;Inefficient development;Decreased efficiency
+1455;Time overrun;Time overrun
+1455;Increased maintenance costs;Budget overrun
+1457;Rework;Increased complexity
+1457;Decreased user acceptance;Poor product quality
+1457;Increased number of change requests;Increased complexity
+1457;Tests are of low quality;Poor product quality
+1458;Time overrun;Time overrun
+1458;Need for support by a more experienced developer;Increased complexity
+1458;Inefficient development;Decreased efficiency
+1458;Increased difficulty of requirements elicitation;Increased complexity
+1458;Validation of requirements becomes difficult;Requirements cannot be validated
+1459;Rework;Increased complexity
+1459;Decreased manageability;Decreased manageability
+1459;Decreased user acceptance;Poor product quality
+1459;Inefficient development;Decreased efficiency
+1459;Time overrun;Time overrun
+1462;Customer dissatisfaction;Customer dissatisfaction
+1462;Difficulties in project management;Decreased manageability
+1462;Customer dissatisfaction;Customer dissatisfaction
+1462;Missing functionality of product;Poor product quality
+1462;Conflicts with the customer;Customer conflicts
+1466;Overall demotivation;Overall demotivation at project level
+1466;Time overrun;Time overrun
+1466;Poor product quality;Poor product quality
+1466;Poor product quality;Poor product quality
+1466;Poor communication;Increase in communication problems
+1467;Time overrun;Time overrun
+1467;Rework;Increased complexity
+1467;Delayed detection of bugs and failures;Poor product quality
+1467;Effort overrun;Budget overrun
+1467;Inefficient development;Decreased efficiency
+1482;Customer dissatisfaction;Customer dissatisfaction
+1482;Poor product quality;Poor product quality
+1482;Inefficient development;Decreased efficiency
+1482;Inefficient development;Decreased efficiency
+1482;Poor requirements quality (general);Poor requirements quality
+1483;Effort overrun;Budget overrun
+1483;Project scope becomes unclear;Increased complexity
+1483;Inefficient development;Decreased efficiency
+1484;Increased difficulty of requirements elicitation;Increased complexity
+1485;Difficulties in project management;Decreased manageability
+1485;Poor requirements quality (general);Poor requirements quality
+1486;Budget overrun;Budget overrun
+1486;Poor requirements quality (general);Poor requirements quality
+1486;Inefficient development;Decreased efficiency
+1486;Solution becomes more complex;Increased complexity
+1486;Lack of innovation;Lack of innovation
+1526;Rework;Increased complexity
+1526;Effort overrun;Budget overrun
+1526;Effort overrun;Budget overrun
+1526;Inefficient development;Decreased efficiency
+1542;Validation of requirements becomes difficult;Requirements cannot be validated
+1542;Customer dissatisfaction;Customer dissatisfaction
+1542;Inefficient development;Decreased efficiency
+1542;Conflicts within the team;Team conflicts
+1542;Need for support by a more experienced developer;Increased complexity
+1560;Time overrun;Time overrun
+1560;Customer dissatisfaction;Customer dissatisfaction
+1560;Inefficient development;Decreased efficiency
+1560;Poor requirements quality (general);Poor requirements quality
+1560;Poor (system) design quality;Poor product quality
+1617;Conflicts within the team;Team conflicts
+1617;Inefficient development;Decreased efficiency
+1617;Poor product quality;Poor product quality
+1617;Increased difficulty of requirements elicitation;Increased complexity
+1617;Decreased user acceptance;Poor product quality
+1620;Poor product quality;Poor product quality
+1620;Budget overrun;Budget overrun
+1620;Customer dissatisfaction;Customer dissatisfaction
+1620;Difficulties in project management;Decreased manageability
+1621;Poor product quality;Poor product quality
+1621;Poor product quality;Poor product quality
+1621;Increased difficulty of requirements elicitation;Increased complexity
+1621;Poor requirements quality (general);Poor requirements quality
+1621;Difficulties in project management;Decreased manageability
+1624;Poor documentation of requirements;Poor requirements quality
+1624;Customer dissatisfaction;Customer dissatisfaction
+1624;Lack of innovation;Lack of innovation
+1650;Time overrun;Time overrun
+1650;Decreased user acceptance;Poor product quality
+1650;Less time left for RE;Time overrun
+1650;Difficulties in project management;Decreased manageability
+1650;Time overrun;Time overrun
+1651;Time overrun;Time overrun
+1651;Conflicts within the team;Team conflicts
+1651;Project scope becomes unclear;Increased complexity
+1651;Misunderstanding (overall);Increase in communication problems
+1651;Time overrun;Time overrun
+1663;Difficulties in project management;Decreased manageability
+1663;Inefficient development;Decreased efficiency
+1663;Decreased efficiency (overall);Decreased efficiency
+1663;Difficulties in project management;Decreased manageability
+1668;Increased difficulty of requirements elicitation;Increased complexity
+1668;Poor requirements quality (general);Poor requirements quality
+1668;Poor requirements quality (general);Poor requirements quality
+1668;Incomplete requirements;Incomplete requirements
+1668;Increased difficulty of requirements elicitation;Increased complexity
+1669;Customer dissatisfaction;Customer dissatisfaction
+1669;Poor documentation of requirements;Poor requirements quality
+1669;Difficulties in project management;Decreased manageability
+1669;Difficulties in project management;Decreased manageability
+1669;Poor product quality;Poor product quality
+1670;Increased difficulty of requirements elicitation;Increased complexity
+1670;Increased difficulty of requirements elicitation;Increased complexity
+1670;Poor requirements quality (general);Poor requirements quality
+1670;Poor requirements quality (general);Poor requirements quality
+1670;Incomplete requirements;Incomplete requirements
+1675;Increased difficulty of requirements elicitation;Increased complexity
+1675;Increased maintenance costs;Budget overrun
+1675;Missing functionality of product;Poor product quality
+1675;Customer dissatisfaction;Customer dissatisfaction
+1675;Conflicts within the team;Team conflicts
+1676;Time overrun;Time overrun
+1676;Decreased efficiency (overall);Decreased efficiency
+1676;Inefficient development;Decreased efficiency
+1676;Difficulties in project management;Decreased manageability
+1676;Time overrun;Time overrun
+1690;Difficulties in project management;Decreased manageability
+1690;Difficulties in project management;Decreased manageability
+1690;Poor requirements quality (general);Poor requirements quality
+1690;Inefficient development;Decreased efficiency
+1690;Customer dissatisfaction;Customer dissatisfaction
+1695;Effort overrun;Budget overrun
+1695;Budget overrun;Budget overrun
+1695;Poor product quality;Poor product quality
+1695;Poor product quality;Poor product quality
+1695;Inefficient development;Decreased efficiency
+1695;Poor product quality;Poor product quality
+1697;Delayed detection of bugs and failures;Poor product quality
+1697;Time overrun;Time overrun
+1697;Inefficient development;Decreased efficiency
+1697;Increased maintenance costs;Budget overrun
+1698;Need for support by a more experienced developer;Increased complexity
+1698;Difficulties in project management;Decreased manageability
+1698;Solution becomes more complex;Increased complexity
+1698;Increased complexity in RE;Increased complexity
+1698;Poor communication;Increase in communication problems
+1703;Missing functionality of product;Poor product quality
+1703;Difficulties in project management;Decreased manageability
+1703;Poor communication;Increase in communication problems
+1703;Poor product quality;Poor product quality
+1703;Difficulties in project management;Decreased manageability
+1705;Increased difficulty of requirements elicitation;Increased complexity
+1705;Poor requirements quality (general);Poor requirements quality
+1705;Customer dissatisfaction;Customer dissatisfaction
+1705;Poor product quality;Poor product quality
+1705;Inefficient development;Decreased efficiency
+1717;Budget overrun;Budget overrun
+1717;Difficulties in project management;Decreased manageability
+1717;Inefficient development;Decreased efficiency
+1717;Poor product quality;Poor product quality
+1718;Customer dissatisfaction;Customer dissatisfaction
+1718;Effort overrun;Budget overrun
+1718;Conflicts within the team;Team conflicts
+1718;Poor product quality;Poor product quality
+1718;Decreased test efficiency;Decreased efficiency
+1723;Decreased manageability;Decreased manageability
+1723;Customer dissatisfaction;Customer dissatisfaction
+1723;Poor product quality;Poor product quality
+1727;Inefficient development;Decreased efficiency
+1727;Difficulties in project management;Decreased manageability
+1727;Poor communication;Increase in communication problems
+1727;Poor communication;Increase in communication problems
+1727;Wrong sizing of hardware;Poor product quality
+1733;Time overrun;Time overrun
+1733;Customer dissatisfaction;Customer dissatisfaction
+1733;Inefficient development;Decreased efficiency
+1733;Time overrun;Time overrun
+1733;Time overrun;Time overrun
+1741;Wrong estimates;General overrun of project ressources
+1741;Project scope becomes unclear;Increased complexity
+1741;Inefficient development;Decreased efficiency
+1741;Customer dissatisfaction;Customer dissatisfaction
+1741;Increased difficulty of requirements elicitation;Increased complexity
+1742;Misunderstanding (overall);Increase in communication problems
+1742;Validation of requirements becomes difficult;Requirements cannot be validated
+1742;Increased difficulty of requirements elicitation;Increased complexity
+1742;Inefficient development;Decreased efficiency
+1742;Budget overrun;Budget overrun
+1744;Inefficient development;Decreased efficiency
+1753;Misunderstanding (overall);Increase in communication problems
+1753;Time overrun;Time overrun
+1753;Conflicts with the customer;Customer conflicts
+1753;Customer dissatisfaction;Customer dissatisfaction
+1753;Incomplete requirements;Incomplete requirements
+1756;Solution becomes difficult to maintain;Increased complexity
+1756;Difficulties in project management;Decreased manageability
+1756;Increased difficulty of requirements elicitation;Increased complexity
+1756;Increased communication;Increase in communication problems
+1759;Inefficient development;Decreased efficiency
+1759;Poor documentation of requirements;Poor requirements quality
+1759;Implementation of irrelevant requirements;Decreased efficiency
+1759;Poor (system) design quality;Poor product quality
+1759;Incomplete requirements;Incomplete requirements
+1761;Increased communication;Increase in communication problems
+1761;Overall demotivation;Overall demotivation at project level
+1761;Difficulties in project management;Decreased manageability
+1762;Conflicts within the team;Team conflicts
+1762;Difficulties in project management;Decreased manageability
+1763;Wrong estimates;General overrun of project ressources
+1763;Poor product quality;Poor product quality
+1763;Difficulties in project management;Decreased manageability
+1763;Poor product quality;Poor product quality
+1804;Inefficient development;Decreased efficiency
+1804;Difficulties in project management;Decreased manageability
+1804;Budget overrun;Budget overrun
+1804;Time overrun;Time overrun
+1804;Missing traceability;Increased complexity
+1804;Effort overrun;Budget overrun
+1805;Difficulties in project management;Decreased manageability
+1805;Inefficient development;Decreased efficiency
+1805;Poor product quality;Poor product quality
+1805;Overall demotivation;Overall demotivation at project level
+1805;Increased difficulty of impact analyses;Increased complexity
+1810;Overall demotivation;Overall demotivation at project level
+1810;Conflicts within the team;Team conflicts
+1810;Misunderstanding (overall);Increase in communication problems
+1810;Increased difficulty of requirements elicitation;Increased complexity
+1810;Inefficient development;Decreased efficiency
+1812;Decreased user acceptance;Poor product quality
+1812;Inefficient development;Decreased efficiency
+1812;Rework;Increased complexity
+1812;Customer dissatisfaction;Customer dissatisfaction
+1812;Budget overrun;Budget overrun
+1820;Effort overrun;Budget overrun
+1820;Difficulties in project management;Decreased manageability
+1820;Budget overrun;Budget overrun
+1820;Difficulties in project management;Decreased manageability
+1828;Poor (system) design quality;Poor product quality
+1828;Inefficient development;Decreased efficiency
+1828;Increased difficulty of requirements elicitation;Increased complexity
+1828;Time overrun;Time overrun
+1828;Poor (system) design quality;Poor product quality
+1831;Poor communication;Increase in communication problems
+1831;Misunderstanding (overall);Increase in communication problems
+1840;Time overrun;Time overrun
+1840;Increased maintenance costs;Budget overrun
+1840;Conflicts within the team;Team conflicts
+1842;Customer dissatisfaction;Customer dissatisfaction
+1842;Poor product quality;Poor product quality
+1842;Customer dissatisfaction;Customer dissatisfaction
+1842;Untestable requirements;Requirements cannot be validated
+1842;Customer dissatisfaction;Customer dissatisfaction
+1844;Increased complexity in RE;Increased complexity
+1844;Misunderstanding (overall);Increase in communication problems
+1844;Decreased manageability;Decreased manageability
+1844;Difficulties in project management;Decreased manageability
+1844;Poor product quality;Poor product quality
+1849;Difficulties in project management;Decreased manageability
+1849;Increased maintenance costs;Budget overrun
+1849;Customer dissatisfaction;Customer dissatisfaction
+1849;Incomplete requirements;Incomplete requirements
+1849;Implementation of irrelevant requirements;Decreased efficiency
+1894;Poor product quality;Poor product quality
+1894;Poor requirements quality (general);Poor requirements quality
+1894;Time overrun;Time overrun
+1894;Increased maintenance costs;Budget overrun
+1894;Decreased efficiency (overall);Decreased efficiency
+1896;Poor requirements quality (general);Poor requirements quality
+1896;Increased difficulty of requirements elicitation;Increased complexity
+1896;Customer dissatisfaction;Customer dissatisfaction
+1896;Implementation of irrelevant requirements;Decreased efficiency
+1896;Time overrun;Time overrun
+1909;Difficulties in project management;Decreased manageability
+1909;Overall demotivation;Overall demotivation at project level
+1909;Overall demotivation;Overall demotivation at project level
+1909;Overall demotivation;Overall demotivation at project level
+1909;Difficulties in project management;Decreased manageability
+1911;Effort overrun;Budget overrun
+1911;Difficulties in project management;Decreased manageability
+1911;Customer dissatisfaction;Customer dissatisfaction
+1911;Budget overrun;Budget overrun
+1911;Difficulties in project management;Decreased manageability
+1917;Difficulties in project management;Decreased manageability
+1917;Difficulties in project management;Decreased manageability
+1918;Difficulties in project management;Decreased manageability
+1918;Difficulties in project management;Decreased manageability
+1918;Inefficient development;Decreased efficiency
+1918;Poor product quality;Poor product quality
+1918;Conflicts within the team;Team conflicts
+1923;Poor requirements quality (general);Poor requirements quality
+1923;Poor (system) design quality;Poor product quality
+1923;Inefficient development;Decreased efficiency
+1923;Time overrun;Time overrun
+1929;Poor product quality;Poor product quality
+1931;Validation of requirements becomes difficult;Requirements cannot be validated
+1931;Effort overrun;Budget overrun
+1932;Inefficient development;Decreased efficiency
+1932;Inefficient development;Decreased efficiency
+1932;Effort overrun;Budget overrun
+1933;Inefficient development;Decreased efficiency
+1933;Implementation of irrelevant requirements;Decreased efficiency
+1933;Inefficient development;Decreased efficiency
+1933;Customer dissatisfaction;Customer dissatisfaction
+1933;Solution becomes more complex;Increased complexity
+1941;Overall demotivation;Overall demotivation at project level
+1941;Effort overrun;Budget overrun
+1941;Poor requirements quality (general);Poor requirements quality
+1941;Poor product quality;Poor product quality
+1961;Time overrun;Time overrun
+1961;Difficulties in project management;Decreased manageability
+1961;Inefficient development;Decreased efficiency
+1961;Time overrun;Time overrun
+1962;Poor product quality;Poor product quality
+1962;Effort overrun;Budget overrun
+1962;Increased number of failures / bugs;Poor product quality
+1962;Lack of innovation;Lack of innovation
+1962;Time overrun;Time overrun
+1965;Effort overrun;Budget overrun
+1965;Poor product quality;Poor product quality
+1965;Overall demotivation;Overall demotivation at project level
+1965;Effort overrun;Budget overrun
+1965;Effort overrun;Budget overrun
+1965;Decreased test efficiency;Decreased efficiency
+1965;Difficulties in project management;Decreased manageability
+1969;Customer dissatisfaction;Customer dissatisfaction
+1969;Time overrun;Time overrun
+1969;Poor requirements quality (general);Poor requirements quality
+1969;Implementation of irrelevant requirements;Decreased efficiency
+1969;Implementation of irrelevant requirements;Decreased efficiency
