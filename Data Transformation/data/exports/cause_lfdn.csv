@@ -1,1552 +1,1552 @@
-lfdn;tag;converted
-30.0;Process doesn't allow for innovation;Insufficient development process
-30.0;Lack of requirements management;Lack of management
-41.0;Lack of discipline;Human factors
-41.0;Lack of requirements management;Lack of management
-41.0;Missing knowledge about development framework;Lack of knowledge
-41.0;Lack of time;Lack of management
-41.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-48.0;Subjective interpretations;Human factors
-48.0;Requirements remain too abstract;Process execution defects
-48.0;Lack of experience of RE team members;Lack of knowledge
-48.0;Lack of trust;Human factors
-48.0;Communication flaws between the project and the customer;Communication problems
-48.0;Poor project management;Lack of management
-58.0;Lack of trust;Human factors
-58.0;Lack of trust;Human factors
-58.0;Customer does not know what he wants;Lack of knowledge
-58.0;Poor project management;Lack of management
-58.0;Missing RE awareness at customer side;Lack of RE awareness
-58.0;Unclear business needs;Lack of common understanding about goals
-76.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-76.0;Solution orientation;Insufficient development process
-76.0;Unclear terminology;Communication problems
-76.0;Poor project management;Lack of management
-81.0;Too high team distribution;Lack of management
-81.0;Lack of time;Lack of management
-81.0;Missing IT project experience at customer side;Lack of knowledge
-81.0;Missing of a global view of the system;Lack of knowledge
-81.0;Language barriers;Communication problems
-82.0;Lack of requirements management;Lack of management
-91.0;Too high team distribution;Lack of management
-91.0;Lack of time;Lack of management
-91.0;Customer does not know what he wants;Lack of knowledge
-93.0;Missing of a global view of the system;Lack of knowledge
-93.0;Unclear business needs;Lack of common understanding about goals
-93.0;Lack of a well-defined RE process;Insufficient development process
-93.0;Lack of experience of RE team members;Lack of knowledge
-97.0;High cost;Lack of management
-97.0;Missing RE awareness at team side;Lack of RE awareness
-97.0;Unclear terminology;Communication problems
-97.0;Missing company wide standard;Insufficient development process
-106.0;Workload of customer;Lack of involvement from the customer
-106.0;Lack of a well-defined RE process;Insufficient development process
-106.0;Missing access to business needs;Lack of knowledge
-106.0;Lack of time;Lack of management
-106.0;High complexity in overall project setting;High complexity of projects
-114.0;Requirements remain too abstract;Process execution defects
-114.0;Missing requirements specification template;Process execution defects
-118.0;Poor project management;Lack of management
-119.0;Poor requirements elicitation techniques;Insufficient development process
-119.0;Missing technical knowledge;Lack of knowledge
-119.0;Missing customer involvement;Lack of involvement from the customer
-119.0;Missing knowledge about development framework;Lack of knowledge
-119.0;Lack of a well-defined RE process;Insufficient development process
-120.0;Too high team distribution;Lack of management
-120.0;Solution orientation;Insufficient development process
-120.0;Lack of training;Lack of knowledge
-120.0;Customer does not know what he wants;Lack of knowledge
-120.0;Inappropriate definition of contract;Lack of management
-126.0;Missing knowledge about development framework;Lack of knowledge
-126.0;Missing knowledge about development framework;Lack of knowledge
-126.0;Lack of experience of RE team members;Lack of knowledge
-126.0;Complexity of domain;High complexity of projects
-126.0;Lack of experience of RE team members;Lack of knowledge
-126.0;High cost;Lack of management
-129.0;Incomplete requirements;Lack of knowledge
-129.0;Unclear terminology;Communication problems
-129.0;Lack of time;Lack of management
-129.0;Lack of teamwork skills;Lack of knowledge
-129.0;Non-functional requirements unclear;Process execution defects
-141.0;Missing direct communication to customer;Communication problems
-141.0;Changing business needs;Moving targets
-141.0;Communication flaws between team and customer;Communication problems
-144.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-144.0;Lack of project management;Lack of management
-144.0;Insufficient resources;Lack of management
-144.0;Missing concentration on business needs;Lack of involvement within the team
-144.0;Missing technical knowledge;Lack of knowledge
-146.0;Unavailability of requirements engineer;Lack of engagement
-146.0;Lack of communication channels;Lack of communication channels
-146.0;Communication flaws between team and customer;Communication problems
-146.0;Missing customer involvement;Lack of involvement from the customer
-147.0;Poor project management;Lack of management
-147.0;Poor requirements elicitation techniques;Insufficient development process
-147.0;Unclear business needs;Lack of common understanding about goals
-147.0;Complexity of project;High complexity of projects
-147.0;Unclear roles and responsonsibilities at customer side;Lack of management
-149.0;Missing direct communication to customer;Communication problems
-149.0;Lack of time;Lack of management
-149.0;Miscommunication between RE team;Communication problems
-149.0;Poor project management;Lack of management
-149.0;Solution orientration;Process execution defects
-150.0;Communication flaws between team and customer;Communication problems
-150.0;Conflicts of personalities;Human factors
-150.0;Incomplete requirements;Lack of knowledge
-150.0;Missing completeness check of requirements;Process execution defects
-150.0;Lack of experience of RE team members;Lack of knowledge
-160.0;Lack of a well-defined RE process;Insufficient development process
-160.0;Missing customer involvement;Lack of involvement from the customer
-160.0;Communication flaws between team and customer;Communication problems
-160.0;High cost;Lack of management
-163.0;Conflicts of personalities;Human factors
-163.0;Lack of experience of RE team members;Lack of knowledge
-163.0;Missing IT project experience at customer side;Lack of knowledge
-163.0;Lack of a well-defined RE process;Insufficient development process
-163.0;Lack of leadership;Lack of management
-165.0;Insufficient agility;Lack of common understanding about goals
-165.0;Lack of experience of RE team members;Lack of knowledge
-165.0;Poor requirements elicitation techniques;Insufficient development process
-165.0;Poor requirements elicitation techniques;Insufficient development process
-165.0;Lack of project management;Lack of management
-167.0;Lack of leadership;Lack of management
-167.0;Lack of communication channels;Lack of communication channels
-167.0;Lack of experience of RE team members;Lack of knowledge
-167.0;Lack of leadership;Lack of management
-167.0;Lack of experience of RE team members;Lack of knowledge
-168.0;Unclear business needs;Lack of common understanding about goals
-168.0;Complexity of project;High complexity of projects
-168.0;Lack of experience of RE team members;Lack of knowledge
-168.0;SE Team refrains from asking questions;Communication problems
-168.0;Complexity of project;High complexity of projects
-170.0;Missing communication to customer side;Communication problems
-170.0;Incomplete requirements;Lack of knowledge
-170.0;Missing documentation;Process execution defects
-170.0;Volatile requirements;Moving targets
-170.0;Poor project management;Lack of management
-178.0;Missing direct communication to customer;Communication problems
-178.0;Documentation overhead;Process execution defects
-179.0;Insufficient information;Lack of knowledge
-179.0;Missing customer involvement;Lack of involvement from the customer
-179.0;Lack of communication channels;Lack of communication channels
-179.0;Language barriers;Communication problems
-179.0;Customer does not know what he wants;Lack of knowledge
-182.0;Lack of a well-defined RE process;Insufficient development process
-182.0;Poor project management;Lack of management
-182.0;Non functional requirements unclear;Process execution defects
-182.0;Volatile requirements;Moving targets
-188.0;Unclear business needs;Lack of common understanding about goals
-188.0;Missing technical knowledge;Lack of knowledge
-188.0;Volatile industry segment that leads to changes;Changing project characteristics
-188.0;Lack of communication channels;Lack of communication channels
-188.0;Lack of creativity;Lack of creativity
-199.0;Poor project management;Lack of management
-199.0;Poor project management;Lack of management
-199.0;Lack of requirements management;Lack of management
-199.0;Insufficient analysis at the beginning of the project;Process execution defects
-199.0;Missing involvement of developers;Lack of involvement within the team
-203.0;Poor project management;Lack of management
-203.0;Subjective interpretations;Human factors
-205.0;Weak qualification of stakeholders;Lack of knowledge
-205.0;Lack of project management;Lack of management
-205.0;Missing concentration on business needs;Lack of involvement within the team
-208.0;Lack of creativity;Lack of creativity
-208.0;Thinking in legacy systems;Lack of common understanding about goals
-208.0;Customer does not formally approve the requirements;Process execution defects
-208.0;Conflict of interests at customer side;Lack of common understanding about goals
-208.0;Lack of time;Lack of management
-210.0;Poor requirements elicitation techniques;Insufficient development process
-210.0;Lack of experience of RE team members;Lack of knowledge
-210.0;Lack of time;Lack of management
-213.0;Missing solution approach;Insufficient development process
-213.0;Insufficient collaboration in process;Process execution defects
-213.0;Lack of time;Lack of management
-213.0;Unclear terminology;Communication problems
-213.0;Not following the communication plan;Process execution defects
-213.0;Requirements remain too abstract;Process execution defects
-215.0;Non-functional requirements unclear;Process execution defects
-215.0;Pressure to not exceed priminarily defined resources;Lack of management
-215.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-215.0;Too high team distribution;Lack of management
-217.0;Missing domain knowledge;Lack of knowledge
-217.0;Lack of teamwork skills;Lack of knowledge
-217.0;Communication flaws between team and customer;Communication problems
-217.0;Missing domain knowledge;Lack of knowledge
-217.0;Lack of time;Lack of management
-230.0;Missing domain knowledge;Lack of knowledge
-230.0;Unclear terminology;Communication problems
-230.0;Lack of requirements management;Lack of management
-230.0;High quality expectation of customer;Lack of common understanding about goals
-230.0;Lack of a well-defined RE process;Insufficient development process
-231.0;Lack of experience of RE team members;Lack of knowledge
-231.0;Lack of experience of RE team members;Lack of knowledge
-231.0;Lack of experience of RE team members;Lack of knowledge
-231.0;Lack of experience of RE team members;Lack of knowledge
-231.0;Lack of experience of RE team members;Lack of knowledge
-239.0;Lack of experience of RE team members;Lack of knowledge
-239.0;Insufficient analysis at the beginning of the project;Process execution defects
-239.0;Missing customer involvement;Lack of involvement from the customer
-249.0;Lack of discipline;Human factors
-249.0;Missing domain knowledge;Lack of knowledge
-249.0;Changing business needs;Moving targets
-249.0;Unclear roles and responsonsibilities at customer side;Lack of management
-249.0;Conflict of personalities;Human factors
-258.0;Unclear business needs;Lack of common understanding about goals
-258.0;Lack of time;Lack of management
-259.0;Poor requirements elicitation techniques;Insufficient development process
-259.0;Demotivation;Human factors
-259.0;Demotivation;Human factors
-259.0;Complexity of project;High complexity of projects
-259.0;Missing domain knowledge;Lack of knowledge
-259.0;Insufficient analysis at the beginning of the project;Process execution defects
-263.0;Lack of time;Lack of management
-263.0;Missing willingless to change;Human factors
-263.0;Complexity of project;High complexity of projects
-263.0;Complexity of project;High complexity of projects
-263.0;Poor project management;Lack of management
-267.0;Not following the communication plan;Process execution defects
-267.0;Poor project management;Lack of management
-267.0;Lack of time;Lack of management
-267.0;Lack of time;Lack of management
-267.0;Miscommunication between RE team;Communication problems
-268.0;Poor documentation;Process execution defects
-268.0;Missing requirements specification template;Process execution defects
-268.0;Customer does not know what he wants;Lack of knowledge
-268.0;Lack of project management;Lack of management
-268.0;Lack of time;Lack of management
-278.0;Lack of trust;Human factors
-278.0;Lack of leadership;Lack of management
-278.0;Insufficient collaboration in process;Process execution defects
-278.0;Lack of leadership;Lack of management
-278.0;Lack of trust;Human factors
-283.0;Subjective interpretations;Human factors
-283.0;Lack of experience of RE team members;Lack of knowledge
-283.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-283.0;Subjective interpretations;Human factors
-291.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-291.0;High complexity in overall project setting;High complexity of projects
-291.0;Communication flaws between team and customer;Communication problems
-295.0;Weak management at customer side;Lack of management
-295.0;Volatile industry segment that leads to changes;Changing project characteristics
-295.0;Weak management at customer side;Lack of management
-295.0;Lack of project management;Lack of management
-297.0;Missing RE awareness at team side;Lack of RE awareness
-297.0;Missing tool support;Insufficient development process
-297.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-297.0;Communication flaws between team and customer;Communication problems
-297.0;Poor project management;Lack of management
-304.0;Team fluctuation;Changing project characteristics
-304.0;Unclear terminology;Communication problems
-304.0;Insufficient agility;Lack of common understanding about goals
-304.0;Team fluctuation;Changing project characteristics
-304.0;Many customers;Lack of management
-304.0;Strict time schedule by customer;Lack of management
-310.0;Lack of time;Lack of management
-310.0;Conflict of interests at customer side;Lack of common understanding about goals
-310.0;Complexity of domain;High complexity of projects
-310.0;Customer does not know what he wants;Lack of knowledge
-313.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-313.0;Strict time schedule by customer;Lack of management
-313.0;Subjective interpretations;Human factors
-313.0;Lack of time;Lack of management
-313.0;Missing prioritization by customer;Process execution defects
-317.0;Lack of time;Lack of management
-330.0;Weak qualification of RE team members;Lack of knowledge
-330.0;Missing customer involvement;Lack of involvement from the customer
-330.0;Many customers;Lack of management
-330.0;Unclear roles and responsibilities at customer side;Lack of management
-330.0;Missing customer involvement;Lack of involvement from the customer
-332.0;Lack of a well-defined RE process;Insufficient development process
-341.0;Unclear terminology;Communication problems
-341.0;Volatile requirements;Moving targets
-355.0;Lack of experience of RE team members;Lack of knowledge
-355.0;Insufficient team size;Lack of management
-355.0;Insufficient team size;Lack of management
-355.0;Complexity of project;High complexity of projects
-359.0;Missing engagement by customer;Lack of engagement
-359.0;Conflict of interests at customer side;Lack of common understanding about goals
-359.0;Lack of time;Lack of management
-359.0;Not following the communication plan;Process execution defects
-359.0;Missing domain knowledge;Lack of knowledge
-364.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-364.0;Incomplete requirements;Lack of knowledge
-364.0;Conflict of interests at management level;Lack of common understanding about goals
-364.0;Unclear project scope;Lack of management
-364.0;Poor project management;Lack of management
-365.0;Changing business needs;Moving targets
-365.0;Missing customer involvement;Lack of involvement from the customer
-370.0;Lack of change management at customer side;Lack of management
-370.0;Missing domain knowledge;Lack of knowledge
-370.0;Strict time schedule by customer;Lack of management
-370.0;Missing of a global view of the system;Lack of knowledge
-372.0;Unclear business needs;Lack of common understanding about goals
-377.0;Too high team distribution;Lack of management
-377.0;Missing customer involvement;Lack of involvement from the customer
-377.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-377.0;Lack of requirements management;Lack of management
-377.0;Weak qualification of stakeholders;Lack of knowledge
-378.0;Lack of experience of RE team members;Lack of knowledge
-378.0;Missing documentation;Process execution defects
-378.0;Missing customer involvement;Lack of involvement from the customer
-378.0;Gold plating;Process execution defects
-378.0;Missing documentation;Process execution defects
-384.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-384.0;Gold plating;Process execution defects
-384.0;Lack of requirements management;Lack of management
-384.0;Thinking in legacy systems;Lack of common understanding about goals
-384.0;Insufficient requirements;Process execution defects
-387.0;Complexity of RE;High complexity of projects
-387.0;Solution orientation;Insufficient development process
-387.0;Volatile industry segment that leads to changes;Changing project characteristics
-387.0;Missing tool support;Insufficient development process
-387.0;Poor project management;Lack of management
-393.0;Communication flaws between team and customer;Communication problems
-393.0;Complexity of project;High complexity of projects
-393.0;Lack of a well-defined RE process;Insufficient development process
-393.0;Poor project management;Lack of management
-393.0;Complexity of project;High complexity of projects
-416.0;Lack of requirements management;Lack of management
-416.0;Insufficient resources;Lack of management
-416.0;Insufficient team size;Lack of management
-416.0;Unavailability of requirements engineer;Lack of engagement
-416.0;Lack of training;Lack of knowledge
-420.0;Missing concentration on business needs;Lack of involvement within the team
-420.0;Non-functional requirements unclear;Process execution defects
-420.0;Weak qualification of stakeholders;Lack of knowledge
-425.0;Customer does not know what he wants;Lack of knowledge
-425.0;Customer does not know what he wants;Lack of knowledge
-425.0;Poor project management;Lack of management
-425.0;Poor project management;Lack of management
-427.0;Missing customer involvement;Lack of involvement from the customer
-427.0;Poor project management;Lack of management
-427.0;Lack of time;Lack of management
-427.0;Incomplete requirements;Lack of knowledge
-427.0;Missing customer involvement;Lack of involvement from the customer
-437.0;Lack of experience of RE team members;Lack of knowledge
-437.0;Lack of a well-defined RE process;Insufficient development process
-437.0;Volatile industry segment that leads to changes;Changing project characteristics
-437.0;Missing customer involvement;Lack of involvement from the customer
-442.0;Volatile industry segment that leads to changes;Changing project characteristics
-442.0;Poor project management;Lack of management
-442.0;Missing knowledge about development framework;Lack of knowledge
-444.0;Poor documentation;Process execution defects
-444.0;Poor requirements elicitation techniques;Insufficient development process
-444.0;Pressure to not exceed priminarily defined resources;Lack of management
-444.0;Missing prioritization by customer;Process execution defects
-444.0;Lack of time;Lack of management
-444.0;Missing documentation;Process execution defects
-446.0;Demotivation;Human factors
-446.0;Lack of interest about customers domain;Human factors
-446.0;Incomplete requirements;Lack of knowledge
-446.0;Lack of requirements management;Lack of management
-446.0;Demotivation;Human factors
-453.0;Lack of experience of RE team members;Lack of knowledge
-453.0;Lack of change management at customer side;Lack of management
-453.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-453.0;Missing customer involvement;Lack of involvement from the customer
-453.0;Lack of time;Lack of management
-461.0;Insufficient information;Lack of knowledge
-461.0;Lack of time;Lack of management
-461.0;Missing technical knowledge;Lack of knowledge
-461.0;Lack of time;Lack of management
-461.0;Poor project management;Lack of management
-467.0;Lack of communication channels;Lack of communication channels
-467.0;Missing completeness check of requirements;Process execution defects
-467.0;Lack of experience of RE team members;Lack of knowledge
-467.0;Unexpected changes in requirements;Moving targets
-467.0;Poor project management;Lack of management
-468.0;Unclear business needs;Lack of common understanding about goals
-468.0;Demotivation;Human factors
-468.0;Missing technical knowledge;Lack of knowledge
-468.0;Missing knowledge transfer;Lack of knowledge
-468.0;Missing customer involvement;Lack of involvement from the customer
-479.0;Insufficient collaboration in process;Process execution defects
-479.0;Unclear terminology;Communication problems
-479.0;Insufficient agility;Lack of common understanding about goals
-479.0;Lack of interest about customers domain;Human factors
-482.0;Lack of teamwork skills;Lack of knowledge
-482.0;Incomplete requirements;Lack of knowledge
-482.0;Missing requirements specification template;Process execution defects
-482.0;Requirements remain too abstract;Process execution defects
-485.0;Missing domain knowledge;Lack of knowledge
-485.0;Lack of time;Lack of management
-485.0;Miscommunication between RE team;Communication problems
-485.0;Lack of a well-defined RE process;Insufficient development process
-485.0;Lack of a well-defined RE process;Insufficient development process
-489.0;Lack of time;Lack of management
-489.0;Lack of time;Lack of management
-489.0;Lack of time;Lack of management
-502.0;Lack of requirements management;Lack of management
-506.0;Poor requirements elicitation techniques;Insufficient development process
-506.0;Poor requirements elicitation techniques;Insufficient development process
-511.0;Volatile industry segment that leads to changes;Changing project characteristics
-511.0;Missing customer involvement;Lack of involvement from the customer
-511.0;Lack of time;Lack of management
-511.0;Weak management at customer side;Lack of management
-512.0;Missing concentration on business needs;Lack of involvement within the team
-512.0;Weak qualification of stakeholders;Lack of knowledge
-512.0;Lack of teamwork skills;Lack of knowledge
-512.0;Missing direct communication to customer;Communication problems
-518.0;Lack of discipline;Human factors
-518.0;Not following the communication plan;Process execution defects
-518.0;Customer does not know what he wants;Lack of knowledge
-518.0;Lack of time;Lack of management
-523.0;Poor documentation;Process execution defects
-523.0;Insufficient team size;Lack of management
-523.0;Communication flaws between team and customer;Communication problems
-523.0;Unavailability of requirements engineer;Lack of engagement
-523.0;Weak qualification of RE team members;Lack of knowledge
-524.0;Lack of communication channels;Lack of communication channels
-524.0;Incomplete requirements;Lack of knowledge
-524.0;Missing check of requirements;Process execution defects
-524.0;Lack of a well-defined RE process;Insufficient development process
-524.0;Missing customer involvement;Lack of involvement from the customer
-525.0;Poor project management;Lack of management
-525.0;High quality expectation of customer;Lack of common understanding about goals
-525.0;Incomplete requirements;Lack of knowledge
-525.0;Missing willingless to change;Human factors
-525.0;Lack of communication channels;Lack of communication channels
-534.0;Stakeholder fluctuation;Changing project characteristics
-534.0;Lack of time;Lack of management
-534.0;Missing direct communication to customer;Communication problems
-534.0;Lack of teamwork skills;Lack of knowledge
-541.0;Lack of requirements management;Lack of management
-545.0;Lack of discipline;Human factors
-545.0;Lack of experience of RE team members;Lack of knowledge
-545.0;Lack of time;Lack of management
-545.0;Policy restrictions;High complexity of projects
-545.0;Lack of time;Lack of management
-549.0;Poor project management;Lack of management
-549.0;Unclear roles and responsonsibilities at customer side;Lack of management
-549.0;Many customers;Lack of management
-549.0;Incomplete requirements;Lack of knowledge
-549.0;Customer does not know what he wants;Lack of knowledge
-549.0;Missing completeness check of requirements;Process execution defects
-570.0;Language barriers;Communication problems
-570.0;Lack of a well-defined RE process;Insufficient development process
-570.0;Unclear terminology;Communication problems
-570.0;Insufficient resource plan;Lack of management
-570.0;Lack of experience of RE team members;Lack of knowledge
-572.0;Missing company wide standard;Insufficient development process
-572.0;Lack of requirements management;Lack of management
-572.0;Missing concentration on business needs;Lack of involvement within the team
-572.0;Lack of a well-defined RE process;Insufficient development process
-573.0;Lack of leadership;Lack of management
-573.0;Missing domain knowledge;Lack of knowledge
-573.0;Weak qualification of RE team members;Lack of knowledge
-573.0;Unclear business needs;Lack of common understanding about goals
-586.0;Communication flaws between team and customer;Communication problems
-586.0;Communication flaws between team and customer;Communication problems
-586.0;Complexity of project;High complexity of projects
-586.0;Lack of a well-defined RE process;Insufficient development process
-586.0;Unclear terminology;Communication problems
-626.0;Missing domain knowledge;Lack of knowledge
-626.0;Lack of requirements management;Lack of management
-626.0;Unclear business needs;Lack of common understanding about goals
-626.0;Missing company wide standard;Insufficient development process
-626.0;Lack of experience of RE team members;Lack of knowledge
-637.0;Lack of experience of RE team members;Lack of knowledge
-637.0;Poor project management;Lack of management
-637.0;Strict time schedule by customer;Lack of management
-637.0;Thinking in legacy systems;Lack of common understanding about goals
-637.0;Missing tool support;Insufficient development process
-640.0;Conflict of interests at management level;Lack of common understanding about goals
-640.0;Gold plating;Process execution defects
-640.0;Poor requirements elicitation techniques;Insufficient development process
-640.0;Conflict of interests at customer side;Lack of common understanding about goals
-640.0;Strict time schedule by customer;Lack of management
-649.0;High quality expectation of customer;Lack of common understanding about goals
-649.0;Thinking in legacy systems;Lack of common understanding about goals
-649.0;High quality expectation of customer;Lack of common understanding about goals
-649.0;Lack of time;Lack of management
-649.0;Missing engagement by customer;Lack of engagement
-661.0;Lack of project management;Lack of management
-661.0;Customer does not know what he wants;Lack of knowledge
-661.0;Lack of leadership;Lack of management
-661.0;Volatile industry segment that leads to changes;Changing project characteristics
-663.0;Lack of a well-defined RE process;Insufficient development process
-663.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-663.0;Missing IT project experience at customer side;Lack of knowledge
-663.0;Missing of a global view of the system;Lack of knowledge
-663.0;Weak qualification of RE team members;Lack of knowledge
-676.0;Lack of requirements management;Lack of management
-676.0;Customer does not know what he wants;Lack of knowledge
-676.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-676.0;Missing customer involvement;Lack of involvement from the customer
-676.0;Customer does not formally approve the requirements;Process execution defects
-684.0;Missing customer involvement;Lack of involvement from the customer
-684.0;Communication flaws between team and customer;Communication problems
-684.0;Unclear business needs;Lack of common understanding about goals
-684.0;Lack of time;Lack of management
-694.0;Weak qualification of RE team members;Lack of knowledge
-694.0;Strict time schedule by customer;Lack of management
-694.0;Requirements engineer has no influence on customer;Communication problems
-694.0;Communication flaws between team and customer;Communication problems
-694.0;Insufficient collaboration in process;Process execution defects
-710.0;Customer does not formally approve the requirements;Process execution defects
-710.0;Lack of time;Lack of management
-710.0;Poor project management;Lack of management
-710.0;Lack of communication channels;Lack of communication channels
-710.0;Lack of time;Lack of management
-719.0;Lack of experience of RE team members;Lack of knowledge
-719.0;Miscommunication between RE team;Communication problems
-719.0;Customer does not formally approve the requirements;Process execution defects
-719.0;Missing methodology;Insufficient development process
-719.0;Insufficient analysis at the beginning of the project;Process execution defects
-722.0;Unclear roles and responsonsibilities at customer side;Lack of management
-722.0;Lack of requirements management;Lack of management
-722.0;Poor project management;Lack of management
-722.0;Weak qualification of RE team members;Lack of knowledge
-723.0;Miscommunication between RE team;Communication problems
-723.0;Subjective interpretations;Human factors
-729.0;Unclear roles and responsonsibilities at customer side;Lack of management
-729.0;Team fluctuation;Changing project characteristics
-729.0;Solution orientation;Insufficient development process
-735.0;Lack of requirements management;Lack of management
-735.0;Poor project management;Lack of management
-740.0;Missing RE awareness at customer side;Lack of RE awareness
-740.0;Missing customer involvement;Lack of involvement from the customer
-740.0;Strict time schedule by customer;Lack of management
-740.0;Poor requirements elicitation techniques;Insufficient development process
-740.0;Insufficient stakeholder analysis;Process execution defects
-742.0;Lack of communication channels;Lack of communication channels
-742.0;Lack of change management at customer side;Lack of management
-742.0;Stakeholder fluctuation;Changing project characteristics
-758.0;Lack of change management at customer side;Lack of management
-758.0;Missing technical knowledge;Lack of knowledge
-758.0;Missing domain knowledge;Lack of knowledge
-768.0;Unavailability of stakeholder;Lack of engagement
-768.0;Poor project management;Lack of management
-768.0;Customer does not know what he wants;Lack of knowledge
-768.0;Lack of communication channels;Lack of communication channels
-774.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-774.0;High quality expectation of customer;Lack of common understanding about goals
-786.0;Lack of teamwork skills;Lack of knowledge
-786.0;Missing domain knowledge;Lack of knowledge
-795.0;Language barriers;Communication problems
-795.0;Lack of leadership;Lack of management
-795.0;Lack of a well-defined RE process;Insufficient development process
-795.0;Insufficient information;Lack of knowledge
-819.0;Poor project management;Lack of management
-819.0;Lack of time;Lack of management
-819.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-819.0;Thinking in legacy systems;Lack of common understanding about goals
-819.0;Insufficient information;Lack of knowledge
-825.0;Miscommunication between RE team;Communication problems
-825.0;Lack of leadership;Lack of management
-830.0;Missing IT project experience at customer side;Lack of knowledge
-830.0;Poor project management;Lack of management
-830.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-831.0;Customer does not know what he wants;Lack of knowledge
-845.0;Thinking in legacy systems;Lack of common understanding about goals
-847.0;Missing concentration on business needs;Lack of involvement within the team
-847.0;Missing completeness check of requirements;Process execution defects
-847.0;Lack of requirements management;Lack of management
-847.0;Process doesn't allow for innovation;Insufficient development process
-847.0;Lack of a well-defined RE process;Insufficient development process
-849.0;Conflict of interests at customer side;Lack of common understanding about goals
-849.0;Customer does not know what he wants;Lack of knowledge
-849.0;Missing concentration on business needs;Lack of involvement within the team
-849.0;Unclear business needs;Lack of common understanding about goals
-851.0;Unclear roles and responsibilities at customer side;Lack of management
-851.0;Missing customer involvement;Lack of involvement from the customer
-851.0;Missing technical knowledge;Lack of knowledge
-851.0;Subjective interpretations;Human factors
-851.0;Strict time schedule by customer;Lack of management
-856.0;Unexpected changes in requirements;Moving targets
-856.0;Lack of experience of RE team members;Lack of knowledge
-856.0;Missing customer involvement;Lack of involvement from the customer
-856.0;Insufficient collaboration in process;Process execution defects
-856.0;Lack of time;Lack of management
-856.0;Missing completeness check of requirements;Process execution defects
-857.0;Complexity of domain;High complexity of projects
-864.0;Insufficient collaboration in process;Process execution defects
-864.0;Unclear project scope;Lack of management
-864.0;Lack of experience of RE team members;Lack of knowledge
-864.0;Weak qualification of RE team members;Lack of knowledge
-864.0;Lack of interest about customers domain;Human factors
-865.0;Missing concentration on business needs;Lack of involvement within the team
-865.0;Poor project management;Lack of management
-865.0;Lack of interest about customers domain;Human factors
-865.0;Missing technical knowledge;Lack of knowledge
-865.0;Unclear business needs;Lack of common understanding about goals
-868.0;Lack of experience of RE team members;Lack of knowledge
-868.0;Communication flaws between team and customer;Communication problems
-868.0;Lack of time;Lack of management
-868.0;Lack of experience of RE team members;Lack of knowledge
-868.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-868.0;Lack of time;Lack of management
-870.0;Weak qualification of RE team members;Lack of knowledge
-870.0;Missing IT project experience at customer side;Lack of knowledge
-870.0;Lack of experience of RE team members;Lack of knowledge
-870.0;Lack of experience of RE team members;Lack of knowledge
-870.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-876.0;Lack of time;Lack of management
-876.0;Missing domain knowledge;Lack of knowledge
-876.0;Missing IT project experience at customer side;Lack of knowledge
-876.0;Solution orientation;Insufficient development process
-876.0;Poor requirements elicitation techniques;Insufficient development process
-879.0;Rework;Changing project characteristics
-879.0;Missing solution approach;Insufficient development process
-879.0;Unclear terminology;Communication problems
-879.0;Requirements remain too abstract;Process execution defects
-879.0;Poor project management;Lack of management
-880.0;Missing IT project experience at customer side;Lack of knowledge
-880.0;Thinking in legacy systems;Lack of common understanding about goals
-880.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-880.0;Volatile industry segment that leads to changes;Changing project characteristics
-880.0;Poor project management;Lack of management
-889.0;Missing engagement by customer;Lack of engagement
-894.0;Subjective interpretations;Human factors
-894.0;Rework;Changing project characteristics
-894.0;Rework;Changing project characteristics
-894.0;Lack of change management at customer side;Lack of management
-894.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-896.0;Lack of experience of RE team members;Lack of knowledge
-896.0;Gold plating;Process execution defects
-896.0;Missing domain knowledge;Lack of knowledge
-900.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-900.0;Poor requirements elicitation techniques;Insufficient development process
-900.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-900.0;Missing domain knowledge;Lack of knowledge
-901.0;Not following the communication plan;Process execution defects
-901.0;Too high team distribution;Lack of management
-901.0;Missing engagement by customer;Lack of engagement
-901.0;Complexity of project;High complexity of projects
-901.0;Missing customer involvement;Lack of involvement from the customer
-909.0;Poor requirements elicitation techniques;Insufficient development process
-909.0;Poor project management;Lack of management
-909.0;Lack of leadership;Lack of management
-909.0;Lack of experience of RE team members;Lack of knowledge
-909.0;Lack of interest about customers domain;Human factors
-909.0;Lack of interest about customers domain;Human factors
-910.0;Insufficient resources;Lack of management
-910.0;Weak qualification of RE team members;Lack of knowledge
-910.0;Missing tool support;Insufficient development process
-910.0;Lack of experience of RE team members;Lack of knowledge
-912.0;Lack of time;Lack of management
-912.0;Communication flaws between team and customer;Communication problems
-912.0;Missing domain knowledge;Lack of knowledge
-912.0;Insufficient information;Lack of knowledge
-912.0;Missing prioritization by customer;Process execution defects
-916.0;Missing RE awareness at team side;Lack of RE awareness
-916.0;Gold plating;Process execution defects
-916.0;Lack of experience of RE team members;Lack of knowledge
-916.0;Customer does not know what he wants;Lack of knowledge
-916.0;Missing direct communication to customer;Communication problems
-917.0;Stakeholder fluctuation;Changing project characteristics
-917.0;Missing engagement by customer;Lack of engagement
-917.0;Lack of time;Lack of management
-917.0;Lack of time;Lack of management
-917.0;Lack of a well-defined RE process;Insufficient development process
-918.0;Customer does not know what he wants;Lack of knowledge
-918.0;Lack of time;Lack of management
-918.0;Lack of a well-defined RE process;Insufficient development process
-918.0;Inappropriate definition of contract;Lack of management
-918.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-921.0;Lack of a well-defined RE process;Insufficient development process
-921.0;Lack of requirements management;Lack of management
-921.0;Lack of experience of RE team members;Lack of knowledge
-921.0;Missing customer involvement;Lack of involvement from the customer
-923.0;Customer does not know what he wants;Lack of knowledge
-923.0;Missing customer involvement;Lack of involvement from the customer
-923.0;Insufficient resources;Lack of management
-923.0;Missing IT project experience at customer side;Lack of knowledge
-923.0;Customer does not know what he wants;Lack of knowledge
-924.0;Missing involvement of developers;Lack of involvement within the team
-924.0;Lack of teamwork skills;Lack of knowledge
-924.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-924.0;Insufficient analysis at the beginning of the project;Process execution defects
-924.0;Lack of requirements management;Lack of management
-928.0;Incomplete requirements;Lack of knowledge
-928.0;Lack of experience of RE team members;Lack of knowledge
-928.0;Missing willingless to change;Human factors
-928.0;Strict time schedule by customer;Lack of management
-928.0;Missing IT project experience at customer side;Lack of knowledge
-929.0;Strict time schedule by customer;Lack of management
-929.0;Insufficient resource plan;Lack of management
-929.0;Communication flaws between team and customer;Communication problems
-929.0;Lack of leadership;Lack of management
-929.0;Lack of a well-defined RE process;Insufficient development process
-930.0;Missing engagement by customer;Lack of engagement
-930.0;Poor requirements elicitation techniques;Insufficient development process
-930.0;Volatile industry segment that leads to changes;Changing project characteristics
-930.0;Missing RE awareness at customer side;Lack of RE awareness
-930.0;Customer does not know what he wants;Lack of knowledge
-931.0;Missing domain knowledge;Lack of knowledge
-932.0;Unexpected changes in requirements;Moving targets
-933.0;Lack of experience of RE team members;Lack of knowledge
-933.0;Lack of time;Lack of management
-933.0;Customer does not know what he wants;Lack of knowledge
-933.0;Poor requirements elicitation techniques;Insufficient development process
-933.0;Volatile requirements;Moving targets
-937.0;Unclear project scope;Lack of management
-937.0;Poor project management;Lack of management
-945.0;Poor requirements elicitation techniques;Insufficient development process
-945.0;Customer does not know what he wants;Lack of knowledge
-945.0;Missing completeness check of requirements;Process execution defects
-945.0;Missing engagement by customer;Lack of engagement
-945.0;Complexity of domain;High complexity of projects
-947.0;High quality expectation of customer;Lack of common understanding about goals
-947.0;Lack of time;Lack of management
-947.0;Volatile industry segment that leads to changes;Changing project characteristics
-947.0;Lack of experience of RE team members;Lack of knowledge
-947.0;Communication flaws between the project and the customer;Communication problems
-947.0;Customer does not know what he wants;Lack of knowledge
-952.0;Missing documentation;Process execution defects
-952.0;Incomplete requirements;Lack of knowledge
-952.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-952.0;Missing access to business needs;Lack of knowledge
-958.0;Too high team distribution;Lack of management
-958.0;Strict time schedule by customer;Lack of management
-958.0;Missing customer involvement;Lack of involvement from the customer
-958.0;Missing prioritization by customer;Process execution defects
-959.0;Volatile industry segment that leads to changes;Changing project characteristics
-959.0;Insufficient stakeholder analysis;Process execution defects
-959.0;Subjective interpretations;Human factors
-959.0;Missing tool support;Insufficient development process
-959.0;Complexity of project;High complexity of projects
-968.0;Insufficient collaboration in process;Process execution defects
-968.0;Poor project management;Lack of management
-980.0;Poor project management;Lack of management
-984.0;Insufficient resources;Lack of management
-984.0;Missing tool support;Insufficient development process
-984.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-984.0;Insufficient agility;Lack of common understanding about goals
-985.0;Missing customer involvement;Lack of involvement from the customer
-985.0;Missing customer involvement;Lack of involvement from the customer
-985.0;Missing domain knowledge;Lack of knowledge
-985.0;Lack of teamwork skills;Lack of knowledge
-987.0;Lack of time;Lack of management
-987.0;Lack of time;Lack of management
-987.0;Lack of time;Lack of management
-987.0;Poor requirements elicitation techniques;Insufficient development process
-987.0;Lack of time;Lack of management
-990.0;Lack of change management at customer side;Lack of management
-990.0;Missing customer involvement;Lack of involvement from the customer
-990.0;Incomplete requirements;Lack of knowledge
-990.0;High workload;Lack of management
-990.0;Poor project management;Lack of management
-997.0;Missing customer involvement;Lack of involvement from the customer
-997.0;Thinking in legacy systems;Lack of common understanding about goals
-997.0;Lack of time;Lack of management
-997.0;Missing domain knowledge;Lack of knowledge
-1006.0;Customer does not know what he wants;Lack of knowledge
-1006.0;Too many meetings;Insufficient development process
-1006.0;Missing requirements specification template;Process execution defects
-1006.0;Volatile requirements;Moving targets
-1006.0;Workload of customer;Lack of involvement from the customer
-1010.0;Missing project management;Lack of management
-1010.0;Poor project management;Lack of management
-1010.0;Customer does not know what he wants;Lack of knowledge
-1010.0;Poor project management;Lack of management
-1010.0;Missing tool support;Insufficient development process
-1011.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1011.0;Weak management at customer side;Lack of management
-1011.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1011.0;Weak management at customer side;Lack of management
-1011.0;Communication flaws between team and customer;Communication problems
-1012.0;Missing concentration on business needs;Lack of involvement within the team
-1012.0;Poor project management;Lack of management
-1012.0;Unexpected changes in requirements;Moving targets
-1012.0;Missing check of requirements;Process execution defects
-1012.0;Lack of requirements management;Lack of management
-1014.0;Communication flaws between team and customer;Communication problems
-1014.0;Missing documentation;Process execution defects
-1014.0;Poor project management;Lack of management
-1014.0;Documentation overhead;Process execution defects
-1014.0;Missing domain knowledge;Lack of knowledge
-1017.0;Documentation overhead;Process execution defects
-1017.0;Missing customer involvement;Lack of involvement from the customer
-1017.0;Unclear terminology;Communication problems
-1017.0;Missing documentation;Process execution defects
-1017.0;Missing customer involvement;Lack of involvement from the customer
-1021.0;Insufficient information;Lack of knowledge
-1021.0;Insufficient stakeholder analysis;Process execution defects
-1021.0;Lack of requirements management;Lack of management
-1021.0;Missing domain knowledge;Lack of knowledge
-1021.0;Insufficient analysis at the beginning of the project;Process execution defects
-1031.0;Poor project management;Lack of management
-1031.0;Missing customer involvement;Lack of involvement from the customer
-1031.0;Complexity of project;High complexity of projects
-1031.0;Gold plating;Process execution defects
-1031.0;Poor project management;Lack of management
-1033.0;Volatile requirements;Moving targets
-1033.0;Poor project management;Lack of management
-1033.0;Missing engagement by customer;Lack of engagement
-1033.0;Communication flaws between team and customer;Communication problems
-1033.0;Lack of communication channels;Lack of communication channels
-1039.0;Insufficient collaboration in process;Process execution defects
-1039.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1039.0;Insufficient information;Lack of knowledge
-1039.0;Volatile requirements;Moving targets
-1039.0;Missing domain knowledge;Lack of knowledge
-1051.0;Missing engagement by customer;Lack of engagement
-1051.0;Lack of requirements management;Lack of management
-1051.0;Demotivation;Human factors
-1051.0;Lack of experience of RE team members;Lack of knowledge
-1051.0;Lack of experience of RE team members;Lack of knowledge
-1055.0;Lack of time;Lack of management
-1055.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-1055.0;Missing involvement of developers;Lack of involvement within the team
-1055.0;Missing solution approach;Insufficient development process
-1055.0;Unclear terminology;Communication problems
-1062.0;Language barriers;Communication problems
-1062.0;Insufficient planning of RE;Process execution defects
-1062.0;Customer does not know what he wants;Lack of knowledge
-1062.0;Missing customer involvement;Lack of involvement from the customer
-1062.0;Missing tool support;Insufficient development process
-1064.0;Lack of experience of RE team members;Lack of knowledge
-1064.0;Lack of experience of RE team members;Lack of knowledge
-1064.0;Missing RE awareness at customer side;Lack of RE awareness
-1064.0;Lack of requirements management;Lack of management
-1064.0;Weak qualification of RE team members;Lack of knowledge
-1064.0;Lack of requirements management;Lack of management
-1065.0;Missing tool support;Insufficient development process
-1065.0;Missing customer involvement;Lack of involvement from the customer
-1065.0;Weak qualification of stakeholders;Lack of knowledge
-1065.0;Weak management at customer side;Lack of management
-1065.0;Poor project management;Lack of management
-1066.0;Unclear roles and responsibilities at customer side;Lack of management
-1066.0;Requirements remain too abstract;Process execution defects
-1066.0;Solution orientation;Insufficient development process
-1066.0;Concurrent development activities;Lack of management
-1066.0;Lack of requirements management;Lack of management
-1069.0;Missing customer involvement;Lack of involvement from the customer
-1069.0;Missing of a global view of the system;Lack of knowledge
-1069.0;Missing willingless to change;Human factors
-1069.0;Missing domain knowledge;Lack of knowledge
-1069.0;Lack of communication channels;Lack of communication channels
-1070.0;Strict time schedule by customer;Lack of management
-1070.0;Conflict of interests at customer side;Lack of common understanding about goals
-1070.0;Insufficient analysis at the beginning of the project;Process execution defects
-1070.0;Conflict of interests at management level;Lack of common understanding about goals
-1076.0;Missing domain knowledge;Lack of knowledge
-1076.0;Requirements remain too abstract;Process execution defects
-1076.0;Requirements remain too abstract;Process execution defects
-1076.0;Lack of requirements management;Lack of management
-1079.0;Missing documentation;Process execution defects
-1079.0;Conflict of interests at customer side;Lack of common understanding about goals
-1079.0;Insufficient resources;Lack of management
-1079.0;Unclear roles and responsibilities at customer side;Lack of management
-1079.0;Incomplete requirements;Lack of knowledge
-1080.0;Process doesn't allow for innovation;Insufficient development process
-1080.0;Missing prioritization by customer;Process execution defects
-1080.0;Lack of requirements management;Lack of management
-1080.0;Missing concentration on business needs;Lack of involvement within the team
-1080.0;Unclear terminology;Communication problems
-1082.0;Missing direct communication to customer;Communication problems
-1082.0;Lack of a well-defined RE process;Insufficient development process
-1082.0;Not following the communication plan;Process execution defects
-1082.0;Solution orientation;Insufficient development process
-1091.0;Documentation overhead;Process execution defects
-1091.0;Lack of experience of RE team members;Lack of knowledge
-1091.0;Incomplete requirements;Lack of knowledge
-1091.0;Poor requirements elicitation techniques;Insufficient development process
-1091.0;Communication flaws between team and customer;Communication problems
-1091.0;Lack of teamwork skills;Lack of knowledge
-1097.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-1097.0;Thinking in legacy systems;Lack of common understanding about goals
-1097.0;Missing documentation;Process execution defects
-1097.0;Missing analysis;Process execution defects
-1097.0;Missing technical knowledge;Lack of knowledge
-1100.0;Missing customer involvement;Lack of involvement from the customer
-1100.0;Missing domain knowledge;Lack of knowledge
-1100.0;Missing engagement by customer;Lack of engagement
-1100.0;Lack of experience of RE team members;Lack of knowledge
-1100.0;Lack of time;Lack of management
-1101.0;Customer does not formally approve the requirements;Process execution defects
-1101.0;Requirements remain too abstract;Process execution defects
-1101.0;Missing RE awareness at customer side;Lack of RE awareness
-1101.0;Weak qualification of stakeholders;Lack of knowledge
-1101.0;Miscommunication between RE team;Communication problems
-1105.0;Incomplete requirements;Lack of knowledge
-1105.0;Poor project management;Lack of management
-1105.0;Volatile requirements;Moving targets
-1105.0;Missing concentration on business needs;Lack of involvement within the team
-1105.0;Insufficient information;Lack of knowledge
-1111.0;Lack of experience of RE team members;Lack of knowledge
-1111.0;Missing methodology;Insufficient development process
-1111.0;Missing engagement by customer;Lack of engagement
-1111.0;Poor project management;Lack of management
-1111.0;Insufficient stakeholder analysis;Process execution defects
-1114.0;Missing customer involvement;Lack of involvement from the customer
-1114.0;Poor project management;Lack of management
-1114.0;Missing engagement by customer;Lack of engagement
-1114.0;Missing engagement by customer;Lack of engagement
-1114.0;Insufficient collaboration in process;Process execution defects
-1118.0;Insufficient collaboration in process;Process execution defects
-1118.0;Language barriers;Communication problems
-1118.0;Communication flaws between team and customer;Communication problems
-1118.0;Missing domain knowledge;Lack of knowledge
-1118.0;Communication flaws between team and customer;Communication problems
-1122.0;Unclear roles and responsonsibilities at customer side;Lack of management
-1122.0;High quality expectation of customer;Lack of common understanding about goals
-1122.0;Volatile industry segment that leads to changes;Changing project characteristics
-1122.0;Conflict of interests at customer side;Lack of common understanding about goals
-1122.0;Poor project management;Lack of management
-1124.0;Lack of a well-defined RE process;Insufficient development process
-1124.0;Lack of communication channels;Lack of communication channels
-1124.0;Process doesn't allow for innovation;Insufficient development process
-1124.0;Incomplete requirements;Lack of knowledge
-1124.0;Language barriers;Communication problems
-1126.0;Poor requirements elicitation techniques;Insufficient development process
-1126.0;Not following the communication plan;Process execution defects
-1126.0;Lack of experience of RE team members;Lack of knowledge
-1126.0;Lack of experience of RE team members;Lack of knowledge
-1126.0;Lack of teamwork skills;Lack of knowledge
-1139.0;Lack of time;Lack of management
-1139.0;Lack of requirements management;Lack of management
-1139.0;Insufficient resources;Lack of management
-1139.0;High workload;Lack of management
-1139.0;Poor project management;Lack of management
-1141.0;Poor project management;Lack of management
-1141.0;Missing technical knowledge;Lack of knowledge
-1141.0;Missing domain knowledge;Lack of knowledge
-1141.0;Missing domain knowledge;Lack of knowledge
-1141.0;Poor project management;Lack of management
-1159.0;Communication flaws between team and customer;Communication problems
-1159.0;Lack of a well-defined RE process;Insufficient development process
-1159.0;Missing customer involvement;Lack of involvement from the customer
-1161.0;Lack of trust;Human factors
-1161.0;Missing IT project experience at customer side;Lack of knowledge
-1161.0;Lack of change management at customer side;Lack of management
-1161.0;Missing IT project experience at customer side;Lack of knowledge
-1161.0;Missing IT project experience at customer side;Lack of knowledge
-1163.0;Missing RE awareness at team side;Lack of RE awareness
-1163.0;Lack of experience of RE team members;Lack of knowledge
-1163.0;Insufficient agility;Lack of common understanding about goals
-1163.0;Complexity of project;High complexity of projects
-1163.0;Lack of a well-defined RE process;Insufficient development process
-1166.0;High cost;Lack of management
-1167.0;Lack of change management at customer side;Lack of management
-1167.0;Method Poor project management;Lack of management
-1167.0;Insufficient collaboration in process;Process execution defects
-1167.0;Requirements remain too abstract;Process execution defects
-1168.0;Demotivation;Human factors
-1168.0;Demotivation;Human factors
-1168.0;Poor requirements elicitation techniques;Insufficient development process
-1168.0;Communication flaws between team and customer;Communication problems
-1168.0;Missing IT project experience at customer side;Lack of knowledge
-1168.0;Incomplete requirements;Lack of knowledge
-1171.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-1171.0;Lack of requirements management;Lack of management
-1171.0;Lack of a well-defined RE process;Insufficient development process
-1171.0;Lack of experience of RE team members;Lack of knowledge
-1171.0;Missing customer involvement;Lack of involvement from the customer
-1187.0;Unclear roles and responsonsibilities at customer side;Lack of management
-1187.0;Lack of experience of RE team members;Lack of knowledge
-1187.0;Unclear business needs;Lack of common understanding about goals
-1187.0;Customer does not know what he wants;Lack of knowledge
-1187.0;Many customers;Lack of management
-1189.0;Unclear terminology;Communication problems
-1189.0;Volatile requirements;Moving targets
-1194.0;Missing technical knowledge;Lack of knowledge
-1194.0;Volatile requirements;Moving targets
-1194.0;Lack of requirements management;Lack of management
-1204.0;Missing direct communication to customer;Communication problems
-1204.0;Stakeholder fluctuation;Changing project characteristics
-1204.0;Insufficient collaboration in process;Process execution defects
-1204.0;Insufficient team size;Lack of management
-1204.0;Missing knowledge about development framework;Lack of knowledge
-1207.0;Volatile industry segment that leads to changes;Changing project characteristics
-1207.0;Gold plating;Process execution defects
-1207.0;Poor project management;Lack of management
-1207.0;Customer does not know what he wants;Lack of knowledge
-1207.0;Missing domain knowledge;Lack of knowledge
-1221.0;Poor documentation;Process execution defects
-1221.0;Poor project management;Lack of management
-1221.0;Missing customer involvement;Lack of involvement from the customer
-1221.0;Unclear business needs;Lack of common understanding about goals
-1221.0;Missing of a global view of the system;Lack of knowledge
-1223.0;Missing customer involvement;Lack of involvement from the customer
-1224.0;Customer does not formally approve the requirements;Process execution defects
-1224.0;Lack of time;Lack of management
-1224.0;Missing customer involvement;Lack of involvement from the customer
-1224.0;Missing RE awareness at customer side;Lack of RE awareness
-1225.0;Weak qualification of stakeholders;Lack of knowledge
-1225.0;Unclear business needs;Lack of common understanding about goals
-1225.0;High quality expectation of customer;Lack of common understanding about goals
-1225.0;Missing engagement by customer;Lack of engagement
-1225.0;Missing customer involvement;Lack of involvement from the customer
-1229.0;Communication flaws between team and customer;Communication problems
-1229.0;Not following the communication plan;Process execution defects
-1229.0;Missing engagement by customer;Lack of engagement
-1229.0;Demotivation;Human factors
-1229.0;Lack of leadership;Lack of management
-1238.0;Many customers;Lack of management
-1238.0;Poor project management;Lack of management
-1238.0;Complexity of project;High complexity of projects
-1238.0;Not following the communication plan;Process execution defects
-1238.0;Lack of change management at customer side;Lack of management
-1239.0;Missing direct communication to customer;Communication problems
-1239.0;Lack of time;Lack of management
-1239.0;Lack of time;Lack of management
-1239.0;Lack of change management at customer side;Lack of management
-1239.0;Requirements remain too abstract;Process execution defects
-1262.0;Lack of requirements management;Lack of management
-1262.0;Lack of experience of RE team members;Lack of knowledge
-1262.0;Poor project management;Lack of management
-1266.0;Conflict of interests at management level;Lack of common understanding about goals
-1266.0;Volatile requirements;Moving targets
-1266.0;Missing company wide standard;Insufficient development process
-1266.0;Lack of a well-defined RE process;Insufficient development process
-1266.0;Volatile requirements;Moving targets
-1273.0;Insufficient resource plan;Lack of management
-1275.0;Poor project management;Lack of management
-1279.0;Missing IT project experience at customer side;Lack of knowledge
-1279.0;Missing domain knowledge;Lack of knowledge
-1279.0;Unexpected changes in requirements;Moving targets
-1279.0;High quality expectation of customer;Lack of common understanding about goals
-1279.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-1283.0;Weak qualification of stakeholders;Lack of knowledge
-1283.0;Lack of change management at customer side;Lack of management
-1283.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1283.0;Weak qualification of stakeholders;Lack of knowledge
-1283.0;Missing RE awareness at customer side;Lack of RE awareness
-1288.0;Requirements remain too abstract;Process execution defects
-1288.0;Lack of requirements management;Lack of management
-1288.0;Lack of requirements management;Lack of management
-1288.0;Many customers;Lack of management
-1289.0;Lack of time;Lack of management
-1289.0;Poor project management;Lack of management
-1289.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-1289.0;Missing IT project experience at customer side;Lack of knowledge
-1290.0;Lack of experience of RE team members;Lack of knowledge
-1290.0;Lack of change management at customer side;Lack of management
-1291.0;Language barriers;Communication problems
-1291.0;Missing engagement by customer;Lack of engagement
-1291.0;Changing business needs;Moving targets
-1291.0;Missing direct communication to customer;Communication problems
-1296.0;Process doesn't allow for innovation;Insufficient development process
-1296.0;Unexpected changes in requirements;Moving targets
-1296.0;Complexity of project;High complexity of projects
-1296.0;High complexity in overall project setting;High complexity of projects
-1296.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-1316.0;Missing domain knowledge;Lack of knowledge
-1316.0;Changing business needs;Moving targets
-1316.0;Incomplete requirements;Lack of knowledge
-1316.0;Missing engagement by customer;Lack of engagement
-1321.0;Unexpected changes in requirements;Moving targets
-1321.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-1327.0;Missing concentration on business needs;Lack of involvement within the team
-1327.0;Volatile requirements;Moving targets
-1327.0;Missing IT project experience at customer side;Lack of knowledge
-1327.0;High quality expectation of customer;Lack of common understanding about goals
-1327.0;Complexity of RE;High complexity of projects
-1331.0;Insufficient information;Lack of knowledge
-1331.0;Thinking in legacy systems;Lack of common understanding about goals
-1331.0;Weak management at customer side;Lack of management
-1331.0;Weak qualification of RE team members;Lack of knowledge
-1331.0;Missing customer involvement;Lack of involvement from the customer
-1339.0;Missing willingless to change;Human factors
-1339.0;Lack of time;Lack of management
-1339.0;Lack of time;Lack of management
-1339.0;Poor project management;Lack of management
-1339.0;Poor project management;Lack of management
-1340.0;Poor requirements elicitation techniques;Insufficient development process
-1340.0;Poor project management;Lack of management
-1340.0;Bad atmosphere in the group;Communication problems
-1340.0;Poor project management;Lack of management
-1340.0;Lack of requirements management;Lack of management
-1341.0;Missing IT project experience at customer side;Lack of knowledge
-1341.0;Missing customer involvement;Lack of involvement from the customer
-1341.0;Customer does not know what he wants;Lack of knowledge
-1341.0;Lack of time;Lack of management
-1341.0;Missing domain knowledge;Lack of knowledge
-1343.0;Incomplete requirements;Lack of knowledge
-1343.0;Missing domain knowledge;Lack of knowledge
-1343.0;Lack of a well-defined RE process;Insufficient development process
-1343.0;Customer does not know what he wants;Lack of knowledge
-1343.0;Communication flaws between team and customer;Communication problems
-1344.0;Poor requirements elicitation techniques;Insufficient development process
-1344.0;Unclear terminology;Communication problems
-1344.0;Communication flaws between team and customer;Communication problems
-1344.0;Lack of requirements management;Lack of management
-1347.0;Missing direct communication to customer;Communication problems
-1347.0;Missing RE awareness at customer side;Lack of RE awareness
-1347.0;Process doesn't allow for innovation;Insufficient development process
-1347.0;Strict time schedule by customer;Lack of management
-1347.0;Missing direct communication to customer;Communication problems
-1349.0;Customer does not know what he wants;Lack of knowledge
-1349.0;Conflict of interests at management level;Lack of common understanding about goals
-1349.0;Customer does not know what he wants;Lack of knowledge
-1349.0;Conflict of interests at customer side;Lack of common understanding about goals
-1349.0;Customer does not know what he wants;Lack of knowledge
-1350.0;Lack of time;Lack of management
-1350.0;Customer does not know what he wants;Lack of knowledge
-1350.0;Missing domain knowledge;Lack of knowledge
-1350.0;Conflict of interests at management level;Lack of common understanding about goals
-1350.0;Missing engagement by customer;Lack of engagement
-1351.0;Lack of time;Lack of management
-1351.0;Customer does not formally approve the requirements;Process execution defects
-1351.0;High quality expectation of customer;Lack of common understanding about goals
-1351.0;Unclear terminology;Communication problems
-1351.0;Insufficient requirements;Process execution defects
-1351.0;Communication flaws between team and customer;Communication problems
-1352.0;Lack of communication channels;Lack of communication channels
-1352.0;Missing documentation;Process execution defects
-1353.0;Unclear terminology;Communication problems
-1353.0;Communication flaws between the project and the customer;Communication problems
-1353.0;Poor requirements elicitation techniques;Insufficient development process
-1353.0;Strict time schedule by customer;Lack of management
-1353.0;Missing engagement by customer;Lack of engagement
-1354.0;Lack of requirements management;Lack of management
-1354.0;Lack of leadership;Lack of management
-1354.0;Missing engagement by customer;Lack of engagement
-1354.0;Poor project management;Lack of management
-1354.0;Communication flaws between team and customer;Communication problems
-1355.0;Lack of communication channels;Lack of communication channels
-1355.0;Unclear business needs;Lack of common understanding about goals
-1355.0;Lack of discipline;Human factors
-1355.0;Missing communication to customer side;Communication problems
-1355.0;Missing customer involvement;Lack of involvement from the customer
-1355.0;Requirements remain too abstract;Process execution defects
-1356.0;Missing customer involvement;Lack of involvement from the customer
-1356.0;High quality expectation of customer;Lack of common understanding about goals
-1356.0;Communication flaws between team and customer;Communication problems
-1356.0;Lack of time;Lack of management
-1356.0;Unclear terminology;Communication problems
-1357.0;Insufficient planning of RE;Process execution defects
-1357.0;Missing domain knowledge;Lack of knowledge
-1357.0;Poor project management;Lack of management
-1357.0;Unfeasible requirements;Process execution defects
-1357.0;Customer does not know what he wants;Lack of knowledge
-1358.0;Incomplete requirements;Lack of knowledge
-1358.0;Missing technical knowledge;Lack of knowledge
-1358.0;Changing business needs;Moving targets
-1358.0;Poor project management;Lack of management
-1358.0;Lack of communication channels;Lack of communication channels
-1359.0;Communication flaws between team and customer;Communication problems
-1359.0;Communication flaws between team and customer;Communication problems
-1359.0;Lack of change management at customer side;Lack of management
-1360.0;Communication flaws between team and customer;Communication problems
-1360.0;Lack of change management at customer side;Lack of management
-1360.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-1383.0;Incomplete requirements;Lack of knowledge
-1384.0;Complexity of project;High complexity of projects
-1384.0;Lack of requirements management;Lack of management
-1384.0;Missing solution approach;Insufficient development process
-1384.0;Missing prioritization by customer;Process execution defects
-1384.0;Unclear business needs;Lack of common understanding about goals
-1402.0;Insufficient agility;Lack of common understanding about goals
-1402.0;Conflict of interests at customer side;Lack of common understanding about goals
-1402.0;Lack of communication channels;Lack of communication channels
-1402.0;Communication flaws between team and customer;Communication problems
-1402.0;Lack of a well-defined RE process;Insufficient development process
-1403.0;Missing requirements specification template;Process execution defects
-1403.0;Poor requirements elicitation techniques;Insufficient development process
-1403.0;Poor project management;Lack of management
-1406.0;High workload;Lack of management
-1406.0;Lack of time;Lack of management
-1406.0;Lack of time;Lack of management
-1406.0;Missing engagement by customer;Lack of engagement
-1406.0;Poor project management;Lack of management
-1411.0;Changing business needs;Moving targets
-1411.0;Missing access to business needs;Lack of knowledge
-1411.0;Lack of time;Lack of management
-1411.0;Language barriers;Communication problems
-1411.0;Thinking in legacy systems;Lack of common understanding about goals
-1413.0;Missing IT project experience at customer side;Lack of knowledge
-1413.0;Missing customer involvement;Lack of involvement from the customer
-1413.0;Customer does not know what he wants;Lack of knowledge
-1413.0;Lack of time;Lack of management
-1413.0;Missing domain knowledge;Lack of knowledge
-1415.0;Missing IT project experience at customer side;Lack of knowledge
-1415.0;Customer does not know what he wants;Lack of knowledge
-1415.0;Customer does not know what he wants;Lack of knowledge
-1415.0;Unclear terminology;Communication problems
-1415.0;Missing domain knowledge;Lack of knowledge
-1416.0;Lack of communication channels;Lack of communication channels
-1416.0;Conflict of interests at customer side;Lack of common understanding about goals
-1416.0;Missing documentation;Process execution defects
-1416.0;Poor project management;Lack of management
-1416.0;Communication flaws between team and customer;Communication problems
-1417.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1417.0;Insufficient requirements;Process execution defects
-1417.0;Poor project management;Lack of management
-1417.0;Customer does not know what he wants;Lack of knowledge
-1417.0;Lack of communication channels;Lack of communication channels
-1419.0;Incomplete requirements;Lack of knowledge
-1419.0;Missing engagement by customer;Lack of engagement
-1419.0;Communication flaws between team and customer;Communication problems
-1419.0;Unclear terminology;Communication problems
-1419.0;Miscommunication between RE team;Communication problems
-1422.0;Requirements remain too abstract;Process execution defects
-1422.0;Communication flaws between team and customer;Communication problems
-1422.0;Incomplete requirements;Lack of knowledge
-1422.0;Poor requirements elicitation techniques;Insufficient development process
-1422.0;Lack of communication channels;Lack of communication channels
-1423.0;Missing completeness check of requirements;Process execution defects
-1423.0;Communication flaws between team and customer;Communication problems
-1423.0;Unclear business needs;Lack of common understanding about goals
-1424.0;Missing customer involvement;Lack of involvement from the customer
-1424.0;Solution orientation;Insufficient development process
-1424.0;Communication flaws between the project and the customer;Communication problems
-1424.0;Missing customer involvement;Lack of involvement from the customer
-1424.0;Lack of requirements management;Lack of management
-1426.0;Missing RE awareness at customer side;Lack of RE awareness
-1426.0;Missing domain knowledge;Lack of knowledge
-1426.0;Unclear terminology;Communication problems
-1426.0;Poor project management;Lack of management
-1426.0;Missing IT project experience at customer side;Lack of knowledge
-1433.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-1433.0;Lack of project management;Lack of management
-1433.0;Incomplete requirements;Lack of knowledge
-1433.0;Missing domain knowledge;Lack of knowledge
-1433.0;Inappropriate definition of contract;Lack of management
-1435.0;Insufficient team size;Lack of management
-1435.0;Lack of a well-defined RE process;Insufficient development process
-1435.0;Volatile requirements;Moving targets
-1435.0;Communication flaws between team and customer;Communication problems
-1441.0;High workload;Lack of management
-1441.0;High workload;Lack of management
-1441.0;Workload of customer;Lack of involvement from the customer
-1441.0;Insufficient agility;Lack of common understanding about goals
-1449.0;Insufficient planning of RE;Process execution defects
-1449.0;Lack of requirements management;Lack of management
-1449.0;Lack of time;Lack of management
-1454.0;Missing customer involvement;Lack of involvement from the customer
-1454.0;Communication flaws between team and customer;Communication problems
-1454.0;Insufficient collaboration in process;Process execution defects
-1454.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1454.0;Miscommunication between RE team;Communication problems
-1455.0;Changing business needs;Moving targets
-1455.0;Incomplete requirements;Lack of knowledge
-1455.0;Missing IT project experience at customer side;Lack of knowledge
-1455.0;Missing documentation;Process execution defects
-1455.0;Missing requirements specification template;Process execution defects
-1457.0;Missing technical knowledge;Lack of knowledge
-1457.0;Missing engagement by customer;Lack of engagement
-1457.0;Requirements remain too abstract;Process execution defects
-1457.0;Customer does not know what he wants;Lack of knowledge
-1458.0;Method Poor project management;Lack of management
-1458.0;Missing domain knowledge;Lack of knowledge
-1458.0;Poor project management;Lack of management
-1458.0;Miscommunication between RE team;Communication problems
-1458.0;Team fluctuation;Changing project characteristics
-1458.0;Unfeasible requirements;Process execution defects
-1459.0;Communication flaws between team and customer;Communication problems
-1459.0;Miscommunication between RE team;Communication problems
-1459.0;Communication flaws between team and customer;Communication problems
-1459.0;Customer does not know what he wants;Lack of knowledge
-1459.0;Lack of project management;Lack of management
-1460.0;Not following the communication plan;Process execution defects
-1460.0;Missing IT project experience at customer side;Lack of knowledge
-1460.0;Missing domain knowledge;Lack of knowledge
-1460.0;Lack of training;Lack of knowledge
-1462.0;Customer does not know what he wants;Lack of knowledge
-1462.0;Conflict of interests at customer side;Lack of common understanding about goals
-1462.0;Lack of a well-defined RE process;Insufficient development process
-1462.0;Customer does not know what he wants;Lack of knowledge
-1462.0;Communication flaws between team and customer;Communication problems
-1466.0;Missing RE awareness at team side;Lack of RE awareness
-1466.0;Insufficient planning of RE;Process execution defects
-1466.0;Unclear terminology;Communication problems
-1466.0;Lack of leadership;Lack of management
-1466.0;Poor project management;Lack of management
-1467.0;Requirements remain too abstract;Process execution defects
-1467.0;Insufficient analysis at the beginning of the project;Process execution defects
-1467.0;Poor requirements elicitation techniques;Insufficient development process
-1467.0;Poor requirements elicitation techniques;Insufficient development process
-1467.0;Insufficient analysis at the beginning of the project;Process execution defects
-1482.0;Communication flaws between team and customer;Communication problems
-1482.0;Conflict of interests at management level;Lack of common understanding about goals
-1482.0;Communication flaws between team and customer;Communication problems
-1482.0;Unclear business needs;Lack of common understanding about goals
-1482.0;Communication flaws between team and customer;Communication problems
-1483.0;Missing engagement by customer;Lack of engagement
-1483.0;Unclear business needs;Lack of common understanding about goals
-1483.0;Missing willingless to change;Human factors
-1483.0;Conflict of interests at management level;Lack of common understanding about goals
-1484.0;Unclear terminology;Communication problems
-1484.0;Lack of communication channels;Lack of communication channels
-1485.0;Missing access to business needs;Lack of knowledge
-1485.0;Unclear terminology;Communication problems
-1486.0;Documentation overhead;Process execution defects
-1486.0;Missing documentation;Process execution defects
-1486.0;Volatile industry segment that leads to changes;Changing project characteristics
-1486.0;Poor project management;Lack of management
-1526.0;Missing domain knowledge;Lack of knowledge
-1526.0;Gold plating;Process execution defects
-1526.0;Missing domain knowledge;Lack of knowledge
-1526.0;Missing domain knowledge;Lack of knowledge
-1526.0;Missing domain knowledge;Lack of knowledge
-1542.0;Communication flaws between team and customer;Communication problems
-1542.0;Lack of time;Lack of management
-1542.0;Lack of communication channels;Lack of communication channels
-1542.0;Lack of communication channels;Lack of communication channels
-1560.0;Weak qualification of RE team members;Lack of knowledge
-1560.0;Lack of experience of RE team members;Lack of knowledge
-1560.0;Missing willingless to change;Human factors
-1560.0;Requirements remain too abstract;Process execution defects
-1560.0;Lack of a well-defined RE process;Insufficient development process
-1617.0;Requirements engineer has no influence on customer;Communication problems
-1617.0;Poor requirements elicitation techniques;Insufficient development process
-1617.0;Conflict of interests at management level;Lack of common understanding about goals
-1617.0;Too high team distribution;Lack of management
-1617.0;Incomplete requirements;Lack of knowledge
-1618.0;Insufficient analysis at the beginning of the project;Process execution defects
-1618.0;Missing solution approach;Insufficient development process
-1618.0;High quality expectation of customer;Lack of common understanding about goals
-1620.0;Too high team distribution;Lack of management
-1620.0;Gold plating;Process execution defects
-1620.0;Lack of project management;Lack of management
-1620.0;Poor project management;Lack of management
-1620.0;Requirements remain too abstract;Process execution defects
-1621.0;Solution orientation;Insufficient development process
-1621.0;Weak management at customer side;Lack of management
-1621.0;Lack of a well-defined RE process;Insufficient development process
-1621.0;Lack of a well-defined RE process;Insufficient development process
-1624.0;Missing RE awareness at team side;Lack of RE awareness
-1624.0;Customer does not formally approve the requirements;Process execution defects
-1624.0;Poor project management;Lack of management
-1624.0;Lack of change management at customer side;Lack of management
-1624.0;Lack of requirements management;Lack of management
-1650.0;Lack of teamwork skills;Lack of knowledge
-1650.0;Insufficient information;Lack of knowledge
-1650.0;Not following the communication plan;Process execution defects
-1650.0;Communication flaws between team and customer;Communication problems
-1650.0;Communication flaws between team and customer;Communication problems
-1651.0;Lack of a well-defined RE process;Insufficient development process
-1651.0;Insufficient information;Lack of knowledge
-1651.0;Complexity of project;High complexity of projects
-1651.0;Missing concentration on business needs;Lack of involvement within the team
-1663.0;Lack of experience of RE team members;Lack of knowledge
-1663.0;Language barriers;Communication problems
-1663.0;Poor project management;Lack of management
-1663.0;Missing domain knowledge;Lack of knowledge
-1668.0;Complexity of project;High complexity of projects
-1668.0;Complexity of RE;High complexity of projects
-1668.0;Many customers;Lack of management
-1668.0;Poor requirements elicitation techniques;Insufficient development process
-1668.0;Complexity of project;High complexity of projects
-1669.0;Conflict of interests at customer side;Lack of common understanding about goals
-1669.0;Missing completeness check of requirements;Process execution defects
-1669.0;Poor requirements elicitation techniques;Insufficient development process
-1669.0;Communication flaws between team and customer;Communication problems
-1669.0;Missing customer involvement;Lack of involvement from the customer
-1670.0;Complexity of project;High complexity of projects
-1670.0;Complexity of RE;High complexity of projects
-1670.0;Many customers;Lack of management
-1670.0;Poor requirements elicitation techniques;Insufficient development process
-1670.0;Complexity of project;High complexity of projects
-1675.0;Workload of customer;Lack of involvement from the customer
-1675.0;Conflicts of personalities;Human factors
-1675.0;Miscommunication between RE team;Communication problems
-1675.0;Insufficient analysis at the beginning of the project;Process execution defects
-1675.0;Changing business needs;Moving targets
-1676.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-1676.0;Poor project management;Lack of management
-1676.0;Insufficient planning of RE;Process execution defects
-1676.0;Changing business needs;Moving targets
-1676.0;Insufficient analysis at the beginning of the project;Process execution defects
-1690.0;Customer does not know what he wants;Lack of knowledge
-1690.0;Lack of change management at customer side;Lack of management
-1690.0;Poor project management;Lack of management
-1690.0;Missing customer involvement;Lack of involvement from the customer
-1695.0;Insufficient agility;Lack of common understanding about goals
-1695.0;Missing RE awareness at customer side;Lack of RE awareness
-1695.0;Lack of communication channels;Lack of communication channels
-1695.0;Complexity of project;High complexity of projects
-1695.0;Poor requirements elicitation techniques;Insufficient development process
-1697.0;Insufficient resource plan;Lack of management
-1697.0;Poor project management;Lack of management
-1697.0;Lack of a well-defined RE process;Insufficient development process
-1697.0;Requirements remain too abstract;Process execution defects
-1698.0;Miscommunication between RE team;Communication problems
-1698.0;Lack of leadership;Lack of management
-1698.0;Unfeasible requirements;Process execution defects
-1698.0;Poor requirements elicitation techniques;Insufficient development process
-1698.0;Insufficient information;Lack of knowledge
-1699.0;Poor requirements elicitation techniques;Insufficient development process
-1703.0;Unfeasible requirements;Process execution defects
-1703.0;Unexpected changes in requirements;Moving targets
-1703.0;Volatile requirements;Moving targets
-1703.0;Missing knowledge transfer;Lack of knowledge
-1703.0;Insufficient collaboration in process;Process execution defects
-1705.0;Unexpected changes in requirements;Moving targets
-1705.0;Customer does not know what he wants;Lack of knowledge
-1705.0;Missing domain knowledge;Lack of knowledge
-1705.0;Poor requirements elicitation techniques;Insufficient development process
-1705.0;Requirements remain too abstract;Process execution defects
-1717.0;Unfeasible requirements;Process execution defects
-1717.0;Poor project management;Lack of management
-1717.0;Missing customer involvement;Lack of involvement from the customer
-1717.0;Lack of a well-defined RE process;Insufficient development process
-1717.0;Insufficient information;Lack of knowledge
-1718.0;Missing customer involvement;Lack of involvement from the customer
-1718.0;Poor requirements elicitation techniques;Insufficient development process
-1718.0;Lack of requirements management;Lack of management
-1718.0;Missing tool support;Insufficient development process
-1718.0;Poor requirements elicitation techniques;Insufficient development process
-1723.0;Communication flaws between team and customer;Communication problems
-1723.0;Lack of experience of RE team members;Lack of knowledge
-1723.0;Poor project management;Lack of management
-1727.0;Insufficient resources;Lack of management
-1727.0;Communication flaws between team and customer;Communication problems
-1727.0;Lack of training;Lack of knowledge
-1727.0;Requirements remain too abstract;Process execution defects
-1727.0;Insufficient resources;Lack of management
-1741.0;Poor requirements elicitation techniques;Insufficient development process
-1741.0;Volatile requirements;Moving targets
-1741.0;Missing knowledge transfer;Lack of knowledge
-1741.0;Volatile industry segment that leads to changes;Changing project characteristics
-1741.0;Missing domain knowledge;Lack of knowledge
-1742.0;Communication flaws between team and customer;Communication problems
-1742.0;Communication flaws between team and customer;Communication problems
-1742.0;Lack of requirements management;Lack of management
-1742.0;Communication flaws between team and customer;Communication problems
-1742.0;Lack of change management at customer side;Lack of management
-1744.0;Poor project management;Lack of management
-1744.0;Unfeasible requirements;Process execution defects
-1744.0;Communication flaws between team and customer;Communication problems
-1751.0;Lack of time;Lack of management
-1751.0;Poor requirements elicitation techniques;Insufficient development process
-1753.0;Customer does not know what he wants;Lack of knowledge
-1753.0;Changing business needs;Moving targets
-1753.0;Missing technical knowledge;Lack of knowledge
-1753.0;Missing domain knowledge;Lack of knowledge
-1753.0;Lack of time;Lack of management
-1755.0;Lack of requirements management;Lack of management
-1755.0;Lack of time;Lack of management
-1755.0;Customer does not know what he wants;Lack of knowledge
-1755.0;Subjective interpretations;Human factors
-1755.0;Missing tool support;Insufficient development process
-1756.0;Missing domain knowledge;Lack of knowledge
-1756.0;Lack of teamwork skills;Lack of knowledge
-1756.0;Missing willingless to change;Human factors
-1756.0;Poor requirements elicitation techniques;Insufficient development process
-1759.0;Lack of a well-defined RE process;Insufficient development process
-1759.0;Lack of a well-defined RE process;Insufficient development process
-1759.0;Complexity of project;High complexity of projects
-1759.0;Complexity of domain;High complexity of projects
-1759.0;Requirements remain too abstract;Process execution defects
-1761.0;Unclear business needs;Lack of common understanding about goals
-1761.0;Lack of time;Lack of management
-1761.0;Lack of a well-defined RE process;Insufficient development process
-1761.0;Missing knowledge about development framework;Lack of knowledge
-1762.0;Many customers;Lack of management
-1762.0;Unexpected changes in requirements;Moving targets
-1767.0;Subjective interpretations;Human factors
-1767.0;Stakeholders lack business vision and understanding;Lack of common understanding about goals
-1804.0;Poor requirements elicitation techniques;Insufficient development process
-1804.0;Missing tool support;Insufficient development process
-1804.0;Missing tool support;Insufficient development process
-1804.0;Insufficient collaboration in process;Process execution defects
-1804.0;Communication flaws between team and customer;Communication problems
-1805.0;Missing domain knowledge;Lack of knowledge
-1805.0;Unclear project scope;Lack of management
-1805.0;Lack of requirements management;Lack of management
-1805.0;Missing RE awareness at customer side;Lack of RE awareness
-1805.0;Lack of a well-defined RE process;Insufficient development process
-1810.0;Different skill levels;Lack of knowledge
-1810.0;Stakeholder fluctuation;Changing project characteristics
-1810.0;Unclear project scope;Lack of management
-1810.0;Team fluctuation;Changing project characteristics
-1810.0;Lack of communication channels;Lack of communication channels
-1812.0;Missing customer involvement;Lack of involvement from the customer
-1812.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1812.0;Missing prioritization by customer;Process execution defects
-1812.0;Missing requirements specification template;Process execution defects
-1812.0;Customer does not know what he wants;Lack of knowledge
-1820.0;Lack of teamwork skills;Lack of knowledge
-1820.0;Communication flaws between team and customer;Communication problems
-1820.0;Missing tool support;Insufficient development process
-1820.0;Lack of project management;Lack of management
-1820.0;Missing requirements specification template;Process execution defects
-1828.0;Communication flaws between team and customer;Communication problems
-1828.0;Miscommunication between RE team;Communication problems
-1828.0;Missing technical knowledge;Lack of knowledge
-1828.0;Missing engagement by customer;Lack of engagement
-1828.0;Weak qualification of RE team members;Lack of knowledge
-1831.0;Communication flaws between team and customer;Communication problems
-1831.0;Lack of a well-defined RE process;Insufficient development process
-1840.0;Miscommunication between RE team;Communication problems
-1840.0;Communication flaws between team and customer;Communication problems
-1840.0;Missing RE awareness at customer side;Lack of RE awareness
-1840.0;Volatile industry segment that leads to changes;Changing project characteristics
-1840.0;Lack of time;Lack of management
-1842.0;Lack of experience of RE team members;Lack of knowledge
-1842.0;Inability to specify measurable non-functional requirements;Lack of knowledge
-1842.0;Many customers;Lack of management
-1842.0;Insufficient collaboration in process;Process execution defects
-1842.0;Lack of time;Lack of management
-1844.0;Lack of time;Lack of management
-1844.0;Lack of time;Lack of management
-1844.0;Workload of customer;Lack of involvement from the customer
-1844.0;Communication flaws between team and customer;Communication problems
-1844.0;Lack of time;Lack of management
-1849.0;Poor requirements elicitation techniques;Insufficient development process
-1849.0;Poor project management;Lack of management
-1849.0;Poor requirements elicitation techniques;Insufficient development process
-1849.0;Missing customer involvement;Lack of involvement from the customer
-1849.0;Weak qualification of RE team members;Lack of knowledge
-1894.0;Weak qualification of RE team members;Lack of knowledge
-1894.0;Lack of project management;Lack of management
-1894.0;Conflicting stakeholder viewpoints;Lack of common understanding about goals
-1894.0;Strict time schedule by customer;Lack of management
-1896.0;Requirements remain too abstract;Process execution defects
-1896.0;Missing technical knowledge;Lack of knowledge
-1896.0;Unclear business needs;Lack of common understanding about goals
-1896.0;Missing IT project experience at customer side;Lack of knowledge
-1896.0;Lack of a well-defined RE process;Insufficient development process
-1909.0;Poor project management;Lack of management
-1909.0;Lack of experience of RE team members;Lack of knowledge
-1909.0;Missing methodology;Insufficient development process
-1909.0;Insufficient planning of RE;Process execution defects
-1909.0;Lack of requirements management;Lack of management
-1911.0;Missing domain knowledge;Lack of knowledge
-1911.0;Unfeasible requirements;Process execution defects
-1911.0;Missing solution approach;Insufficient development process
-1911.0;Customer does not know what he wants;Lack of knowledge
-1911.0;Missing documentation;Process execution defects
-1917.0;Poor project management;Lack of management
-1917.0;Lack of a well-defined RE process;Insufficient development process
-1917.0;Conflict of personalities;Human factors
-1917.0;Lack of experience of RE team members;Lack of knowledge
-1917.0;Missing documentation;Process execution defects
-1918.0;Weak qualification of RE team members;Lack of knowledge
-1918.0;Insufficient analysis at the beginning of the project;Process execution defects
-1918.0;Volatile industry segment that leads to changes;Changing project characteristics
-1918.0;Missing of a global view of the system;Lack of knowledge
-1918.0;Insufficient resource plan;Lack of management
-1923.0;Too high team distribution;Lack of management
-1923.0;Lack of training;Lack of knowledge
-1923.0;Missing prioritization by customer;Process execution defects
-1923.0;Insufficient analysis at the beginning of the project;Process execution defects
-1923.0;Customer does not formally approve the requirements;Process execution defects
-1929.0;Insufficient resources;Lack of management
-1932.0;Lack of experience of RE team members;Lack of knowledge
-1932.0;Missing customer involvement;Lack of involvement from the customer
-1932.0;Inappropriate definition of contract;Lack of management
-1933.0;Complexity of domain;High complexity of projects
-1933.0;Missing knowledge about development framework;Lack of knowledge
-1933.0;Complexity of project;High complexity of projects
-1933.0;Missing tool support;Insufficient development process
-1933.0;Thinking in legacy systems;Lack of common understanding about goals
-1941.0;Lack of time;Lack of management
-1941.0;Lack of time;Lack of management
-1941.0;Unclear terminology;Communication problems
-1941.0;High workload;Lack of management
-1941.0;Lack of time;Lack of management
-1957.0;Unclear terminology;Communication problems
-1961.0;Missing domain knowledge;Lack of knowledge
-1961.0;Lack of time;Lack of management
-1961.0;Communication flaws between team and customer;Communication problems
-1961.0;Miscommunication between RE team;Communication problems
-1961.0;Missing domain knowledge;Lack of knowledge
-1962.0;Insufficient resources;Lack of management
-1962.0;Missing domain knowledge;Lack of knowledge
-1962.0;Incomplete requirements;Lack of knowledge
-1962.0;Requirements remain too abstract;Process execution defects
-1962.0;Process doesn't allow for innovation;Insufficient development process
-1965.0;Volatile industry segment that leads to changes;Changing project characteristics
-1965.0;Poor project management;Lack of management
-1965.0;Poor project management;Lack of management
-1965.0;High quality expectation of customer;Lack of common understanding about goals
-1969.0;Missing of a global view of the system;Lack of knowledge
-1969.0;Lack of experience of RE team members;Lack of knowledge
-1969.0;Missing prioritization by customer;Process execution defects
-1969.0;Poor project management;Lack of management
-1969.0;Lack of creativity;Lack of creativity
+lfdn;tag;Source Id;Target Id
+30.0;Process doesn't allow for innovation;109.0;2.0
+30.0;Lack of requirements management;65.0;8.0
+41.0;Lack of discipline;60.0;8.0
+41.0;Lack of requirements management;65.0;10.0
+41.0;Missing knowledge about development framework;88.0;12.0
+41.0;Lack of time;67.0;13.0
+41.0;Inability to specify measurable non-functional requirements;43.0;14.0
+48.0;Subjective interpretations;119.0;12.0
+48.0;Requirements remain too abstract;111.0;10.0
+48.0;Lack of experience of RE team members;61.0;15.0
+48.0;Lack of trust;69.0;0.0
+48.0;Communication flaws between the project and the customer;23.0;0.0
+48.0;Poor project management;106.0;8.0
+58.0;Lack of trust;69.0;0.0
+58.0;Lack of trust;69.0;1.0
+58.0;Customer does not know what he wants;34.0;4.0
+58.0;Poor project management;106.0;4.0
+58.0;Missing RE awareness at customer side;94.0;17.0
+58.0;Unclear business needs;126.0;18.0
+76.0;Stakeholders lack business vision and understanding;117.0;9.0
+76.0;Solution orientation;114.0;10.0
+76.0;Unclear terminology;130.0;12.0
+76.0;Poor project management;106.0;13.0
+81.0;Too high team distribution;122.0;17.0
+81.0;Lack of time;67.0;15.0
+81.0;Missing IT project experience at customer side;87.0;11.0
+81.0;Missing of a global view of the system;91.0;3.0
+81.0;Language barriers;70.0;12.0
+82.0;Lack of requirements management;65.0;1.0
+91.0;Too high team distribution;122.0;0.0
+91.0;Lack of time;67.0;4.0
+91.0;Customer does not know what he wants;34.0;10.0
+93.0;Missing of a global view of the system;91.0;4.0
+93.0;Unclear business needs;126.0;5.0
+93.0;Lack of a well-defined RE process;56.0;9.0
+93.0;Lack of experience of RE team members;61.0;14.0
+97.0;High cost;40.0;13.0
+97.0;Missing RE awareness at team side;95.0;17.0
+97.0;Unclear terminology;130.0;12.0
+97.0;Missing company wide standard;78.0;16.0
+106.0;Workload of customer;138.0;0.0
+106.0;Lack of a well-defined RE process;56.0;2.0
+106.0;Missing access to business needs;74.0;6.0
+106.0;Lack of time;67.0;12.0
+106.0;High complexity in overall project setting;39.0;16.0
+114.0;Requirements remain too abstract;111.0;10.0
+114.0;Missing requirements specification template;96.0;1.0
+118.0;Poor project management;106.0;13.0
+119.0;Poor requirements elicitation techniques;107.0;15.0
+119.0;Missing technical knowledge;98.0;9.0
+119.0;Missing customer involvement;81.0;4.0
+119.0;Missing knowledge about development framework;88.0;5.0
+119.0;Lack of a well-defined RE process;56.0;8.0
+120.0;Too high team distribution;122.0;0.0
+120.0;Solution orientation;114.0;10.0
+120.0;Lack of training;68.0;11.0
+120.0;Customer does not know what he wants;34.0;14.0
+120.0;Inappropriate definition of contract;44.0;19.0
+126.0;Missing knowledge about development framework;88.0;9.0
+126.0;Missing knowledge about development framework;88.0;4.0
+126.0;Lack of experience of RE team members;61.0;14.0
+126.0;Complexity of domain;24.0;0.0
+126.0;Lack of experience of RE team members;61.0;0.0
+126.0;High cost;40.0;13.0
+129.0;Incomplete requirements;45.0;4.0
+129.0;Unclear terminology;130.0;12.0
+129.0;Lack of time;67.0;13.0
+129.0;Lack of teamwork skills;66.0;14.0
+129.0;Non-functional requirements unclear;102.0;15.0
+141.0;Missing direct communication to customer;82.0;10.0
+141.0;Changing business needs;21.0;16.0
+141.0;Communication flaws between team and customer;22.0;17.0
+144.0;Inability to specify measurable non-functional requirements;43.0;14.0
+144.0;Lack of project management;64.0;18.0
+144.0;Insufficient resources;53.0;13.0
+144.0;Missing concentration on business needs;80.0;10.0
+144.0;Missing technical knowledge;98.0;11.0
+146.0;Unavailability of requirements engineer;124.0;3.0
+146.0;Lack of communication channels;58.0;4.0
+146.0;Communication flaws between team and customer;22.0;15.0
+146.0;Missing customer involvement;81.0;18.0
+147.0;Poor project management;106.0;2.0
+147.0;Poor requirements elicitation techniques;107.0;4.0
+147.0;Unclear business needs;126.0;9.0
+147.0;Complexity of project;25.0;15.0
+147.0;Unclear roles and responsonsibilities at customer side;129.0;16.0
+149.0;Missing direct communication to customer;82.0;17.0
+149.0;Lack of time;67.0;13.0
+149.0;Miscommunication between RE team;73.0;1.0
+149.0;Poor project management;106.0;9.0
+149.0;Solution orientration;115.0;10.0
+150.0;Communication flaws between team and customer;22.0;0.0
+150.0;Conflicts of personalities;32.0;1.0
+150.0;Incomplete requirements;45.0;4.0
+150.0;Missing completeness check of requirements;79.0;13.0
+150.0;Lack of experience of RE team members;61.0;15.0
+160.0;Lack of a well-defined RE process;56.0;10.0
+160.0;Missing customer involvement;81.0;7.0
+160.0;Communication flaws between team and customer;22.0;0.0
+160.0;High cost;40.0;6.0
+163.0;Conflicts of personalities;32.0;1.0
+163.0;Lack of experience of RE team members;61.0;4.0
+163.0;Missing IT project experience at customer side;87.0;7.0
+163.0;Lack of a well-defined RE process;56.0;8.0
+163.0;Lack of leadership;63.0;19.0
+165.0;Insufficient agility;46.0;2.0
+165.0;Lack of experience of RE team members;61.0;0.0
+165.0;Poor requirements elicitation techniques;107.0;1.0
+165.0;Poor requirements elicitation techniques;107.0;4.0
+165.0;Lack of project management;64.0;9.0
+167.0;Lack of leadership;63.0;16.0
+167.0;Lack of communication channels;58.0;13.0
+167.0;Lack of experience of RE team members;61.0;0.0
+167.0;Lack of leadership;63.0;1.0
+167.0;Lack of experience of RE team members;61.0;10.0
+168.0;Unclear business needs;126.0;13.0
+168.0;Complexity of project;25.0;9.0
+168.0;Lack of experience of RE team members;61.0;15.0
+168.0;SE Team refrains from asking questions;113.0;1.0
+168.0;Complexity of project;25.0;2.0
+170.0;Missing communication to customer side;77.0;18.0
+170.0;Incomplete requirements;45.0;14.0
+170.0;Missing documentation;83.0;5.0
+170.0;Volatile requirements;134.0;9.0
+170.0;Poor project management;106.0;13.0
+178.0;Missing direct communication to customer;82.0;0.0
+178.0;Documentation overhead;37.0;4.0
+179.0;Insufficient information;49.0;17.0
+179.0;Missing customer involvement;81.0;6.0
+179.0;Lack of communication channels;58.0;18.0
+179.0;Language barriers;70.0;0.0
+179.0;Customer does not know what he wants;34.0;5.0
+182.0;Lack of a well-defined RE process;56.0;8.0
+182.0;Poor project management;106.0;12.0
+182.0;Non functional requirements unclear;101.0;15.0
+182.0;Volatile requirements;134.0;16.0
+188.0;Unclear business needs;126.0;9.0
+188.0;Missing technical knowledge;98.0;0.0
+188.0;Volatile industry segment that leads to changes;133.0;3.0
+188.0;Lack of communication channels;58.0;4.0
+188.0;Lack of creativity;59.0;11.0
+199.0;Poor project management;106.0;13.0
+199.0;Poor project management;106.0;7.0
+199.0;Lack of requirements management;65.0;5.0
+199.0;Insufficient analysis at the beginning of the project;47.0;4.0
+199.0;Missing involvement of developers;86.0;2.0
+203.0;Poor project management;106.0;7.0
+203.0;Subjective interpretations;119.0;7.0
+205.0;Weak qualification of stakeholders;137.0;8.0
+205.0;Lack of project management;64.0;9.0
+205.0;Missing concentration on business needs;80.0;10.0
+208.0;Lack of creativity;59.0;11.0
+208.0;Thinking in legacy systems;121.0;10.0
+208.0;Customer does not formally approve the requirements;33.0;13.0
+208.0;Conflict of interests at customer side;28.0;0.0
+208.0;Lack of time;67.0;2.0
+210.0;Poor requirements elicitation techniques;107.0;4.0
+210.0;Lack of experience of RE team members;61.0;5.0
+210.0;Lack of time;67.0;7.0
+213.0;Missing solution approach;97.0;2.0
+213.0;Insufficient collaboration in process;48.0;6.0
+213.0;Lack of time;67.0;6.0
+213.0;Unclear terminology;130.0;12.0
+213.0;Not following the communication plan;103.0;13.0
+213.0;Requirements remain too abstract;111.0;15.0
+215.0;Non-functional requirements unclear;102.0;14.0
+215.0;Pressure to not exceed priminarily defined resources;108.0;4.0
+215.0;Conflicting stakeholder viewpoints;31.0;3.0
+215.0;Too high team distribution;122.0;1.0
+217.0;Missing domain knowledge;84.0;0.0
+217.0;Lack of teamwork skills;66.0;3.0
+217.0;Communication flaws between team and customer;22.0;10.0
+217.0;Missing domain knowledge;84.0;12.0
+217.0;Lack of time;67.0;18.0
+230.0;Missing domain knowledge;84.0;15.0
+230.0;Unclear terminology;130.0;12.0
+230.0;Lack of requirements management;65.0;18.0
+230.0;High quality expectation of customer;41.0;4.0
+230.0;Lack of a well-defined RE process;56.0;8.0
+231.0;Lack of experience of RE team members;61.0;1.0
+231.0;Lack of experience of RE team members;61.0;12.0
+231.0;Lack of experience of RE team members;61.0;13.0
+231.0;Lack of experience of RE team members;61.0;14.0
+231.0;Lack of experience of RE team members;61.0;15.0
+239.0;Lack of experience of RE team members;61.0;4.0
+239.0;Insufficient analysis at the beginning of the project;47.0;9.0
+239.0;Missing customer involvement;81.0;13.0
+249.0;Lack of discipline;60.0;13.0
+249.0;Missing domain knowledge;84.0;12.0
+249.0;Changing business needs;21.0;18.0
+249.0;Unclear roles and responsonsibilities at customer side;129.0;0.0
+249.0;Conflict of personalities;30.0;1.0
+258.0;Unclear business needs;126.0;2.0
+258.0;Lack of time;67.0;0.0
+259.0;Poor requirements elicitation techniques;107.0;0.0
+259.0;Demotivation;35.0;3.0
+259.0;Demotivation;35.0;3.0
+259.0;Complexity of project;25.0;9.0
+259.0;Missing domain knowledge;84.0;12.0
+259.0;Insufficient analysis at the beginning of the project;47.0;14.0
+263.0;Lack of time;67.0;0.0
+263.0;Missing willingless to change;100.0;2.0
+263.0;Complexity of project;25.0;4.0
+263.0;Complexity of project;25.0;5.0
+263.0;Poor project management;106.0;13.0
+267.0;Not following the communication plan;103.0;15.0
+267.0;Poor project management;106.0;13.0
+267.0;Lack of time;67.0;0.0
+267.0;Lack of time;67.0;4.0
+267.0;Miscommunication between RE team;73.0;11.0
+268.0;Poor documentation;105.0;4.0
+268.0;Missing requirements specification template;96.0;5.0
+268.0;Customer does not know what he wants;34.0;7.0
+268.0;Lack of project management;64.0;12.0
+268.0;Lack of time;67.0;13.0
+278.0;Lack of trust;69.0;19.0
+278.0;Lack of leadership;63.0;7.0
+278.0;Insufficient collaboration in process;48.0;0.0
+278.0;Lack of leadership;63.0;1.0
+278.0;Lack of trust;69.0;6.0
+283.0;Subjective interpretations;119.0;4.0
+283.0;Lack of experience of RE team members;61.0;8.0
+283.0;Inability to specify measurable non-functional requirements;43.0;14.0
+283.0;Subjective interpretations;119.0;15.0
+291.0;Stakeholders lack business vision and understanding;117.0;9.0
+291.0;High complexity in overall project setting;39.0;16.0
+291.0;Communication flaws between team and customer;22.0;17.0
+295.0;Weak management at customer side;135.0;17.0
+295.0;Volatile industry segment that leads to changes;133.0;16.0
+295.0;Weak management at customer side;135.0;0.0
+295.0;Lack of project management;64.0;9.0
+297.0;Missing RE awareness at team side;95.0;1.0
+297.0;Missing tool support;99.0;8.0
+297.0;Stakeholders lack business vision and understanding;117.0;9.0
+297.0;Communication flaws between team and customer;22.0;12.0
+297.0;Poor project management;106.0;13.0
+304.0;Team fluctuation;120.0;18.0
+304.0;Unclear terminology;130.0;12.0
+304.0;Insufficient agility;46.0;17.0
+304.0;Team fluctuation;120.0;0.0
+304.0;Many customers;71.0;5.0
+304.0;Strict time schedule by customer;118.0;0.0
+310.0;Lack of time;67.0;6.0
+310.0;Conflict of interests at customer side;28.0;9.0
+310.0;Complexity of domain;24.0;13.0
+310.0;Customer does not know what he wants;34.0;14.0
+313.0;Inability to specify measurable non-functional requirements;43.0;14.0
+313.0;Strict time schedule by customer;118.0;10.0
+313.0;Subjective interpretations;119.0;12.0
+313.0;Lack of time;67.0;2.0
+313.0;Missing prioritization by customer;92.0;3.0
+317.0;Lack of time;67.0;13.0
+330.0;Weak qualification of RE team members;136.0;1.0
+330.0;Missing customer involvement;81.0;4.0
+330.0;Many customers;71.0;9.0
+330.0;Unclear roles and responsibilities at customer side;128.0;12.0
+330.0;Missing customer involvement;81.0;15.0
+332.0;Lack of a well-defined RE process;56.0;10.0
+341.0;Unclear terminology;130.0;12.0
+341.0;Volatile requirements;134.0;8.0
+355.0;Lack of experience of RE team members;61.0;12.0
+355.0;Insufficient team size;55.0;13.0
+355.0;Insufficient team size;55.0;9.0
+355.0;Complexity of project;25.0;11.0
+359.0;Missing engagement by customer;85.0;4.0
+359.0;Conflict of interests at customer side;28.0;5.0
+359.0;Lack of time;67.0;13.0
+359.0;Not following the communication plan;103.0;17.0
+359.0;Missing domain knowledge;84.0;18.0
+364.0;Conflicting stakeholder viewpoints;31.0;0.0
+364.0;Incomplete requirements;45.0;4.0
+364.0;Conflict of interests at management level;29.0;6.0
+364.0;Unclear project scope;127.0;9.0
+364.0;Poor project management;106.0;13.0
+365.0;Changing business needs;21.0;16.0
+365.0;Missing customer involvement;81.0;13.0
+370.0;Lack of change management at customer side;57.0;5.0
+370.0;Missing domain knowledge;84.0;10.0
+370.0;Strict time schedule by customer;118.0;13.0
+370.0;Missing of a global view of the system;91.0;15.0
+372.0;Unclear business needs;126.0;5.0
+377.0;Too high team distribution;122.0;0.0
+377.0;Missing customer involvement;81.0;6.0
+377.0;Conflicting stakeholder viewpoints;31.0;9.0
+377.0;Lack of requirements management;65.0;13.0
+377.0;Weak qualification of stakeholders;137.0;17.0
+378.0;Lack of experience of RE team members;61.0;17.0
+378.0;Missing documentation;83.0;12.0
+378.0;Missing customer involvement;81.0;14.0
+378.0;Gold plating;38.0;3.0
+378.0;Missing documentation;83.0;4.0
+384.0;Stakeholders lack business vision and understanding;117.0;0.0
+384.0;Gold plating;38.0;3.0
+384.0;Lack of requirements management;65.0;9.0
+384.0;Thinking in legacy systems;121.0;10.0
+384.0;Insufficient requirements;51.0;15.0
+387.0;Complexity of RE;26.0;13.0
+387.0;Solution orientation;114.0;11.0
+387.0;Volatile industry segment that leads to changes;133.0;9.0
+387.0;Missing tool support;99.0;8.0
+387.0;Poor project management;106.0;1.0
+393.0;Communication flaws between team and customer;22.0;3.0
+393.0;Complexity of project;25.0;9.0
+393.0;Lack of a well-defined RE process;56.0;10.0
+393.0;Poor project management;106.0;13.0
+393.0;Complexity of project;25.0;16.0
+416.0;Lack of requirements management;65.0;13.0
+416.0;Insufficient resources;53.0;12.0
+416.0;Insufficient team size;55.0;15.0
+416.0;Unavailability of requirements engineer;124.0;4.0
+416.0;Lack of training;68.0;11.0
+420.0;Missing concentration on business needs;80.0;17.0
+420.0;Non-functional requirements unclear;102.0;19.0
+420.0;Weak qualification of stakeholders;137.0;7.0
+425.0;Customer does not know what he wants;34.0;2.0
+425.0;Customer does not know what he wants;34.0;6.0
+425.0;Poor project management;106.0;9.0
+425.0;Poor project management;106.0;14.0
+427.0;Missing customer involvement;81.0;14.0
+427.0;Poor project management;106.0;8.0
+427.0;Lack of time;67.0;13.0
+427.0;Incomplete requirements;45.0;4.0
+427.0;Missing customer involvement;81.0;6.0
+437.0;Lack of experience of RE team members;61.0;0.0
+437.0;Lack of a well-defined RE process;56.0;4.0
+437.0;Volatile industry segment that leads to changes;133.0;9.0
+437.0;Missing customer involvement;81.0;17.0
+442.0;Volatile industry segment that leads to changes;133.0;9.0
+442.0;Poor project management;106.0;2.0
+442.0;Missing knowledge about development framework;88.0;10.0
+444.0;Poor documentation;105.0;15.0
+444.0;Poor requirements elicitation techniques;107.0;4.0
+444.0;Pressure to not exceed priminarily defined resources;108.0;13.0
+444.0;Missing prioritization by customer;92.0;0.0
+444.0;Lack of time;67.0;0.0
+444.0;Missing documentation;83.0;1.0
+446.0;Demotivation;35.0;13.0
+446.0;Lack of interest about customers domain;62.0;12.0
+446.0;Incomplete requirements;45.0;0.0
+446.0;Lack of requirements management;65.0;1.0
+446.0;Demotivation;35.0;10.0
+453.0;Lack of experience of RE team members;61.0;0.0
+453.0;Lack of change management at customer side;57.0;4.0
+453.0;Stakeholders lack business vision and understanding;117.0;9.0
+453.0;Missing customer involvement;81.0;14.0
+453.0;Lack of time;67.0;15.0
+461.0;Insufficient information;49.0;18.0
+461.0;Lack of time;67.0;15.0
+461.0;Missing technical knowledge;98.0;14.0
+461.0;Lack of time;67.0;4.0
+461.0;Poor project management;106.0;13.0
+467.0;Lack of communication channels;58.0;1.0
+467.0;Missing completeness check of requirements;79.0;3.0
+467.0;Lack of experience of RE team members;61.0;4.0
+467.0;Unexpected changes in requirements;131.0;9.0
+467.0;Poor project management;106.0;13.0
+468.0;Unclear business needs;126.0;15.0
+468.0;Demotivation;35.0;7.0
+468.0;Missing technical knowledge;98.0;13.0
+468.0;Missing knowledge transfer;89.0;1.0
+468.0;Missing customer involvement;81.0;6.0
+479.0;Insufficient collaboration in process;48.0;0.0
+479.0;Unclear terminology;130.0;1.0
+479.0;Insufficient agility;46.0;8.0
+479.0;Lack of interest about customers domain;62.0;12.0
+482.0;Lack of teamwork skills;66.0;1.0
+482.0;Incomplete requirements;45.0;4.0
+482.0;Missing requirements specification template;96.0;5.0
+482.0;Requirements remain too abstract;111.0;10.0
+485.0;Missing domain knowledge;84.0;18.0
+485.0;Lack of time;67.0;13.0
+485.0;Miscommunication between RE team;73.0;1.0
+485.0;Lack of a well-defined RE process;56.0;4.0
+485.0;Lack of a well-defined RE process;56.0;9.0
+489.0;Lack of time;67.0;0.0
+489.0;Lack of time;67.0;1.0
+489.0;Lack of time;67.0;4.0
+502.0;Lack of requirements management;65.0;8.0
+506.0;Poor requirements elicitation techniques;107.0;4.0
+506.0;Poor requirements elicitation techniques;107.0;2.0
+511.0;Volatile industry segment that leads to changes;133.0;13.0
+511.0;Missing customer involvement;81.0;15.0
+511.0;Lack of time;67.0;0.0
+511.0;Weak management at customer side;135.0;9.0
+512.0;Missing concentration on business needs;80.0;18.0
+512.0;Weak qualification of stakeholders;137.0;16.0
+512.0;Lack of teamwork skills;66.0;6.0
+512.0;Missing direct communication to customer;82.0;0.0
+518.0;Lack of discipline;60.0;0.0
+518.0;Not following the communication plan;103.0;1.0
+518.0;Customer does not know what he wants;34.0;6.0
+518.0;Lack of time;67.0;13.0
+523.0;Poor documentation;105.0;15.0
+523.0;Insufficient team size;55.0;12.0
+523.0;Communication flaws between team and customer;22.0;18.0
+523.0;Unavailability of requirements engineer;124.0;4.0
+523.0;Weak qualification of RE team members;136.0;5.0
+524.0;Lack of communication channels;58.0;1.0
+524.0;Incomplete requirements;45.0;4.0
+524.0;Missing check of requirements;76.0;5.0
+524.0;Lack of a well-defined RE process;56.0;8.0
+524.0;Missing customer involvement;81.0;13.0
+525.0;Poor project management;106.0;13.0
+525.0;High quality expectation of customer;41.0;0.0
+525.0;Incomplete requirements;45.0;4.0
+525.0;Missing willingless to change;100.0;10.0
+525.0;Lack of communication channels;58.0;12.0
+534.0;Stakeholder fluctuation;116.0;14.0
+534.0;Lack of time;67.0;4.0
+534.0;Missing direct communication to customer;82.0;0.0
+534.0;Lack of teamwork skills;66.0;1.0
+541.0;Lack of requirements management;65.0;4.0
+545.0;Lack of discipline;60.0;0.0
+545.0;Lack of experience of RE team members;61.0;1.0
+545.0;Lack of time;67.0;4.0
+545.0;Policy restrictions;104.0;9.0
+545.0;Lack of time;67.0;13.0
+549.0;Poor project management;106.0;13.0
+549.0;Unclear roles and responsonsibilities at customer side;129.0;15.0
+549.0;Many customers;71.0;5.0
+549.0;Incomplete requirements;45.0;3.0
+549.0;Customer does not know what he wants;34.0;3.0
+549.0;Missing completeness check of requirements;79.0;4.0
+570.0;Language barriers;70.0;1.0
+570.0;Lack of a well-defined RE process;56.0;2.0
+570.0;Unclear terminology;130.0;12.0
+570.0;Insufficient resource plan;52.0;13.0
+570.0;Lack of experience of RE team members;61.0;18.0
+572.0;Missing company wide standard;78.0;5.0
+572.0;Lack of requirements management;65.0;3.0
+572.0;Missing concentration on business needs;80.0;4.0
+572.0;Lack of a well-defined RE process;56.0;8.0
+573.0;Lack of leadership;63.0;19.0
+573.0;Missing domain knowledge;84.0;18.0
+573.0;Weak qualification of RE team members;136.0;1.0
+573.0;Unclear business needs;126.0;0.0
+586.0;Communication flaws between team and customer;22.0;0.0
+586.0;Communication flaws between team and customer;22.0;1.0
+586.0;Complexity of project;25.0;2.0
+586.0;Lack of a well-defined RE process;56.0;10.0
+586.0;Unclear terminology;130.0;12.0
+626.0;Missing domain knowledge;84.0;4.0
+626.0;Lack of requirements management;65.0;8.0
+626.0;Unclear business needs;126.0;9.0
+626.0;Missing company wide standard;78.0;12.0
+626.0;Lack of experience of RE team members;61.0;18.0
+637.0;Lack of experience of RE team members;61.0;18.0
+637.0;Poor project management;106.0;13.0
+637.0;Strict time schedule by customer;118.0;0.0
+637.0;Thinking in legacy systems;121.0;4.0
+637.0;Missing tool support;99.0;8.0
+640.0;Conflict of interests at management level;29.0;0.0
+640.0;Gold plating;38.0;3.0
+640.0;Poor requirements elicitation techniques;107.0;4.0
+640.0;Conflict of interests at customer side;28.0;9.0
+640.0;Strict time schedule by customer;118.0;13.0
+649.0;High quality expectation of customer;41.0;13.0
+649.0;Thinking in legacy systems;121.0;10.0
+649.0;High quality expectation of customer;41.0;3.0
+649.0;Lack of time;67.0;2.0
+649.0;Missing engagement by customer;85.0;4.0
+661.0;Lack of project management;64.0;1.0
+661.0;Customer does not know what he wants;34.0;4.0
+661.0;Lack of leadership;63.0;7.0
+661.0;Volatile industry segment that leads to changes;133.0;9.0
+663.0;Lack of a well-defined RE process;56.0;16.0
+663.0;Stakeholders lack business vision and understanding;117.0;9.0
+663.0;Missing IT project experience at customer side;87.0;13.0
+663.0;Missing of a global view of the system;91.0;0.0
+663.0;Weak qualification of RE team members;136.0;4.0
+676.0;Lack of requirements management;65.0;0.0
+676.0;Customer does not know what he wants;34.0;4.0
+676.0;Stakeholders lack business vision and understanding;117.0;4.0
+676.0;Missing customer involvement;81.0;6.0
+676.0;Customer does not formally approve the requirements;33.0;14.0
+684.0;Missing customer involvement;81.0;6.0
+684.0;Communication flaws between team and customer;22.0;1.0
+684.0;Unclear business needs;126.0;5.0
+684.0;Lack of time;67.0;7.0
+694.0;Weak qualification of RE team members;136.0;15.0
+694.0;Strict time schedule by customer;118.0;13.0
+694.0;Requirements engineer has no influence on customer;110.0;14.0
+694.0;Communication flaws between team and customer;22.0;1.0
+694.0;Insufficient collaboration in process;48.0;0.0
+710.0;Customer does not formally approve the requirements;33.0;4.0
+710.0;Lack of time;67.0;6.0
+710.0;Poor project management;106.0;8.0
+710.0;Lack of communication channels;58.0;9.0
+710.0;Lack of time;67.0;15.0
+719.0;Lack of experience of RE team members;61.0;0.0
+719.0;Miscommunication between RE team;73.0;1.0
+719.0;Customer does not formally approve the requirements;33.0;4.0
+719.0;Missing methodology;90.0;8.0
+719.0;Insufficient analysis at the beginning of the project;47.0;15.0
+722.0;Unclear roles and responsonsibilities at customer side;129.0;9.0
+722.0;Lack of requirements management;65.0;6.0
+722.0;Poor project management;106.0;0.0
+722.0;Weak qualification of RE team members;136.0;1.0
+723.0;Miscommunication between RE team;73.0;1.0
+723.0;Subjective interpretations;119.0;10.0
+729.0;Unclear roles and responsonsibilities at customer side;129.0;4.0
+729.0;Team fluctuation;120.0;9.0
+729.0;Solution orientation;114.0;10.0
+735.0;Lack of requirements management;65.0;0.0
+735.0;Poor project management;106.0;13.0
+740.0;Missing RE awareness at customer side;94.0;18.0
+740.0;Missing customer involvement;81.0;17.0
+740.0;Strict time schedule by customer;118.0;6.0
+740.0;Poor requirements elicitation techniques;107.0;4.0
+740.0;Insufficient stakeholder analysis;54.0;15.0
+742.0;Lack of communication channels;58.0;0.0
+742.0;Lack of change management at customer side;57.0;9.0
+742.0;Stakeholder fluctuation;116.0;16.0
+758.0;Lack of change management at customer side;57.0;9.0
+758.0;Missing technical knowledge;98.0;11.0
+758.0;Missing domain knowledge;84.0;18.0
+768.0;Unavailability of stakeholder;125.0;17.0
+768.0;Poor project management;106.0;13.0
+768.0;Customer does not know what he wants;34.0;4.0
+768.0;Lack of communication channels;58.0;1.0
+774.0;Stakeholders lack business vision and understanding;117.0;3.0
+774.0;High quality expectation of customer;41.0;11.0
+786.0;Lack of teamwork skills;66.0;1.0
+786.0;Missing domain knowledge;84.0;12.0
+795.0;Language barriers;70.0;0.0
+795.0;Lack of leadership;63.0;13.0
+795.0;Lack of a well-defined RE process;56.0;15.0
+795.0;Insufficient information;49.0;17.0
+819.0;Poor project management;106.0;13.0
+819.0;Lack of time;67.0;14.0
+819.0;Stakeholders lack business vision and understanding;117.0;12.0
+819.0;Thinking in legacy systems;121.0;10.0
+819.0;Insufficient information;49.0;0.0
+825.0;Miscommunication between RE team;73.0;1.0
+825.0;Lack of leadership;63.0;7.0
+830.0;Missing IT project experience at customer side;87.0;11.0
+830.0;Poor project management;106.0;13.0
+830.0;Inability to specify measurable non-functional requirements;43.0;14.0
+831.0;Customer does not know what he wants;34.0;17.0
+845.0;Thinking in legacy systems;121.0;13.0
+847.0;Missing concentration on business needs;80.0;10.0
+847.0;Missing completeness check of requirements;79.0;4.0
+847.0;Lack of requirements management;65.0;11.0
+847.0;Process doesn't allow for innovation;109.0;2.0
+847.0;Lack of a well-defined RE process;56.0;3.0
+849.0;Conflict of interests at customer side;28.0;0.0
+849.0;Customer does not know what he wants;34.0;9.0
+849.0;Missing concentration on business needs;80.0;16.0
+849.0;Unclear business needs;126.0;17.0
+851.0;Unclear roles and responsibilities at customer side;128.0;4.0
+851.0;Missing customer involvement;81.0;6.0
+851.0;Missing technical knowledge;98.0;9.0
+851.0;Subjective interpretations;119.0;10.0
+851.0;Strict time schedule by customer;118.0;13.0
+856.0;Unexpected changes in requirements;131.0;9.0
+856.0;Lack of experience of RE team members;61.0;18.0
+856.0;Missing customer involvement;81.0;6.0
+856.0;Insufficient collaboration in process;48.0;0.0
+856.0;Lack of time;67.0;4.0
+856.0;Missing completeness check of requirements;79.0;4.0
+857.0;Complexity of domain;24.0;0.0
+864.0;Insufficient collaboration in process;48.0;0.0
+864.0;Unclear project scope;127.0;3.0
+864.0;Lack of experience of RE team members;61.0;4.0
+864.0;Weak qualification of RE team members;136.0;8.0
+864.0;Lack of interest about customers domain;62.0;10.0
+865.0;Missing concentration on business needs;80.0;19.0
+865.0;Poor project management;106.0;13.0
+865.0;Lack of interest about customers domain;62.0;7.0
+865.0;Missing technical knowledge;98.0;4.0
+865.0;Unclear business needs;126.0;9.0
+868.0;Lack of experience of RE team members;61.0;18.0
+868.0;Communication flaws between team and customer;22.0;1.0
+868.0;Lack of time;67.0;5.0
+868.0;Lack of experience of RE team members;61.0;15.0
+868.0;Stakeholders lack business vision and understanding;117.0;16.0
+868.0;Lack of time;67.0;18.0
+870.0;Weak qualification of RE team members;136.0;5.0
+870.0;Missing IT project experience at customer side;87.0;10.0
+870.0;Lack of experience of RE team members;61.0;4.0
+870.0;Lack of experience of RE team members;61.0;1.0
+870.0;Stakeholders lack business vision and understanding;117.0;0.0
+876.0;Lack of time;67.0;0.0
+876.0;Missing domain knowledge;84.0;1.0
+876.0;Missing IT project experience at customer side;87.0;9.0
+876.0;Solution orientation;114.0;14.0
+876.0;Poor requirements elicitation techniques;107.0;15.0
+879.0;Rework;112.0;5.0
+879.0;Missing solution approach;97.0;10.0
+879.0;Unclear terminology;130.0;12.0
+879.0;Requirements remain too abstract;111.0;15.0
+879.0;Poor project management;106.0;18.0
+880.0;Missing IT project experience at customer side;87.0;16.0
+880.0;Thinking in legacy systems;121.0;15.0
+880.0;Stakeholders lack business vision and understanding;117.0;0.0
+880.0;Volatile industry segment that leads to changes;133.0;9.0
+880.0;Poor project management;106.0;13.0
+889.0;Missing engagement by customer;85.0;6.0
+894.0;Subjective interpretations;119.0;15.0
+894.0;Rework;112.0;4.0
+894.0;Rework;112.0;5.0
+894.0;Lack of change management at customer side;57.0;8.0
+894.0;Inability to specify measurable non-functional requirements;43.0;14.0
+896.0;Lack of experience of RE team members;61.0;14.0
+896.0;Gold plating;38.0;3.0
+896.0;Missing domain knowledge;84.0;4.0
+900.0;Stakeholders lack business vision and understanding;117.0;4.0
+900.0;Poor requirements elicitation techniques;107.0;10.0
+900.0;Conflicting stakeholder viewpoints;31.0;12.0
+900.0;Missing domain knowledge;84.0;18.0
+901.0;Not following the communication plan;103.0;17.0
+901.0;Too high team distribution;122.0;1.0
+901.0;Missing engagement by customer;85.0;4.0
+901.0;Complexity of project;25.0;10.0
+901.0;Missing customer involvement;81.0;13.0
+909.0;Poor requirements elicitation techniques;107.0;17.0
+909.0;Poor project management;106.0;13.0
+909.0;Lack of leadership;63.0;7.0
+909.0;Lack of experience of RE team members;61.0;3.0
+909.0;Lack of interest about customers domain;62.0;4.0
+909.0;Lack of interest about customers domain;62.0;4.0
+910.0;Insufficient resources;53.0;13.0
+910.0;Weak qualification of RE team members;136.0;5.0
+910.0;Missing tool support;99.0;8.0
+910.0;Lack of experience of RE team members;61.0;15.0
+912.0;Lack of time;67.0;13.0
+912.0;Communication flaws between team and customer;22.0;10.0
+912.0;Missing domain knowledge;84.0;18.0
+912.0;Insufficient information;49.0;4.0
+912.0;Missing prioritization by customer;92.0;6.0
+916.0;Missing RE awareness at team side;95.0;3.0
+916.0;Gold plating;38.0;5.0
+916.0;Lack of experience of RE team members;61.0;8.0
+916.0;Customer does not know what he wants;34.0;9.0
+916.0;Missing direct communication to customer;82.0;17.0
+917.0;Stakeholder fluctuation;116.0;9.0
+917.0;Missing engagement by customer;85.0;5.0
+917.0;Lack of time;67.0;17.0
+917.0;Lack of time;67.0;0.0
+917.0;Lack of a well-defined RE process;56.0;4.0
+918.0;Customer does not know what he wants;34.0;0.0
+918.0;Lack of time;67.0;6.0
+918.0;Lack of a well-defined RE process;56.0;9.0
+918.0;Inappropriate definition of contract;44.0;13.0
+918.0;Stakeholders lack business vision and understanding;117.0;15.0
+921.0;Lack of a well-defined RE process;56.0;4.0
+921.0;Lack of requirements management;65.0;5.0
+921.0;Lack of experience of RE team members;61.0;15.0
+921.0;Missing customer involvement;81.0;19.0
+923.0;Customer does not know what he wants;34.0;15.0
+923.0;Missing customer involvement;81.0;9.0
+923.0;Insufficient resources;53.0;13.0
+923.0;Missing IT project experience at customer side;87.0;2.0
+923.0;Customer does not know what he wants;34.0;5.0
+924.0;Missing involvement of developers;86.0;0.0
+924.0;Lack of teamwork skills;66.0;1.0
+924.0;Stakeholders lack business vision and understanding;117.0;4.0
+924.0;Insufficient analysis at the beginning of the project;47.0;5.0
+924.0;Lack of requirements management;65.0;8.0
+928.0;Incomplete requirements;45.0;1.0
+928.0;Lack of experience of RE team members;61.0;4.0
+928.0;Missing willingless to change;100.0;10.0
+928.0;Strict time schedule by customer;118.0;13.0
+928.0;Missing IT project experience at customer side;87.0;17.0
+929.0;Strict time schedule by customer;118.0;13.0
+929.0;Insufficient resource plan;52.0;6.0
+929.0;Communication flaws between team and customer;22.0;0.0
+929.0;Lack of leadership;63.0;1.0
+929.0;Lack of a well-defined RE process;56.0;5.0
+930.0;Missing engagement by customer;85.0;0.0
+930.0;Poor requirements elicitation techniques;107.0;4.0
+930.0;Volatile industry segment that leads to changes;133.0;9.0
+930.0;Missing RE awareness at customer side;94.0;10.0
+930.0;Customer does not know what he wants;34.0;15.0
+931.0;Missing domain knowledge;84.0;1.0
+932.0;Unexpected changes in requirements;131.0;9.0
+933.0;Lack of experience of RE team members;61.0;15.0
+933.0;Lack of time;67.0;13.0
+933.0;Customer does not know what he wants;34.0;0.0
+933.0;Poor requirements elicitation techniques;107.0;5.0
+933.0;Volatile requirements;134.0;9.0
+937.0;Unclear project scope;127.0;3.0
+937.0;Poor project management;106.0;13.0
+945.0;Poor requirements elicitation techniques;107.0;0.0
+945.0;Customer does not know what he wants;34.0;4.0
+945.0;Missing completeness check of requirements;79.0;5.0
+945.0;Missing engagement by customer;85.0;7.0
+945.0;Complexity of domain;24.0;15.0
+947.0;High quality expectation of customer;41.0;13.0
+947.0;Lack of time;67.0;12.0
+947.0;Volatile industry segment that leads to changes;133.0;9.0
+947.0;Lack of experience of RE team members;61.0;0.0
+947.0;Communication flaws between the project and the customer;23.0;0.0
+947.0;Customer does not know what he wants;34.0;4.0
+952.0;Missing documentation;83.0;8.0
+952.0;Incomplete requirements;45.0;4.0
+952.0;Stakeholders lack business vision and understanding;117.0;5.0
+952.0;Missing access to business needs;74.0;6.0
+958.0;Too high team distribution;122.0;10.0
+958.0;Strict time schedule by customer;118.0;13.0
+958.0;Missing customer involvement;81.0;4.0
+958.0;Missing prioritization by customer;92.0;6.0
+959.0;Volatile industry segment that leads to changes;133.0;16.0
+959.0;Insufficient stakeholder analysis;54.0;15.0
+959.0;Subjective interpretations;119.0;3.0
+959.0;Missing tool support;99.0;8.0
+959.0;Complexity of project;25.0;13.0
+968.0;Insufficient collaboration in process;48.0;0.0
+968.0;Poor project management;106.0;13.0
+980.0;Poor project management;106.0;13.0
+984.0;Insufficient resources;53.0;13.0
+984.0;Missing tool support;99.0;8.0
+984.0;Conflicting stakeholder viewpoints;31.0;1.0
+984.0;Insufficient agility;46.0;2.0
+985.0;Missing customer involvement;81.0;6.0
+985.0;Missing customer involvement;81.0;9.0
+985.0;Missing domain knowledge;84.0;18.0
+985.0;Lack of teamwork skills;66.0;1.0
+987.0;Lack of time;67.0;4.0
+987.0;Lack of time;67.0;8.0
+987.0;Lack of time;67.0;11.0
+987.0;Poor requirements elicitation techniques;107.0;15.0
+987.0;Lack of time;67.0;18.0
+990.0;Lack of change management at customer side;57.0;12.0
+990.0;Missing customer involvement;81.0;17.0
+990.0;Incomplete requirements;45.0;9.0
+990.0;High workload;42.0;1.0
+990.0;Poor project management;106.0;4.0
+997.0;Missing customer involvement;81.0;6.0
+997.0;Thinking in legacy systems;121.0;10.0
+997.0;Lack of time;67.0;13.0
+997.0;Missing domain knowledge;84.0;14.0
+1006.0;Customer does not know what he wants;34.0;0.0
+1006.0;Too many meetings;123.0;1.0
+1006.0;Missing requirements specification template;96.0;4.0
+1006.0;Volatile requirements;134.0;9.0
+1006.0;Workload of customer;138.0;17.0
+1010.0;Missing project management;93.0;15.0
+1010.0;Poor project management;106.0;14.0
+1010.0;Customer does not know what he wants;34.0;9.0
+1010.0;Poor project management;106.0;13.0
+1010.0;Missing tool support;99.0;8.0
+1011.0;Conflicting stakeholder viewpoints;31.0;3.0
+1011.0;Weak management at customer side;135.0;4.0
+1011.0;Conflicting stakeholder viewpoints;31.0;5.0
+1011.0;Weak management at customer side;135.0;9.0
+1011.0;Communication flaws between team and customer;22.0;12.0
+1012.0;Missing concentration on business needs;80.0;19.0
+1012.0;Poor project management;106.0;13.0
+1012.0;Unexpected changes in requirements;131.0;5.0
+1012.0;Missing check of requirements;76.0;1.0
+1012.0;Lack of requirements management;65.0;8.0
+1014.0;Communication flaws between team and customer;22.0;1.0
+1014.0;Missing documentation;83.0;4.0
+1014.0;Poor project management;106.0;13.0
+1014.0;Documentation overhead;37.0;15.0
+1014.0;Missing domain knowledge;84.0;18.0
+1017.0;Documentation overhead;37.0;17.0
+1017.0;Missing customer involvement;81.0;10.0
+1017.0;Unclear terminology;130.0;12.0
+1017.0;Missing documentation;83.0;1.0
+1017.0;Missing customer involvement;81.0;6.0
+1021.0;Insufficient information;49.0;0.0
+1021.0;Insufficient stakeholder analysis;54.0;4.0
+1021.0;Lack of requirements management;65.0;5.0
+1021.0;Missing domain knowledge;84.0;12.0
+1021.0;Insufficient analysis at the beginning of the project;47.0;14.0
+1031.0;Poor project management;106.0;13.0
+1031.0;Missing customer involvement;81.0;0.0
+1031.0;Complexity of project;25.0;2.0
+1031.0;Gold plating;38.0;3.0
+1031.0;Poor project management;106.0;14.0
+1033.0;Volatile requirements;134.0;9.0
+1033.0;Poor project management;106.0;3.0
+1033.0;Missing engagement by customer;85.0;6.0
+1033.0;Communication flaws between team and customer;22.0;1.0
+1033.0;Lack of communication channels;58.0;0.0
+1039.0;Insufficient collaboration in process;48.0;0.0
+1039.0;Conflicting stakeholder viewpoints;31.0;1.0
+1039.0;Insufficient information;49.0;4.0
+1039.0;Volatile requirements;134.0;14.0
+1039.0;Missing domain knowledge;84.0;18.0
+1051.0;Missing engagement by customer;85.0;4.0
+1051.0;Lack of requirements management;65.0;5.0
+1051.0;Demotivation;35.0;6.0
+1051.0;Lack of experience of RE team members;61.0;15.0
+1051.0;Lack of experience of RE team members;61.0;18.0
+1055.0;Lack of time;67.0;17.0
+1055.0;Inability to specify measurable non-functional requirements;43.0;14.0
+1055.0;Missing involvement of developers;86.0;1.0
+1055.0;Missing solution approach;97.0;10.0
+1055.0;Unclear terminology;130.0;12.0
+1062.0;Language barriers;70.0;1.0
+1062.0;Insufficient planning of RE;50.0;3.0
+1062.0;Customer does not know what he wants;34.0;4.0
+1062.0;Missing customer involvement;81.0;6.0
+1062.0;Missing tool support;99.0;12.0
+1064.0;Lack of experience of RE team members;61.0;14.0
+1064.0;Lack of experience of RE team members;61.0;15.0
+1064.0;Missing RE awareness at customer side;94.0;5.0
+1064.0;Lack of requirements management;65.0;5.0
+1064.0;Weak qualification of RE team members;136.0;4.0
+1064.0;Lack of requirements management;65.0;1.0
+1065.0;Missing tool support;99.0;8.0
+1065.0;Missing customer involvement;81.0;10.0
+1065.0;Weak qualification of stakeholders;137.0;12.0
+1065.0;Weak management at customer side;135.0;13.0
+1065.0;Poor project management;106.0;17.0
+1066.0;Unclear roles and responsibilities at customer side;128.0;5.0
+1066.0;Requirements remain too abstract;111.0;4.0
+1066.0;Solution orientation;114.0;10.0
+1066.0;Concurrent development activities;27.0;0.0
+1066.0;Lack of requirements management;65.0;1.0
+1069.0;Missing customer involvement;81.0;4.0
+1069.0;Missing of a global view of the system;91.0;9.0
+1069.0;Missing willingless to change;100.0;10.0
+1069.0;Missing domain knowledge;84.0;12.0
+1069.0;Lack of communication channels;58.0;18.0
+1070.0;Strict time schedule by customer;118.0;5.0
+1070.0;Conflict of interests at customer side;28.0;9.0
+1070.0;Insufficient analysis at the beginning of the project;47.0;14.0
+1070.0;Conflict of interests at management level;29.0;15.0
+1076.0;Missing domain knowledge;84.0;12.0
+1076.0;Requirements remain too abstract;111.0;4.0
+1076.0;Requirements remain too abstract;111.0;1.0
+1076.0;Lack of requirements management;65.0;0.0
+1079.0;Missing documentation;83.0;5.0
+1079.0;Conflict of interests at customer side;28.0;10.0
+1079.0;Insufficient resources;53.0;13.0
+1079.0;Unclear roles and responsibilities at customer side;128.0;15.0
+1079.0;Incomplete requirements;45.0;17.0
+1080.0;Process doesn't allow for innovation;109.0;2.0
+1080.0;Missing prioritization by customer;92.0;6.0
+1080.0;Lack of requirements management;65.0;8.0
+1080.0;Missing concentration on business needs;80.0;11.0
+1080.0;Unclear terminology;130.0;15.0
+1082.0;Missing direct communication to customer;82.0;17.0
+1082.0;Lack of a well-defined RE process;56.0;13.0
+1082.0;Not following the communication plan;103.0;0.0
+1082.0;Solution orientation;114.0;10.0
+1091.0;Documentation overhead;37.0;0.0
+1091.0;Lack of experience of RE team members;61.0;0.0
+1091.0;Incomplete requirements;45.0;4.0
+1091.0;Poor requirements elicitation techniques;107.0;5.0
+1091.0;Communication flaws between team and customer;22.0;6.0
+1091.0;Lack of teamwork skills;66.0;19.0
+1097.0;Inability to specify measurable non-functional requirements;43.0;14.0
+1097.0;Thinking in legacy systems;121.0;10.0
+1097.0;Missing documentation;83.0;8.0
+1097.0;Missing analysis;75.0;5.0
+1097.0;Missing technical knowledge;98.0;4.0
+1100.0;Missing customer involvement;81.0;0.0
+1100.0;Missing domain knowledge;84.0;4.0
+1100.0;Missing engagement by customer;85.0;6.0
+1100.0;Lack of experience of RE team members;61.0;8.0
+1100.0;Lack of time;67.0;18.0
+1101.0;Customer does not formally approve the requirements;33.0;15.0
+1101.0;Requirements remain too abstract;111.0;4.0
+1101.0;Missing RE awareness at customer side;94.0;17.0
+1101.0;Weak qualification of stakeholders;137.0;0.0
+1101.0;Miscommunication between RE team;73.0;1.0
+1105.0;Incomplete requirements;45.0;4.0
+1105.0;Poor project management;106.0;8.0
+1105.0;Volatile requirements;134.0;9.0
+1105.0;Missing concentration on business needs;80.0;10.0
+1105.0;Insufficient information;49.0;17.0
+1111.0;Lack of experience of RE team members;61.0;0.0
+1111.0;Missing methodology;90.0;4.0
+1111.0;Missing engagement by customer;85.0;7.0
+1111.0;Poor project management;106.0;13.0
+1111.0;Insufficient stakeholder analysis;54.0;15.0
+1114.0;Missing customer involvement;81.0;17.0
+1114.0;Poor project management;106.0;13.0
+1114.0;Missing engagement by customer;85.0;0.0
+1114.0;Missing engagement by customer;85.0;6.0
+1114.0;Insufficient collaboration in process;48.0;12.0
+1118.0;Insufficient collaboration in process;48.0;0.0
+1118.0;Language barriers;70.0;1.0
+1118.0;Communication flaws between team and customer;22.0;5.0
+1118.0;Missing domain knowledge;84.0;12.0
+1118.0;Communication flaws between team and customer;22.0;15.0
+1122.0;Unclear roles and responsonsibilities at customer side;129.0;15.0
+1122.0;High quality expectation of customer;41.0;14.0
+1122.0;Volatile industry segment that leads to changes;133.0;16.0
+1122.0;Conflict of interests at customer side;28.0;5.0
+1122.0;Poor project management;106.0;13.0
+1124.0;Lack of a well-defined RE process;56.0;4.0
+1124.0;Lack of communication channels;58.0;5.0
+1124.0;Process doesn't allow for innovation;109.0;10.0
+1124.0;Incomplete requirements;45.0;14.0
+1124.0;Language barriers;70.0;1.0
+1126.0;Poor requirements elicitation techniques;107.0;0.0
+1126.0;Not following the communication plan;103.0;1.0
+1126.0;Lack of experience of RE team members;61.0;4.0
+1126.0;Lack of experience of RE team members;61.0;5.0
+1126.0;Lack of teamwork skills;66.0;6.0
+1139.0;Lack of time;67.0;14.0
+1139.0;Lack of requirements management;65.0;15.0
+1139.0;Insufficient resources;53.0;7.0
+1139.0;High workload;42.0;1.0
+1139.0;Poor project management;106.0;13.0
+1141.0;Poor project management;106.0;1.0
+1141.0;Missing technical knowledge;98.0;4.0
+1141.0;Missing domain knowledge;84.0;7.0
+1141.0;Missing domain knowledge;84.0;10.0
+1141.0;Poor project management;106.0;13.0
+1159.0;Communication flaws between team and customer;22.0;0.0
+1159.0;Lack of a well-defined RE process;56.0;4.0
+1159.0;Missing customer involvement;81.0;5.0
+1161.0;Lack of trust;69.0;19.0
+1161.0;Missing IT project experience at customer side;87.0;12.0
+1161.0;Lack of change management at customer side;57.0;9.0
+1161.0;Missing IT project experience at customer side;87.0;2.0
+1161.0;Missing IT project experience at customer side;87.0;10.0
+1163.0;Missing RE awareness at team side;95.0;3.0
+1163.0;Lack of experience of RE team members;61.0;8.0
+1163.0;Insufficient agility;46.0;9.0
+1163.0;Complexity of project;25.0;13.0
+1163.0;Lack of a well-defined RE process;56.0;15.0
+1166.0;High cost;40.0;4.0
+1167.0;Lack of change management at customer side;57.0;14.0
+1167.0;Method Poor project management;72.0;13.0
+1167.0;Insufficient collaboration in process;48.0;2.0
+1167.0;Requirements remain too abstract;111.0;5.0
+1168.0;Demotivation;35.0;0.0
+1168.0;Demotivation;35.0;0.0
+1168.0;Poor requirements elicitation techniques;107.0;4.0
+1168.0;Communication flaws between team and customer;22.0;5.0
+1168.0;Missing IT project experience at customer side;87.0;11.0
+1168.0;Incomplete requirements;45.0;14.0
+1171.0;Stakeholders lack business vision and understanding;117.0;18.0
+1171.0;Lack of requirements management;65.0;15.0
+1171.0;Lack of a well-defined RE process;56.0;7.0
+1171.0;Lack of experience of RE team members;61.0;3.0
+1171.0;Missing customer involvement;81.0;0.0
+1187.0;Unclear roles and responsonsibilities at customer side;129.0;0.0
+1187.0;Lack of experience of RE team members;61.0;8.0
+1187.0;Unclear business needs;126.0;9.0
+1187.0;Customer does not know what he wants;34.0;14.0
+1187.0;Many customers;71.0;17.0
+1189.0;Unclear terminology;130.0;0.0
+1189.0;Volatile requirements;134.0;4.0
+1194.0;Missing technical knowledge;98.0;11.0
+1194.0;Volatile requirements;134.0;9.0
+1194.0;Lack of requirements management;65.0;5.0
+1204.0;Missing direct communication to customer;82.0;17.0
+1204.0;Stakeholder fluctuation;116.0;16.0
+1204.0;Insufficient collaboration in process;48.0;6.0
+1204.0;Insufficient team size;55.0;6.0
+1204.0;Missing knowledge about development framework;88.0;9.0
+1207.0;Volatile industry segment that leads to changes;133.0;2.0
+1207.0;Gold plating;38.0;3.0
+1207.0;Poor project management;106.0;8.0
+1207.0;Customer does not know what he wants;34.0;10.0
+1207.0;Missing domain knowledge;84.0;12.0
+1221.0;Poor documentation;105.0;14.0
+1221.0;Poor project management;106.0;13.0
+1221.0;Missing customer involvement;81.0;4.0
+1221.0;Unclear business needs;126.0;1.0
+1221.0;Missing of a global view of the system;91.0;5.0
+1223.0;Missing customer involvement;81.0;4.0
+1224.0;Customer does not formally approve the requirements;33.0;14.0
+1224.0;Lack of time;67.0;1.0
+1224.0;Missing customer involvement;81.0;11.0
+1224.0;Missing RE awareness at customer side;94.0;17.0
+1225.0;Weak qualification of stakeholders;137.0;14.0
+1225.0;Unclear business needs;126.0;18.0
+1225.0;High quality expectation of customer;41.0;11.0
+1225.0;Missing engagement by customer;85.0;6.0
+1225.0;Missing customer involvement;81.0;4.0
+1229.0;Communication flaws between team and customer;22.0;0.0
+1229.0;Not following the communication plan;103.0;1.0
+1229.0;Missing engagement by customer;85.0;7.0
+1229.0;Demotivation;35.0;17.0
+1229.0;Lack of leadership;63.0;19.0
+1238.0;Many customers;71.0;17.0
+1238.0;Poor project management;106.0;13.0
+1238.0;Complexity of project;25.0;18.0
+1238.0;Not following the communication plan;103.0;1.0
+1238.0;Lack of change management at customer side;57.0;9.0
+1239.0;Missing direct communication to customer;82.0;0.0
+1239.0;Lack of time;67.0;1.0
+1239.0;Lack of time;67.0;5.0
+1239.0;Lack of change management at customer side;57.0;9.0
+1239.0;Requirements remain too abstract;111.0;15.0
+1262.0;Lack of requirements management;65.0;0.0
+1262.0;Lack of experience of RE team members;61.0;4.0
+1262.0;Poor project management;106.0;13.0
+1266.0;Conflict of interests at management level;29.0;16.0
+1266.0;Volatile requirements;134.0;12.0
+1266.0;Missing company wide standard;78.0;11.0
+1266.0;Lack of a well-defined RE process;56.0;10.0
+1266.0;Volatile requirements;134.0;9.0
+1273.0;Insufficient resource plan;52.0;13.0
+1275.0;Poor project management;106.0;13.0
+1279.0;Missing IT project experience at customer side;87.0;0.0
+1279.0;Missing domain knowledge;84.0;4.0
+1279.0;Unexpected changes in requirements;131.0;9.0
+1279.0;High quality expectation of customer;41.0;13.0
+1279.0;Stakeholders lack business vision and understanding;117.0;18.0
+1283.0;Weak qualification of stakeholders;137.0;17.0
+1283.0;Lack of change management at customer side;57.0;9.0
+1283.0;Conflicting stakeholder viewpoints;31.0;5.0
+1283.0;Weak qualification of stakeholders;137.0;0.0
+1283.0;Missing RE awareness at customer side;94.0;6.0
+1288.0;Requirements remain too abstract;111.0;0.0
+1288.0;Lack of requirements management;65.0;1.0
+1288.0;Lack of requirements management;65.0;13.0
+1288.0;Many customers;71.0;18.0
+1289.0;Lack of time;67.0;15.0
+1289.0;Poor project management;106.0;13.0
+1289.0;Stakeholders lack business vision and understanding;117.0;14.0
+1289.0;Missing IT project experience at customer side;87.0;17.0
+1290.0;Lack of experience of RE team members;61.0;14.0
+1290.0;Lack of change management at customer side;57.0;9.0
+1291.0;Language barriers;70.0;1.0
+1291.0;Missing engagement by customer;85.0;6.0
+1291.0;Changing business needs;21.0;16.0
+1291.0;Missing direct communication to customer;82.0;17.0
+1296.0;Process doesn't allow for innovation;109.0;2.0
+1296.0;Unexpected changes in requirements;131.0;9.0
+1296.0;Complexity of project;25.0;11.0
+1296.0;High complexity in overall project setting;39.0;17.0
+1296.0;Stakeholders lack business vision and understanding;117.0;18.0
+1316.0;Missing domain knowledge;84.0;10.0
+1316.0;Changing business needs;21.0;9.0
+1316.0;Incomplete requirements;45.0;4.0
+1316.0;Missing engagement by customer;85.0;0.0
+1321.0;Unexpected changes in requirements;131.0;13.0
+1321.0;Stakeholders lack business vision and understanding;117.0;18.0
+1327.0;Missing concentration on business needs;80.0;3.0
+1327.0;Volatile requirements;134.0;9.0
+1327.0;Missing IT project experience at customer side;87.0;11.0
+1327.0;High quality expectation of customer;41.0;12.0
+1327.0;Complexity of RE;26.0;13.0
+1331.0;Insufficient information;49.0;18.0
+1331.0;Thinking in legacy systems;121.0;10.0
+1331.0;Weak management at customer side;135.0;9.0
+1331.0;Weak qualification of RE team members;136.0;0.0
+1331.0;Missing customer involvement;81.0;4.0
+1339.0;Missing willingless to change;100.0;0.0
+1339.0;Lack of time;67.0;1.0
+1339.0;Lack of time;67.0;11.0
+1339.0;Poor project management;106.0;15.0
+1339.0;Poor project management;106.0;19.0
+1340.0;Poor requirements elicitation techniques;107.0;4.0
+1340.0;Poor project management;106.0;0.0
+1340.0;Bad atmosphere in the group;20.0;1.0
+1340.0;Poor project management;106.0;7.0
+1340.0;Lack of requirements management;65.0;10.0
+1341.0;Missing IT project experience at customer side;87.0;0.0
+1341.0;Missing customer involvement;81.0;1.0
+1341.0;Customer does not know what he wants;34.0;4.0
+1341.0;Lack of time;67.0;7.0
+1341.0;Missing domain knowledge;84.0;12.0
+1343.0;Incomplete requirements;45.0;18.0
+1343.0;Missing domain knowledge;84.0;12.0
+1343.0;Lack of a well-defined RE process;56.0;19.0
+1343.0;Customer does not know what he wants;34.0;0.0
+1343.0;Communication flaws between team and customer;22.0;1.0
+1344.0;Poor requirements elicitation techniques;107.0;3.0
+1344.0;Unclear terminology;130.0;12.0
+1344.0;Communication flaws between team and customer;22.0;0.0
+1344.0;Lack of requirements management;65.0;1.0
+1347.0;Missing direct communication to customer;82.0;0.0
+1347.0;Missing RE awareness at customer side;94.0;2.0
+1347.0;Process doesn't allow for innovation;109.0;10.0
+1347.0;Strict time schedule by customer;118.0;13.0
+1347.0;Missing direct communication to customer;82.0;17.0
+1349.0;Customer does not know what he wants;34.0;4.0
+1349.0;Conflict of interests at management level;29.0;5.0
+1349.0;Customer does not know what he wants;34.0;9.0
+1349.0;Conflict of interests at customer side;28.0;10.0
+1349.0;Customer does not know what he wants;34.0;15.0
+1350.0;Lack of time;67.0;7.0
+1350.0;Customer does not know what he wants;34.0;5.0
+1350.0;Missing domain knowledge;84.0;0.0
+1350.0;Conflict of interests at management level;29.0;1.0
+1350.0;Missing engagement by customer;85.0;3.0
+1351.0;Lack of time;67.0;18.0
+1351.0;Customer does not formally approve the requirements;33.0;0.0
+1351.0;High quality expectation of customer;41.0;0.0
+1351.0;Unclear terminology;130.0;9.0
+1351.0;Insufficient requirements;51.0;15.0
+1351.0;Communication flaws between team and customer;22.0;19.0
+1352.0;Lack of communication channels;58.0;10.0
+1352.0;Missing documentation;83.0;4.0
+1353.0;Unclear terminology;130.0;2.0
+1353.0;Communication flaws between the project and the customer;23.0;12.0
+1353.0;Poor requirements elicitation techniques;107.0;14.0
+1353.0;Strict time schedule by customer;118.0;15.0
+1353.0;Missing engagement by customer;85.0;16.0
+1354.0;Lack of requirements management;65.0;0.0
+1354.0;Lack of leadership;63.0;1.0
+1354.0;Missing engagement by customer;85.0;6.0
+1354.0;Poor project management;106.0;7.0
+1354.0;Communication flaws between team and customer;22.0;19.0
+1355.0;Lack of communication channels;58.0;18.0
+1355.0;Unclear business needs;126.0;15.0
+1355.0;Lack of discipline;60.0;14.0
+1355.0;Missing communication to customer side;77.0;0.0
+1355.0;Missing customer involvement;81.0;0.0
+1355.0;Requirements remain too abstract;111.0;5.0
+1356.0;Missing customer involvement;81.0;3.0
+1356.0;High quality expectation of customer;41.0;12.0
+1356.0;Communication flaws between team and customer;22.0;13.0
+1356.0;Lack of time;67.0;14.0
+1356.0;Unclear terminology;130.0;19.0
+1357.0;Insufficient planning of RE;50.0;10.0
+1357.0;Missing domain knowledge;84.0;12.0
+1357.0;Poor project management;106.0;1.0
+1357.0;Unfeasible requirements;132.0;0.0
+1357.0;Customer does not know what he wants;34.0;3.0
+1358.0;Incomplete requirements;45.0;4.0
+1358.0;Missing technical knowledge;98.0;11.0
+1358.0;Changing business needs;21.0;16.0
+1358.0;Poor project management;106.0;18.0
+1358.0;Lack of communication channels;58.0;19.0
+1359.0;Communication flaws between team and customer;22.0;4.0
+1359.0;Communication flaws between team and customer;22.0;11.0
+1359.0;Lack of change management at customer side;57.0;14.0
+1360.0;Communication flaws between team and customer;22.0;15.0
+1360.0;Lack of change management at customer side;57.0;8.0
+1360.0;Inability to specify measurable non-functional requirements;43.0;14.0
+1383.0;Incomplete requirements;45.0;4.0
+1384.0;Complexity of project;25.0;2.0
+1384.0;Lack of requirements management;65.0;3.0
+1384.0;Missing solution approach;97.0;10.0
+1384.0;Missing prioritization by customer;92.0;13.0
+1384.0;Unclear business needs;126.0;15.0
+1402.0;Insufficient agility;46.0;9.0
+1402.0;Conflict of interests at customer side;28.0;5.0
+1402.0;Lack of communication channels;58.0;15.0
+1402.0;Communication flaws between team and customer;22.0;0.0
+1402.0;Lack of a well-defined RE process;56.0;4.0
+1403.0;Missing requirements specification template;96.0;4.0
+1403.0;Poor requirements elicitation techniques;107.0;5.0
+1403.0;Poor project management;106.0;13.0
+1406.0;High workload;42.0;1.0
+1406.0;Lack of time;67.0;5.0
+1406.0;Lack of time;67.0;8.0
+1406.0;Missing engagement by customer;85.0;9.0
+1406.0;Poor project management;106.0;13.0
+1411.0;Changing business needs;21.0;16.0
+1411.0;Missing access to business needs;74.0;15.0
+1411.0;Lack of time;67.0;13.0
+1411.0;Language barriers;70.0;1.0
+1411.0;Thinking in legacy systems;121.0;4.0
+1413.0;Missing IT project experience at customer side;87.0;0.0
+1413.0;Missing customer involvement;81.0;1.0
+1413.0;Customer does not know what he wants;34.0;4.0
+1413.0;Lack of time;67.0;7.0
+1413.0;Missing domain knowledge;84.0;12.0
+1415.0;Missing IT project experience at customer side;87.0;17.0
+1415.0;Customer does not know what he wants;34.0;0.0
+1415.0;Customer does not know what he wants;34.0;1.0
+1415.0;Unclear terminology;130.0;12.0
+1415.0;Missing domain knowledge;84.0;19.0
+1416.0;Lack of communication channels;58.0;19.0
+1416.0;Conflict of interests at customer side;28.0;14.0
+1416.0;Missing documentation;83.0;6.0
+1416.0;Poor project management;106.0;4.0
+1416.0;Communication flaws between team and customer;22.0;0.0
+1417.0;Conflicting stakeholder viewpoints;31.0;13.0
+1417.0;Insufficient requirements;51.0;14.0
+1417.0;Poor project management;106.0;15.0
+1417.0;Customer does not know what he wants;34.0;16.0
+1417.0;Lack of communication channels;58.0;18.0
+1419.0;Incomplete requirements;45.0;12.0
+1419.0;Missing engagement by customer;85.0;6.0
+1419.0;Communication flaws between team and customer;22.0;7.0
+1419.0;Unclear terminology;130.0;0.0
+1419.0;Miscommunication between RE team;73.0;1.0
+1422.0;Requirements remain too abstract;111.0;3.0
+1422.0;Communication flaws between team and customer;22.0;4.0
+1422.0;Incomplete requirements;45.0;6.0
+1422.0;Poor requirements elicitation techniques;107.0;12.0
+1422.0;Lack of communication channels;58.0;17.0
+1423.0;Missing completeness check of requirements;79.0;11.0
+1423.0;Communication flaws between team and customer;22.0;13.0
+1423.0;Unclear business needs;126.0;15.0
+1424.0;Missing customer involvement;81.0;15.0
+1424.0;Solution orientation;114.0;10.0
+1424.0;Communication flaws between the project and the customer;23.0;12.0
+1424.0;Missing customer involvement;81.0;0.0
+1424.0;Lack of requirements management;65.0;3.0
+1426.0;Missing RE awareness at customer side;94.0;4.0
+1426.0;Missing domain knowledge;84.0;5.0
+1426.0;Unclear terminology;130.0;12.0
+1426.0;Poor project management;106.0;13.0
+1426.0;Missing IT project experience at customer side;87.0;15.0
+1433.0;Inability to specify measurable non-functional requirements;43.0;14.0
+1433.0;Lack of project management;64.0;3.0
+1433.0;Incomplete requirements;45.0;4.0
+1433.0;Missing domain knowledge;84.0;10.0
+1433.0;Inappropriate definition of contract;44.0;13.0
+1435.0;Insufficient team size;55.0;13.0
+1435.0;Lack of a well-defined RE process;56.0;8.0
+1435.0;Volatile requirements;134.0;4.0
+1435.0;Communication flaws between team and customer;22.0;5.0
+1441.0;High workload;42.0;0.0
+1441.0;High workload;42.0;1.0
+1441.0;Workload of customer;138.0;6.0
+1441.0;Insufficient agility;46.0;9.0
+1449.0;Insufficient planning of RE;50.0;3.0
+1449.0;Lack of requirements management;65.0;1.0
+1449.0;Lack of time;67.0;4.0
+1454.0;Missing customer involvement;81.0;9.0
+1454.0;Communication flaws between team and customer;22.0;8.0
+1454.0;Insufficient collaboration in process;48.0;6.0
+1454.0;Conflicting stakeholder viewpoints;31.0;1.0
+1454.0;Miscommunication between RE team;73.0;0.0
+1455.0;Changing business needs;21.0;2.0
+1455.0;Incomplete requirements;45.0;4.0
+1455.0;Missing IT project experience at customer side;87.0;9.0
+1455.0;Missing documentation;83.0;12.0
+1455.0;Missing requirements specification template;96.0;13.0
+1457.0;Missing technical knowledge;98.0;0.0
+1457.0;Missing engagement by customer;85.0;4.0
+1457.0;Requirements remain too abstract;111.0;5.0
+1457.0;Customer does not know what he wants;34.0;10.0
+1458.0;Method Poor project management;72.0;13.0
+1458.0;Missing domain knowledge;84.0;12.0
+1458.0;Poor project management;106.0;7.0
+1458.0;Miscommunication between RE team;73.0;1.0
+1458.0;Team fluctuation;120.0;1.0
+1458.0;Unfeasible requirements;132.0;5.0
+1459.0;Communication flaws between team and customer;22.0;0.0
+1459.0;Miscommunication between RE team;73.0;1.0
+1459.0;Communication flaws between team and customer;22.0;4.0
+1459.0;Customer does not know what he wants;34.0;9.0
+1459.0;Lack of project management;64.0;13.0
+1460.0;Not following the communication plan;103.0;7.0
+1460.0;Missing IT project experience at customer side;87.0;6.0
+1460.0;Missing domain knowledge;84.0;5.0
+1460.0;Lack of training;68.0;4.0
+1462.0;Customer does not know what he wants;34.0;4.0
+1462.0;Conflict of interests at customer side;28.0;5.0
+1462.0;Lack of a well-defined RE process;56.0;10.0
+1462.0;Customer does not know what he wants;34.0;15.0
+1462.0;Communication flaws between team and customer;22.0;19.0
+1466.0;Missing RE awareness at team side;95.0;4.0
+1466.0;Insufficient planning of RE;50.0;9.0
+1466.0;Unclear terminology;130.0;12.0
+1466.0;Lack of leadership;63.0;13.0
+1466.0;Poor project management;106.0;15.0
+1467.0;Requirements remain too abstract;111.0;15.0
+1467.0;Insufficient analysis at the beginning of the project;47.0;9.0
+1467.0;Poor requirements elicitation techniques;107.0;2.0
+1467.0;Poor requirements elicitation techniques;107.0;3.0
+1467.0;Insufficient analysis at the beginning of the project;47.0;4.0
+1482.0;Communication flaws between team and customer;22.0;0.0
+1482.0;Conflict of interests at management level;29.0;1.0
+1482.0;Communication flaws between team and customer;22.0;4.0
+1482.0;Unclear business needs;126.0;5.0
+1482.0;Communication flaws between team and customer;22.0;19.0
+1483.0;Missing engagement by customer;85.0;5.0
+1483.0;Unclear business needs;126.0;4.0
+1483.0;Missing willingless to change;100.0;0.0
+1483.0;Conflict of interests at management level;29.0;1.0
+1484.0;Unclear terminology;130.0;1.0
+1484.0;Lack of communication channels;58.0;19.0
+1485.0;Missing access to business needs;74.0;1.0
+1485.0;Unclear terminology;130.0;19.0
+1486.0;Documentation overhead;37.0;2.0
+1486.0;Missing documentation;83.0;8.0
+1486.0;Volatile industry segment that leads to changes;133.0;9.0
+1486.0;Poor project management;106.0;13.0
+1526.0;Missing domain knowledge;84.0;18.0
+1526.0;Gold plating;38.0;3.0
+1526.0;Missing domain knowledge;84.0;17.0
+1526.0;Missing domain knowledge;84.0;0.0
+1526.0;Missing domain knowledge;84.0;0.0
+1542.0;Communication flaws between team and customer;22.0;0.0
+1542.0;Lack of time;67.0;13.0
+1542.0;Lack of communication channels;58.0;17.0
+1542.0;Lack of communication channels;58.0;18.0
+1560.0;Weak qualification of RE team members;136.0;4.0
+1560.0;Lack of experience of RE team members;61.0;5.0
+1560.0;Missing willingless to change;100.0;10.0
+1560.0;Requirements remain too abstract;111.0;15.0
+1560.0;Lack of a well-defined RE process;56.0;16.0
+1617.0;Requirements engineer has no influence on customer;110.0;17.0
+1617.0;Poor requirements elicitation techniques;107.0;5.0
+1617.0;Conflict of interests at management level;29.0;0.0
+1617.0;Too high team distribution;122.0;1.0
+1617.0;Incomplete requirements;45.0;4.0
+1618.0;Insufficient analysis at the beginning of the project;47.0;0.0
+1618.0;Missing solution approach;97.0;10.0
+1618.0;High quality expectation of customer;41.0;13.0
+1620.0;Too high team distribution;122.0;1.0
+1620.0;Gold plating;38.0;3.0
+1620.0;Lack of project management;64.0;7.0
+1620.0;Poor project management;106.0;13.0
+1620.0;Requirements remain too abstract;111.0;15.0
+1621.0;Solution orientation;114.0;15.0
+1621.0;Weak management at customer side;135.0;13.0
+1621.0;Lack of a well-defined RE process;56.0;4.0
+1621.0;Lack of a well-defined RE process;56.0;10.0
+1624.0;Missing RE awareness at team side;95.0;0.0
+1624.0;Customer does not formally approve the requirements;33.0;2.0
+1624.0;Poor project management;106.0;5.0
+1624.0;Lack of change management at customer side;57.0;10.0
+1624.0;Lack of requirements management;65.0;18.0
+1650.0;Lack of teamwork skills;66.0;10.0
+1650.0;Insufficient information;49.0;17.0
+1650.0;Not following the communication plan;103.0;0.0
+1650.0;Communication flaws between team and customer;22.0;0.0
+1650.0;Communication flaws between team and customer;22.0;5.0
+1651.0;Lack of a well-defined RE process;56.0;3.0
+1651.0;Insufficient information;49.0;4.0
+1651.0;Complexity of project;25.0;9.0
+1651.0;Missing concentration on business needs;80.0;10.0
+1663.0;Lack of experience of RE team members;61.0;0.0
+1663.0;Language barriers;70.0;1.0
+1663.0;Poor project management;106.0;13.0
+1663.0;Missing domain knowledge;84.0;18.0
+1668.0;Complexity of project;25.0;14.0
+1668.0;Complexity of RE;26.0;11.0
+1668.0;Many customers;71.0;4.0
+1668.0;Poor requirements elicitation techniques;107.0;5.0
+1668.0;Complexity of project;25.0;10.0
+1669.0;Conflict of interests at customer side;28.0;0.0
+1669.0;Missing completeness check of requirements;79.0;1.0
+1669.0;Poor requirements elicitation techniques;107.0;13.0
+1669.0;Communication flaws between team and customer;22.0;15.0
+1669.0;Missing customer involvement;81.0;17.0
+1670.0;Complexity of project;25.0;14.0
+1670.0;Complexity of RE;26.0;11.0
+1670.0;Many customers;71.0;4.0
+1670.0;Poor requirements elicitation techniques;107.0;5.0
+1670.0;Complexity of project;25.0;10.0
+1675.0;Workload of customer;138.0;0.0
+1675.0;Conflicts of personalities;32.0;1.0
+1675.0;Miscommunication between RE team;73.0;5.0
+1675.0;Insufficient analysis at the beginning of the project;47.0;9.0
+1675.0;Changing business needs;21.0;16.0
+1676.0;Inability to specify measurable non-functional requirements;43.0;14.0
+1676.0;Poor project management;106.0;13.0
+1676.0;Insufficient planning of RE;50.0;3.0
+1676.0;Changing business needs;21.0;2.0
+1676.0;Insufficient analysis at the beginning of the project;47.0;4.0
+1690.0;Customer does not know what he wants;34.0;2.0
+1690.0;Lack of change management at customer side;57.0;4.0
+1690.0;Poor project management;106.0;13.0
+1690.0;Missing customer involvement;81.0;15.0
+1695.0;Insufficient agility;46.0;16.0
+1695.0;Missing RE awareness at customer side;94.0;15.0
+1695.0;Lack of communication channels;58.0;19.0
+1695.0;Complexity of project;25.0;7.0
+1695.0;Poor requirements elicitation techniques;107.0;14.0
+1697.0;Insufficient resource plan;52.0;16.0
+1697.0;Poor project management;106.0;13.0
+1697.0;Lack of a well-defined RE process;56.0;8.0
+1697.0;Requirements remain too abstract;111.0;2.0
+1698.0;Miscommunication between RE team;73.0;1.0
+1698.0;Lack of leadership;63.0;7.0
+1698.0;Unfeasible requirements;132.0;11.0
+1698.0;Poor requirements elicitation techniques;107.0;14.0
+1698.0;Insufficient information;49.0;17.0
+1699.0;Poor requirements elicitation techniques;107.0;12.0
+1703.0;Unfeasible requirements;132.0;11.0
+1703.0;Unexpected changes in requirements;131.0;9.0
+1703.0;Volatile requirements;134.0;13.0
+1703.0;Missing knowledge transfer;89.0;6.0
+1703.0;Insufficient collaboration in process;48.0;7.0
+1705.0;Unexpected changes in requirements;131.0;2.0
+1705.0;Customer does not know what he wants;34.0;6.0
+1705.0;Missing domain knowledge;84.0;10.0
+1705.0;Poor requirements elicitation techniques;107.0;15.0
+1705.0;Requirements remain too abstract;111.0;18.0
+1717.0;Unfeasible requirements;132.0;11.0
+1717.0;Poor project management;106.0;13.0
+1717.0;Missing customer involvement;81.0;17.0
+1717.0;Lack of a well-defined RE process;56.0;18.0
+1717.0;Insufficient information;49.0;19.0
+1718.0;Missing customer involvement;81.0;17.0
+1718.0;Poor requirements elicitation techniques;107.0;15.0
+1718.0;Lack of requirements management;65.0;4.0
+1718.0;Missing tool support;99.0;8.0
+1718.0;Poor requirements elicitation techniques;107.0;13.0
+1723.0;Communication flaws between team and customer;22.0;6.0
+1723.0;Lack of experience of RE team members;61.0;12.0
+1723.0;Poor project management;106.0;15.0
+1727.0;Insufficient resources;53.0;4.0
+1727.0;Communication flaws between team and customer;22.0;5.0
+1727.0;Lack of training;68.0;8.0
+1727.0;Requirements remain too abstract;111.0;11.0
+1727.0;Insufficient resources;53.0;18.0
+1741.0;Poor requirements elicitation techniques;107.0;15.0
+1741.0;Volatile requirements;134.0;13.0
+1741.0;Missing knowledge transfer;89.0;4.0
+1741.0;Volatile industry segment that leads to changes;133.0;9.0
+1741.0;Missing domain knowledge;84.0;12.0
+1742.0;Communication flaws between team and customer;22.0;14.0
+1742.0;Communication flaws between team and customer;22.0;0.0
+1742.0;Lack of requirements management;65.0;1.0
+1742.0;Communication flaws between team and customer;22.0;6.0
+1742.0;Lack of change management at customer side;57.0;9.0
+1744.0;Poor project management;106.0;15.0
+1744.0;Unfeasible requirements;132.0;11.0
+1744.0;Communication flaws between team and customer;22.0;4.0
+1751.0;Lack of time;67.0;7.0
+1751.0;Poor requirements elicitation techniques;107.0;13.0
+1753.0;Customer does not know what he wants;34.0;4.0
+1753.0;Changing business needs;21.0;9.0
+1753.0;Missing technical knowledge;98.0;11.0
+1753.0;Missing domain knowledge;84.0;12.0
+1753.0;Lack of time;67.0;13.0
+1755.0;Lack of requirements management;65.0;15.0
+1755.0;Lack of time;67.0;13.0
+1755.0;Customer does not know what he wants;34.0;15.0
+1755.0;Subjective interpretations;119.0;4.0
+1755.0;Missing tool support;99.0;8.0
+1756.0;Missing domain knowledge;84.0;0.0
+1756.0;Lack of teamwork skills;66.0;1.0
+1756.0;Missing willingless to change;100.0;10.0
+1756.0;Poor requirements elicitation techniques;107.0;12.0
+1759.0;Lack of a well-defined RE process;56.0;3.0
+1759.0;Lack of a well-defined RE process;56.0;5.0
+1759.0;Complexity of project;25.0;12.0
+1759.0;Complexity of domain;24.0;14.0
+1759.0;Requirements remain too abstract;111.0;15.0
+1761.0;Unclear business needs;126.0;16.0
+1761.0;Lack of time;67.0;13.0
+1761.0;Lack of a well-defined RE process;56.0;11.0
+1761.0;Missing knowledge about development framework;88.0;9.0
+1762.0;Many customers;71.0;4.0
+1762.0;Unexpected changes in requirements;131.0;9.0
+1767.0;Subjective interpretations;119.0;4.0
+1767.0;Stakeholders lack business vision and understanding;117.0;9.0
+1804.0;Poor requirements elicitation techniques;107.0;4.0
+1804.0;Missing tool support;99.0;5.0
+1804.0;Missing tool support;99.0;8.0
+1804.0;Insufficient collaboration in process;48.0;13.0
+1804.0;Communication flaws between team and customer;22.0;18.0
+1805.0;Missing domain knowledge;84.0;18.0
+1805.0;Unclear project scope;127.0;9.0
+1805.0;Lack of requirements management;65.0;0.0
+1805.0;Missing RE awareness at customer side;94.0;4.0
+1805.0;Lack of a well-defined RE process;56.0;5.0
+1810.0;Different skill levels;36.0;1.0
+1810.0;Stakeholder fluctuation;116.0;4.0
+1810.0;Unclear project scope;127.0;5.0
+1810.0;Team fluctuation;120.0;12.0
+1810.0;Lack of communication channels;58.0;17.0
+1812.0;Missing customer involvement;81.0;17.0
+1812.0;Conflicting stakeholder viewpoints;31.0;16.0
+1812.0;Missing prioritization by customer;92.0;13.0
+1812.0;Missing requirements specification template;96.0;14.0
+1812.0;Customer does not know what he wants;34.0;4.0
+1820.0;Lack of teamwork skills;66.0;1.0
+1820.0;Communication flaws between team and customer;22.0;6.0
+1820.0;Missing tool support;99.0;8.0
+1820.0;Lack of project management;64.0;9.0
+1820.0;Missing requirements specification template;96.0;11.0
+1828.0;Communication flaws between team and customer;22.0;17.0
+1828.0;Miscommunication between RE team;73.0;5.0
+1828.0;Missing technical knowledge;98.0;15.0
+1828.0;Missing engagement by customer;85.0;0.0
+1828.0;Weak qualification of RE team members;136.0;4.0
+1831.0;Communication flaws between team and customer;22.0;0.0
+1831.0;Lack of a well-defined RE process;56.0;15.0
+1840.0;Miscommunication between RE team;73.0;1.0
+1840.0;Communication flaws between team and customer;22.0;4.0
+1840.0;Missing RE awareness at customer side;94.0;4.0
+1840.0;Volatile industry segment that leads to changes;133.0;9.0
+1840.0;Lack of time;67.0;13.0
+1842.0;Lack of experience of RE team members;61.0;18.0
+1842.0;Inability to specify measurable non-functional requirements;43.0;14.0
+1842.0;Many customers;71.0;17.0
+1842.0;Insufficient collaboration in process;48.0;6.0
+1842.0;Lack of time;67.0;13.0
+1844.0;Lack of time;67.0;0.0
+1844.0;Lack of time;67.0;0.0
+1844.0;Workload of customer;138.0;6.0
+1844.0;Communication flaws between team and customer;22.0;12.0
+1844.0;Lack of time;67.0;13.0
+1849.0;Poor requirements elicitation techniques;107.0;15.0
+1849.0;Poor project management;106.0;13.0
+1849.0;Poor requirements elicitation techniques;107.0;14.0
+1849.0;Missing customer involvement;81.0;0.0
+1849.0;Weak qualification of RE team members;136.0;4.0
+1894.0;Weak qualification of RE team members;136.0;1.0
+1894.0;Lack of project management;64.0;9.0
+1894.0;Conflicting stakeholder viewpoints;31.0;10.0
+1894.0;Strict time schedule by customer;118.0;13.0
+1896.0;Requirements remain too abstract;111.0;14.0
+1896.0;Missing technical knowledge;98.0;0.0
+1896.0;Unclear business needs;126.0;9.0
+1896.0;Missing IT project experience at customer side;87.0;10.0
+1896.0;Lack of a well-defined RE process;56.0;15.0
+1909.0;Poor project management;106.0;14.0
+1909.0;Lack of experience of RE team members;61.0;13.0
+1909.0;Missing methodology;90.0;4.0
+1909.0;Insufficient planning of RE;50.0;3.0
+1909.0;Lack of requirements management;65.0;9.0
+1911.0;Missing domain knowledge;84.0;5.0
+1911.0;Unfeasible requirements;132.0;11.0
+1911.0;Missing solution approach;97.0;13.0
+1911.0;Customer does not know what he wants;34.0;16.0
+1911.0;Missing documentation;83.0;18.0
+1917.0;Poor project management;106.0;13.0
+1917.0;Lack of a well-defined RE process;56.0;15.0
+1917.0;Conflict of personalities;30.0;14.0
+1917.0;Lack of experience of RE team members;61.0;5.0
+1917.0;Missing documentation;83.0;4.0
+1918.0;Weak qualification of RE team members;136.0;1.0
+1918.0;Insufficient analysis at the beginning of the project;47.0;4.0
+1918.0;Volatile industry segment that leads to changes;133.0;9.0
+1918.0;Missing of a global view of the system;91.0;10.0
+1918.0;Insufficient resource plan;52.0;13.0
+1923.0;Too high team distribution;122.0;17.0
+1923.0;Lack of training;68.0;10.0
+1923.0;Missing prioritization by customer;92.0;13.0
+1923.0;Insufficient analysis at the beginning of the project;47.0;4.0
+1923.0;Customer does not formally approve the requirements;33.0;9.0
+1929.0;Insufficient resources;53.0;13.0
+1932.0;Lack of experience of RE team members;61.0;4.0
+1932.0;Missing customer involvement;81.0;14.0
+1932.0;Inappropriate definition of contract;44.0;15.0
+1933.0;Complexity of domain;24.0;11.0
+1933.0;Missing knowledge about development framework;88.0;8.0
+1933.0;Complexity of project;25.0;6.0
+1933.0;Missing tool support;99.0;5.0
+1933.0;Thinking in legacy systems;121.0;4.0
+1941.0;Lack of time;67.0;3.0
+1941.0;Lack of time;67.0;4.0
+1941.0;Unclear terminology;130.0;12.0
+1941.0;High workload;42.0;13.0
+1941.0;Lack of time;67.0;14.0
+1957.0;Unclear terminology;130.0;12.0
+1961.0;Missing domain knowledge;84.0;4.0
+1961.0;Lack of time;67.0;14.0
+1961.0;Communication flaws between team and customer;22.0;0.0
+1961.0;Miscommunication between RE team;73.0;1.0
+1961.0;Missing domain knowledge;84.0;15.0
+1962.0;Insufficient resources;53.0;13.0
+1962.0;Missing domain knowledge;84.0;12.0
+1962.0;Incomplete requirements;45.0;15.0
+1962.0;Requirements remain too abstract;111.0;4.0
+1962.0;Process doesn't allow for innovation;109.0;10.0
+1965.0;Volatile industry segment that leads to changes;133.0;9.0
+1965.0;Poor project management;106.0;13.0
+1965.0;Poor project management;106.0;1.0
+1965.0;High quality expectation of customer;41.0;4.0
+1969.0;Missing of a global view of the system;91.0;3.0
+1969.0;Lack of experience of RE team members;61.0;4.0
+1969.0;Missing prioritization by customer;92.0;0.0
+1969.0;Poor project management;106.0;1.0
+1969.0;Lack of creativity;59.0;10.0

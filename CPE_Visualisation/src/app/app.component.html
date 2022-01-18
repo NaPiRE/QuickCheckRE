@@ -3,13 +3,16 @@
   <div class="ngxGraphContainer">
     <ngx-graph
       class="chart-container"
-      [view]="[1400, 800]"
+      [autoCenter]="true"
+      [view]="[1400, 1400]"
+      [layout]="layout"
       [curve]="curve"
       [draggingEnabled]="false"
       [panningEnabled]="true"
-      [autoZoom]="false"
+      [autoZoom]="true"
       [links]="links"
       [nodes]="nodes"
+      [showMiniMap]="true"
     >
     <ng-template #defsTemplate>
       <svg:marker id="arrow" viewBox="0 -5 10 10" refX="8" refY="0" markerWidth="4" markerHeight="4" orient="auto">
@@ -36,7 +39,7 @@
           [attr.height]="node.dimension.height"
           [attr.fill]="node.data.nodeColor"
         />
-        <svg:text alignment-baseline="central" [attr.x]="10" [attr.y]="node.dimension.height / 2">
+        <svg:text alignment-baseline="central" [attr.x]="10" [attr.y]="node.dimension.height / 2 + 5">
           {{node.label}}
         </svg:text>
       </svg:g>
