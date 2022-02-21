@@ -5,6 +5,9 @@ import { AppComponent } from './app.component';
 import { FishboneChartComponent } from './fishbone-chart/fishbone-chart.component';
 import { NzGridModule } from 'ng-zorro-antd/grid';
 import { NzDividerModule } from 'ng-zorro-antd/divider';
+import { NzButtonModule } from 'ng-zorro-antd/button';
+import { NzCarouselModule } from 'ng-zorro-antd/carousel'
+import { NzIconModule } from 'ng-zorro-antd/icon';
 import { NZ_I18N } from 'ng-zorro-antd/i18n';
 import { en_US } from 'ng-zorro-antd/i18n';
 import { registerLocaleData } from '@angular/common';
@@ -26,7 +29,10 @@ registerLocaleData(en);
     NzDividerModule,
     FormsModule,
     HttpClientModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    NzButtonModule,
+    NzIconModule,
+    NzCarouselModule
   ],
   providers: [{ provide: NZ_I18N, useValue: en_US }],
   bootstrap: [AppComponent]

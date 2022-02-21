@@ -1,3 +1,4 @@
+import { renderFlagCheckIfStmt } from '@angular/compiler/src/render3/view/template';
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
@@ -12,6 +13,7 @@ export class FishboneChartComponent implements OnInit {
   effects: CauseEffect[] = [];
   problem: string = "";
   index = 0;
+  array = [1, 2, 3, 4];
   topCauses: CauseEffect[] = [];
   bottomCauses: CauseEffect[] = [];
   topEffects: CauseEffect[] = [];
@@ -75,10 +77,9 @@ export class FishboneChartComponent implements OnInit {
 
   getColor(transparancy: number) {
 
-    var gradient = Math.min(1, .75 + transparancy / this.colorValueSpectrum.causes);
-
+    var colorValueSpectrum = this.currentSelection == this.currentSelectionEnum.CAUSE ? this.colorValueSpectrum.causes : this.colorValueSpectrum.effects;
     return {
-      'background': 'rgb(0, 70, 150,' + gradient + ')'
+      'background': 'rgb(0, 70, 150,' + Math.min(1, .6 + transparancy / colorValueSpectrum) + ')'
     }
   }
 

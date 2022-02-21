@@ -1,11 +1,16 @@
 .fishboneChart {
     display: flex;
     justify-items: center;
-    min-height: 200px;
-    margin: 2.5em;
+    min-height: 300px;
+    margin: 1.5em;
+    overflow: hidden;
 }
 
 .debugBorder * {
+    border: 1px solid black;
+}
+
+.debugBorderSingle {
     border: 1px solid black;
 }
 
@@ -36,15 +41,9 @@
     flex-direction: column;
 }
 
-.chartContainer {
-    margin: 5em;
-    width: 100%;
-}
-
 .fishboneElementGroup {
     flex: 1;
     display: flex;
-    margin-right: 10px;
 }
 
 .fishboneElementLabel {
@@ -56,7 +55,7 @@
 }
 
 .fishboneElement {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     font-size: 0.95em;
     font-weight: 400;
@@ -89,12 +88,27 @@
     text-align: center;
 }
 
+.compoundElement {
+    height: 5em;
+    display: flex;
+    flex: 1;
+}
+
+.compoundElementBottom {
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.compoundElementTop {
+    justify-content: end;
+}
+
 .legend {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    margin-left: 10px;
+    justify-content: center;
+    margin-left: 2em;
+    margin-top: 1em;
 }
 
 .legendLabel {
@@ -103,9 +117,10 @@
     align-items: center;
     color: #4f4f4f;
     font-size: 0.95em;
-    font-weight: 400;
+    font-weight: bolder;
     margin-bottom: 6px;
-    cursor: default;
+    cursor: pointer;
+    width: 50%;
 }
 
 .fortissBlue_ {
@@ -114,6 +129,10 @@
 
 .fortissBlueBorder {
     border-color: rgb(0, 70, 150) !important;
+}
+
+.fortissOrangeBorder {
+    border-color: rgb(225, 205, 0) !important;
 }
 
 .fortissBlueTopBottom {
@@ -126,9 +145,7 @@
 
 .labelSquare {
     flex: 1;
-    width: 42px;
-    height: 14px;
-    margin: 0px 4px 0px 4px;
+    margin: 0 .25em 0 .25em;
 }
 
 .labelLineThrough {
@@ -140,12 +157,11 @@
 
 .label_ {
     font-size: 0.8em;
-    width: 80%;
+    width: 100%;
 }
 
 .problem {
-    margin: 0;
-    top: 50%;
+    width: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -157,9 +173,13 @@
     justify-content: center;
     align-items: center;
     font-size: 0.95em;
-    font-weight: 400;
+    font-weight: bold;
     color: #ffffff;
     padding: 5px 10px 5px 10px;
+}
+
+.percentageValue {
+    font-weight: bolder;
 }
 
 .diagonalLine {
@@ -169,7 +189,7 @@
 .lineEffect {
     width: 100%;
     border-bottom: 3px solid;
-    border-color: rgb(0, 70, 150, 0.2) !important;
+    border-color: rgb(0, 70, 150, 0.6) !important;
 }
 
 .fishboneElementContent {

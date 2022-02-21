@@ -1,35 +1,35 @@
-<div class="fishboneContainer">
-    <div class="fishboneChart">
-        <div *ngIf="currentSelection == currentSelectionEnum.CAUSE" class="fishboneElements">
+<div class="fishboneContainer ">
+    <div nz-row nzJustify="center" class="fishboneChart">
+        <div nz-col nzXs="20" nzSm="20" nzMd="20" nzLg="18" nzXl="18" *ngIf="currentSelection == currentSelectionEnum.CAUSE" class="fishboneElements">
             <div class="fishboneElementGroup">
                 <div class="fishboneElementContent">
                     <div class="fishboneElementAndLineTop">
-                        <div *ngFor="let topCause of topCauses" class="fishboneElementCauses">
+                        <div *ngFor="let topCause of topCauses" class="rootFishboneElement">
                             <div nz-row>
-                                <div nz-col nzSpan="18" class="fishboneElement top fortissBlueBorder" [ngStyle]="getColor(topCause.percentage)">
+                                <div nz-col nzSpan="20" class="fishboneElement top fortissOrangeBorder" [ngStyle]="getColor(topCause.percentage)">
                                     {{topCause.text}}
                                 </div>
                             </div>
                             <div nz-row>
-                                <div nz-col nzSpan="12">{{topCause.percentage +"%"}}</div>
-                                <div nz-col nzSpan="12" class="diagonalLine fortissBlueTopBottom">&nbsp;</div>
+                                <div nz-col nzSpan="8" class="compoundElement compoundElementTop percentageValue">{{topCause.percentage +"%"}}</div>
+                                <div nz-col nzSpan="16" class="compoundElement compoundElementTop fortissBlueTopBottom">&nbsp;</div>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
-            <div class="lineEffect fortissBlueBorder"></div>
+            <div class="lineEffect fortissOrangeBorder"></div>
             <div class="fishboneElementGroup">
                 <div class="fishboneElementContent">
                     <div class="fishboneElementAndLineBottom">
-                        <div *ngFor="let bottomCause of bottomCauses" class="fishboneElementCauses">
+                        <div *ngFor="let bottomCause of bottomCauses" class="rootFishboneElement">
                             <div nz-row>
-                                <div nz-col nzSpan="12" nzOffset="6">{{bottomCause.percentage +"%"}}</div>
-                                <div nz-col nzSpan="12" class="diagonalLine fortissBlueBottomTop">&nbsp;</div>
+                                <div nz-col nzSpan="12" class="compoundElement compoundElementBottom percentageValue">{{bottomCause.percentage +"%"}}</div>
+                                <div nz-col nzSpan="12" class="compoundElement compoundElementBottom fortissBlueBottomTop">&nbsp;
+                                </div>
                             </div>
                             <div nz-row>
-                                <div nz-col nzOffset="6" nzSpan="18" class="fishboneElement bottom fortissBlueBorder" [ngStyle]="getColor(bottomCause.percentage)">
+                                <div nz-col nzSpan="20" class="fishboneElement bottom fortissOrangeBorder" [ngStyle]="getColor(bottomCause.percentage)">
                                     {{bottomCause.text}}
                                 </div>
                             </div>
@@ -37,43 +37,43 @@
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="problem">
-            <div class="problemValue fortissBlue_ fortissBlue_Border all">
+        </div>
+        <div nz-col nzXs="2" nzSm="2" nzMd="2" nzLg="3" nzXl="3" class="problem">
+            <div class="problemValue fortissBlue_ fortissOrangeBorder left right">
                 {{this.problem}}
             </div>
         </div>
-        <div *ngIf="currentSelection == currentSelectionEnum.EFFECT" class="fishboneElements">
+        <div nz-col nzXs="20" nzSm="20" nzMd="20" nzLg="18" nzXl="18" *ngIf="currentSelection == currentSelectionEnum.EFFECT" class="fishboneElements">
             <div class="fishboneElementGroup">
                 <div class="fishboneElementContent">
                     <div class="fishboneElementAndLineTop">
                         <div *ngFor="let topEffect of topEffects" class="rootFishboneElement">
                             <div nz-row>
-                                <div nz-col nzSpan="18" nzOffset="6" class="fishboneElement top fortissBlueBorder" [ngStyle]="getColor(topEffect.percentage)">
+                                <div nz-col nzSpan="20" nzOffset="6" class="fishboneElement top fortissOrangeBorder" [ngStyle]="getColor(topEffect.percentage)">
                                     {{topEffect.text}}
                                 </div>
                             </div>
                             <div nz-row>
-                                <div nz-col nzSpan="12" class="diagonalLine fortissBlueBottomTop">&nbsp;</div>
-                                <div nz-col nzSpan="12">{{topEffect.percentage +"%"}}</div>
+                                <div nz-col nzSpan="16" class="compoundElement compoundElementTop fortissBlueBottomTop">&nbsp;</div>
+                                <div nz-col nzSpan="8" class="compoundElement compoundElementTop percentageValue">{{topEffect.percentage +"%"}}</div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="lineEffect"></div>
+            <div class="lineEffect fortissOrangeBorder"></div>
             <div class="fishboneElementGroup">
                 <div class="fishboneElementContent">
                     <div class="fishboneElementAndLineBottom">
                         <div *ngFor="let bottomEffect of bottomEffects" class="rootFishboneElement">
                             <div nz-row>
-                                <div nz-col nzSpan="12" class="diagonalLine fortissBlueTopBottom">&nbsp;
+                                <div nz-col nzSpan="12" class="compoundElement compoundElementBottom fortissBlueTopBottom">&nbsp;
                                 </div>
-                                <div nz-col nzSpan="12">{{bottomEffect.percentage +"%"}}</div>
+                                <div nz-col nzSpan="12" class="compoundElement compoundElementBottom percentageValue">{{bottomEffect.percentage +"%"}}</div>
                             </div>
                             <div nz-row>
-                                <div nz-col nzOffset="3" nzSpan="18" class="fishboneElement bottom fortissBlueBorder" [ngStyle]="getColor(bottomEffect.percentage)">
+                                <div nz-col nzOffset="3" nzSpan="20" class="fishboneElement bottom fortissOrangeBorder" [ngStyle]="getColor(bottomEffect.percentage)">
                                     {{bottomEffect.text}}
                                 </div>
                             </div>
@@ -83,16 +83,23 @@
             </div>
 
         </div>
-        <div class="legend">
-            <div *ngFor="let dataPoint of fishboneData.problems" class="legendLabel" (click)="selectDataset((this.index+1) % fishboneData.problems.length)">
-                <div class="labelSquare all fortissBlue_ fortissBlueBorder"></div>
-                <div class="label_">{{dataPoint.problemName}}</div>
+        <div nz-col nzXs="12" nzSm="12" nzMd="8" nzLg="2" nzXl="2" class="legend">
+            <div *ngFor="let dataPoint of fishboneData.problems; index as selection" [attr.data-index]="selection">
+                <button nz-button nzSize="small" nzType="default" class="legendLabel label_" (click)="selectDataset(selection)">
+                  <i *ngIf="this.index == selection" nz-icon nzType="caret-right" nzTheme="outline"></i>{{"Top " + (selection + 1 ) + " problem"}}
+              </button>
             </div>
-            <button nz-button nzType="defaualt" class="label_" (click)="changeSelection()">Display {{getSelectionText()}}</button>
+            <button nz-button nzSize="small" nzType="default" class="legendLabel label_" (click)="changeSelection()"><i nz-icon nzType="sync" nzTheme="outline"></i>Switch to {{getSelectionText()}}</button>
         </div>
     </div>
+    <nz-divider></nz-divider>
+    <h3 nz-typography>Explanation</h3>
+    <p nz-typography>
+        In this selection you will see the most critical problems you have selected. The causes are displayed on the left and describe what part they generally play in your problem in the existing data set. By clicking on any other problem, you will get information
+        for these problems. You can also switch to effects of your problems by clicking on the "Switch to" button.
+    </p>
 </div>
 <div>
-    <button nz-button type="button" (click)="increase()">-</button><button type="button" (click)="decrease()">+</button>
+    <button nz-button type="button" (click)="increase()">-</button><button nz-button type="button" (click)="decrease()">+</button>
     <p>Current value: <a id="clicks">Display {{this.causes.length - this.testDifferentLengths}} elements</a></p>
 </div>
