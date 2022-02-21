@@ -1,0 +1,180 @@
+.fishboneChart {
+    display: flex;
+    justify-items: center;
+    min-height: 200px;
+    margin: 2.5em;
+}
+
+.debugBorder * {
+    border: 1px solid black;
+}
+
+.top {
+    border-bottom: 3px solid;
+    border-radius: 5%;
+}
+
+.bottom {
+    border-top: 2px solid;
+    border-radius: 5%;
+}
+
+.left {
+    border-left: 3px solid;
+}
+
+.right {
+    border-right: 3px solid;
+}
+
+.all {
+    border: 2px solid;
+}
+
+.fishboneElements {
+    display: flex;
+    flex-direction: column;
+}
+
+.chartContainer {
+    margin: 5em;
+    width: 100%;
+}
+
+.fishboneElementGroup {
+    flex: 1;
+    display: flex;
+    margin-right: 10px;
+}
+
+.fishboneElementLabel {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    font-size: larger;
+}
+
+.fishboneElement {
+    display: flex;
+    justify-content: center;
+    font-size: 0.95em;
+    font-weight: 400;
+    color: white;
+    padding: .5em;
+}
+
+.fishboneElementAndLineTop {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.fishboneElementAndLineBottom {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.rootFishboneElement {
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+    font-size: 1em;
+    font-weight: 400;
+    text-align: center;
+}
+
+.legend {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 10px;
+}
+
+.legendLabel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4f4f4f;
+    font-size: 0.95em;
+    font-weight: 400;
+    margin-bottom: 6px;
+    cursor: default;
+}
+
+.fortissBlue_ {
+    background: rgb(0, 70, 150, 1);
+}
+
+.fortissBlueBorder {
+    border-color: rgb(0, 70, 150) !important;
+}
+
+.fortissBlueTopBottom {
+    background: linear-gradient(to top right, transparent calc(50% - 2px), rgb(0, 70, 150, 0.8), transparent calc(50% + 2px));
+}
+
+.fortissBlueBottomTop {
+    background: linear-gradient(to bottom right, transparent calc(50% - 2px), rgb(0, 70, 150, 0.8), transparent calc(50% + 2px));
+}
+
+.labelSquare {
+    flex: 1;
+    width: 42px;
+    height: 14px;
+    margin: 0px 4px 0px 4px;
+}
+
+.labelLineThrough {
+    text-decoration: line-through;
+    font-size: 0.95em;
+    font-weight: 400;
+    color: #4f4f4f;
+}
+
+.label_ {
+    font-size: 0.8em;
+    width: 80%;
+}
+
+.problem {
+    margin: 0;
+    top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.problemValue {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.95em;
+    font-weight: 400;
+    color: #ffffff;
+    padding: 5px 10px 5px 10px;
+}
+
+.diagonalLine {
+    flex: 1;
+}
+
+.lineEffect {
+    width: 100%;
+    border-bottom: 3px solid;
+    border-color: rgb(0, 70, 150, 0.2) !important;
+}
+
+.fishboneElementContent {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    min-height: 50%;
+}
