@@ -6,22 +6,12 @@
     overflow: hidden;
 }
 
-.debugBorder * {
-    border: 1px solid black;
-}
-
-.debugBorderSingle {
-    border: 1px solid black;
-}
-
 .top {
     border-bottom: 3px solid;
-    border-radius: 5%;
 }
 
 .bottom {
-    border-top: 2px solid;
-    border-radius: 5%;
+    border-top: 3px solid;
 }
 
 .left {
@@ -55,12 +45,12 @@
 }
 
 .fishboneElement {
-    /* display: flex; */
     justify-content: center;
     font-size: 0.95em;
     font-weight: 400;
     color: white;
     padding: .5em;
+    max-width: 60em;
 }
 
 .fishboneElementAndLineTop {
@@ -124,7 +114,7 @@
 }
 
 .fortissBlue_ {
-    background: rgb(0, 70, 150, 1);
+    background: rgb(0, 70, 150);
 }
 
 .fortissBlueBorder {
@@ -136,11 +126,11 @@
 }
 
 .fortissBlueTopBottom {
-    background: linear-gradient(to top right, transparent calc(50% - 2px), rgb(0, 70, 150, 0.8), transparent calc(50% + 2px));
+    background: linear-gradient(to top right, transparent calc(50% - 2px), rgb(0, 70, 150), transparent calc(50% + 2px));
 }
 
 .fortissBlueBottomTop {
-    background: linear-gradient(to bottom right, transparent calc(50% - 2px), rgb(0, 70, 150, 0.8), transparent calc(50% + 2px));
+    background: linear-gradient(to bottom right, transparent calc(50% - 2px), rgb(0, 70, 150), transparent calc(50% + 2px));
 }
 
 .labelSquare {
@@ -165,6 +155,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .problemValue {
@@ -182,19 +173,14 @@
     font-weight: bolder;
 }
 
-.diagonalLine {
-    flex: 1;
-}
-
 .lineEffect {
     width: 100%;
     border-bottom: 3px solid;
-    border-color: rgb(0, 70, 150, 0.6) !important;
+    border-color: rgb(0, 70, 150) !important;
 }
 
 .fishboneElementContent {
     display: flex;
     flex: 1;
     justify-content: center;
-    min-height: 50%;
 }
