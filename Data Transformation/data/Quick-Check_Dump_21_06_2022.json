@@ -1,0 +1,1904 @@
+{
+  "tags": [],
+  "questions": [
+    {
+      "id": 20,
+      "questionText": {
+        "de": "Wie viele Personen sind in der Regel an Ihren Projekten beteiligt?",
+        "en": "In average, how many people are typically involved in your projects?"
+      },
+      "infoText": {
+        "de": "Bitte geben Sie eine ungefähre Schätzung an, wie viele Personen im Durchschnitt an den Projekten beteiligt sind.",
+        "en": "Please give an approximate estimate of how many people are involved in the projects on average."
+      },
+      "createdAt": "2022-06-21T08:36:06.341Z",
+      "lastUpdatedAt": "2021-11-08T16:02:30.152Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "1 bis 5",
+            "en": "1 to 5"
+          },
+          {
+            "de": "6 bis 10",
+            "en": "6 to 10"
+          },
+          {
+            "de": "11 bis 20",
+            "en": "11 to 20"
+          },
+          {
+            "de": "21 bis 50",
+            "en": "21 to 50"
+          },
+          {
+            "de": "mehr als 50",
+            "en": "more than 50"
+          }
+        ],
+        "id": 39,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 11,
+      "questionText": {
+        "de": "Wie würden Sie das Verhältnis zwischen dem Umfang Ihrer Projekte und der Anzahl der Projekte pro Jahr beschreiben?",
+        "en": "How would you describe the ratio between the scope of your projects with the amount of projects in a year?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.280Z",
+      "lastUpdatedAt": "2021-11-08T16:01:52.684Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Wenige Projekte mit großem Umfang",
+            "en": "Few projects with a large scope"
+          },
+          {
+            "de": "Einige Projekte mit mittlerem Umfang",
+            "en": "A couple of projects with a medium scope"
+          },
+          {
+            "de": "Hohe Anzahl von Projekten mit geringem Umfang",
+            "en": "High number of projects with small scope"
+          }
+        ],
+        "id": 21,
+        "hasOther": false,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 17,
+      "questionText": {
+        "de": "Welche der folgenden Probleme im Requirements Engineering sind aus Ihrer persönlichen Erfahrung heraus die kritischsten, die auf Ihre Projekte zutreffen?",
+        "en": "From your personal experience, which of the following are the most critical problems in requirements engineering that apply to your projects?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.320Z",
+      "lastUpdatedAt": "2022-06-07T08:11:36.186Z",
+      "tags": [],
+      "questionType": "cause-problem-effect",
+      "questionParameters": {
+        "problemCount": 5,
+        "problemChoices": [
+          {
+            "de": "Kommunikationsmängel zwischen dem Projekt und dem Kunden",
+            "en": "Communication flaws between the project and the customer"
+          },
+          {
+            "de": "Kommunikationsmängel innerhalb des Projektteams",
+            "en": "Communication flaws within the project team"
+          },
+          {
+            "de": "Diskrepanz zwischen dem hohen Innovationsgrad und der Notwendigkeit der formalen Akzeptanz von (potenziell falschen / unvollständigen / unbekannten) Anforderungen",
+            "en": "Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements"
+          },
+          {
+            "de": "Goldplating (Implementierung von Funktionen ohne entsprechende Anforderungen)",
+            "en": "Gold plating (implementation of features without corresponding requirements)"
+          },
+          {
+            "de": "Unvollständige oder versteckte Anforderungen",
+            "en": "Incomplete or hidden requirements"
+          },
+          {
+            "de": "Inkonsistente Anforderungen",
+            "en": "Inconsistent requirements"
+          },
+          {
+            "de": "Unzureichende Unterstützung durch den Kunden",
+            "en": "Insufficient support by customer"
+          },
+          {
+            "de": "Unzureichende Unterstützung durch die Projektleitung",
+            "en": "Insufficient support by project lead"
+          },
+          {
+            "de": "Fehlende Rückverfolgbarkeit",
+            "en": "Missing traceability"
+          },
+          {
+            "de": "Bewegliche Ziele (sich ändernde Ziele, Geschäftsprozesse und / oder Anforderungen)",
+            "en": "Moving targets (changing goals, business processes and/or requirements)"
+          },
+          {
+            "de": "Stakeholder, die Schwierigkeiten haben, Anforderungen von bereits bekannten Lösungskonzepten zu trennen",
+            "en": "Stakeholders with difficulties in separating requirements from previously known solution designs"
+          },
+          {
+            "de": "Technisch nicht realisierbare Anforderungen",
+            "en": "Technically unfeasible requirements"
+          },
+          {
+            "de": "Terminologische Probleme",
+            "en": "Terminological problems"
+          },
+          {
+            "de": "Timeboxing/Generell zu wenig Zeit",
+            "en": "Time boxing/Not enough time in general"
+          },
+          {
+            "de": "Unklare/nicht messbare nicht-funktionale Anforderungen",
+            "en": "Unclear/unmeasurable non-functional requirements"
+          },
+          {
+            "de": "Ungenügend spezifizierte Anforderungen, die zu abstrakt sind und verschiedene Interpretationen zulassen",
+            "en": "Underspecified requirements that are too abstract and allow for various interpretations"
+          },
+          {
+            "de": "Unbeständiger Geschäftsbereich des Kunden, z. B. in Bezug auf wechselnde Ansprechpartner, Geschäftsprozesse oder Anforderungen",
+            "en": "Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements"
+          },
+          {
+            "de": "Schwacher Zugang zu Kundenbedürfnissen und / oder (internen) Geschäftsinformationen",
+            "en": "Weak access to customer needs and/or (internal) business information"
+          },
+          {
+            "de": "Schwache Kenntnisse über die Anwendungsdomäne des Kunden",
+            "en": "Weak knowledge about customer's application domain"
+          },
+          {
+            "de": "Schwache Beziehung zwischen Kunde und Projektleiter",
+            "en": "Weak relationship between customer and project lead"
+          }
+        ],
+        "problemText": {
+          "de": "Ihre kritischsten Probleme",
+          "en": "Most critical problems"
+        },
+        "causeChoices": [
+          {
+            "de": "Wechselnde Projekteigenschaften",
+            "en": "Changing project characteristics"
+          },
+          {
+            "de": "Kommunikationsprobleme",
+            "en": "Communication Problems"
+          },
+          {
+            "de": "Hohe Komplexität der Projekte",
+            "en": "High complexity of projects"
+          },
+          {
+            "de": "Menschliche Faktoren",
+            "en": "Human factors"
+          },
+          {
+            "de": "Unzureichender Entwicklungsprozess",
+            "en": "Insufficient development process"
+          },
+          {
+            "de": "Mangelndes gemeinsames Verständnis der Ziele",
+            "en": "Lack of common understanding about goals"
+          },
+          {
+            "de": "Mangel an Kommunikationskanälen",
+            "en": "Lack of communication channels"
+          },
+          {
+            "de": "Mangel an Kreativität",
+            "en": "Lack of creativity"
+          },
+          {
+            "de": "Mangelndes Engagement",
+            "en": "Lack of engagement"
+          },
+          {
+            "de": "Mangelnde Beteiligung des Kunden",
+            "en": "Lack of involvement from the customer"
+          },
+          {
+            "de": "Mangelndes Engagement innerhalb des Teams",
+            "en": "Lack of involvement within the team"
+          },
+          {
+            "de": "Mangel an Wissen",
+            "en": "Lack of knowledge"
+          },
+          {
+            "de": "Mangel an Management",
+            "en": "Lack of management"
+          },
+          {
+            "de": "Mangelndes Bewusstsein für Requirements Engineering",
+            "en": "Lack of requirements engineering awareness"
+          },
+          {
+            "de": "Sich ständig ändernde Ziele",
+            "en": "Moving targets"
+          },
+          {
+            "de": "Fehler bei der Prozessausführung",
+            "en": "Process execution defects"
+          }
+        ],
+        "causeText": {
+          "de": "Ursachen für Ihre kritischsten Probleme",
+          "en": "Causes of your most critcal problems"
+        },
+        "effectChoices": [
+          {
+            "de": "Konflikte im Team",
+            "en": "Team conflicts"
+          },
+          {
+            "de": "Konflikte mit Kunden",
+            "en": "Customer conflicts"
+          },
+          {
+            "de": "Unzufriedenheit der Kunden",
+            "en": "Customer dissatisfaction"
+          },
+          {
+            "de": "Verminderter Geschäftswert",
+            "en": "Decreased business value"
+          },
+          {
+            "de": "Verminderte Effizienz",
+            "en": "Decreased efficiency"
+          },
+          {
+            "de": "Verminderte Verwaltbarkeit",
+            "en": "Decreased manageability"
+          },
+          {
+            "de": "Allgemeine Überschreitung der Projektressourcen",
+            "en": "General overrun of project ressources"
+          },
+          {
+            "de": "Unvollständige nicht-funktionale Anforderungen",
+            "en": "Incomplete non-functional requirements"
+          },
+          {
+            "de": "Unvollständige Anforderungen",
+            "en": "Incomplete Requirements"
+          },
+          {
+            "de": "Zunahme der Kommunikationsprobleme\"",
+            "en": "Increase in communication problems"
+          },
+          {
+            "de": "Erhöhte Komplexität",
+            "en": "Increased complexity"
+          },
+          {
+            "de": "Mangel an Innovation",
+            "en": "Lack of innovation"
+          },
+          {
+            "de": "Allgemeine Demotivation auf Projektebene",
+            "en": "Overall demotivation at project level"
+          },
+          {
+            "de": "Schlechte Produktqualität",
+            "en": "Poor product quality"
+          },
+          {
+            "de": "Schlechte Qualität der Anforderungen",
+            "en": "Poor requirements quality"
+          },
+          {
+            "de": "Anforderungen können nicht validiert werden",
+            "en": "Requirements cannot be validated"
+          },
+          {
+            "de": "Überschreitung des Budgets",
+            "en": "Budget overrun"
+          },
+          {
+            "de": "Zeitüberschreitung",
+            "en": "Time overrun"
+          }
+        ],
+        "effectText": {
+          "de": "Auswirkungen Ihrer kritischsten Probleme",
+          "en": "Effects of your most critcal problems"
+        },
+        "id": 33
+      }
+    },
+    {
+      "id": 12,
+      "questionText": {
+        "de": "Wie machen Sie Gebrauch von den dokumentierten Anforderungen?",
+        "en": "How do you make use of the documented requirements?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.286Z",
+      "lastUpdatedAt": "2021-11-08T16:21:37.551Z",
+      "tags": [],
+      "questionType": "checkbox",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Sie bilden die Grundlage für die Implementierung",
+            "en": "They are the basis for the implementation."
+          },
+          {
+            "de": "Sie sind die Quelle für Tests",
+            "en": "They are source for tests."
+          },
+          {
+            "de": "Sie werden bei der Kundenakzeptanz eingesetzt",
+            "en": "They are used in customer acceptance."
+          },
+          {
+            "de": "Sie sind Teil des Vertrags",
+            "en": "They are part of the contract."
+          },
+          {
+            "de": "Sie sind eine Erinnerung für weitere Diskussionen mit dem Kunden, dem Product Owner und/oder anderen Teammitgliedern",
+            "en": "They are a reminder for further discussions with the customer, product owner, and/or other team members."
+          }
+        ],
+        "id": 23,
+        "hasSelectAll": null,
+        "hasNone": null,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 10,
+      "questionText": {
+        "de": "Wie stimmen Sie die Softwaretests auf die Anforderungen ab?",
+        "en": "How do you align software testing with the requirements?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.273Z",
+      "lastUpdatedAt": "2021-11-08T16:29:09.294Z",
+      "tags": [],
+      "questionType": "checkbox",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Die Tester nehmen an der Überprüfung der Anforderungen teil.",
+            "en": "Testers participate in requirements reviews."
+          },
+          {
+            "de": "Wir überprüfen die Abdeckung der Anforderungen durch Tests.",
+            "en": "We check the coverage of requirements with tests."
+          },
+          {
+            "de": "Wir definieren Akzeptanzkriterien und Tests für Anforderungen.",
+            "en": "We define acceptance criteria and tests for requirements."
+          },
+          {
+            "de": "Wir leiten Tests aus Systemmodellen ab.",
+            "en": "We derive tests from system models."
+          },
+          {
+            "de": "Wir stimmen Tests und Anforderungen nicht aufeinander ab.",
+            "en": "We do not align tests and requirements."
+          }
+        ],
+        "id": 19,
+        "hasSelectAll": null,
+        "hasNone": true,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 18,
+      "questionText": {
+        "de": "Bitte wählen Sie den Hauptindustriezweig Ihres Projekts und den Anwendungsbereich der Software, die Sie entwickeln.",
+        "en": "Please select the main industrial sector of your project and the application domain of the software you build."
+      },
+      "infoText": {
+        "de": "Wenn Sie in mehr als einem Bereich aktiv sind, wählen Sie bitte den Bereich aus, in dem Sie sich am meisten engagieren.",
+        "en": "If you are active in more than one area, please select the area in which you are most involved."
+      },
+      "createdAt": "2022-06-21T08:36:06.329Z",
+      "lastUpdatedAt": "2021-11-19T08:30:36.053Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": {
+          "de": "",
+          "en": "Other"
+        },
+        "choices": [
+          {
+            "de": "Landwirtschaft",
+            "en": "Agriculture"
+          },
+          {
+            "de": "Automobilindustrie",
+            "en": "Automotive"
+          },
+          {
+            "de": "Finanzwesen",
+            "en": "Finance"
+          },
+          {
+            "de": "Gesundheitswesen",
+            "en": "Healthcare"
+          },
+          {
+            "de": "Sicherheit",
+            "en": "Security"
+          },
+          {
+            "de": "Fertigung",
+            "en": "Manufacturing"
+          },
+          {
+            "de": "Energie",
+            "en": "Energy"
+          },
+          {
+            "de": "Logistik",
+            "en": "Logistics"
+          },
+          {
+            "de": "Bahn",
+            "en": "Railway"
+          },
+          {
+            "de": "Avionik",
+            "en": "Avionics"
+          },
+          {
+            "de": "Versicherung",
+            "en": "Insurance"
+          },
+          {
+            "de": "Bildung",
+            "en": "Education"
+          },
+          {
+            "de": "Öffentlicher Sektor",
+            "en": "Public sector"
+          },
+          {
+            "de": "Enterprise Resource Planning",
+            "en": "Enterprise resource planning"
+          },
+          {
+            "de": "Personalwesen",
+            "en": "Human resources"
+          },
+          {
+            "de": "e-Government",
+            "en": "e-Government"
+          },
+          {
+            "de": "Telekommunication",
+            "en": "Telecommunication"
+          },
+          {
+            "de": "Spiele-Entwicklung",
+            "en": "Games engineering"
+          },
+          {
+            "de": "Öffentliche Verkehrsmittel",
+            "en": "Public transportation"
+          },
+          {
+            "de": "e-Commerce",
+            "en": "e-Commerce"
+          }
+        ],
+        "id": 35,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 2,
+      "questionText": {
+        "de": "Was ist der Grund für Ihre Zufriedenheit mit Ihren Projekten?",
+        "en": "What is the reason for your satisfaction with your projects?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.208Z",
+      "lastUpdatedAt": "2021-11-08T16:10:52.284Z",
+      "tags": [],
+      "questionType": "text",
+      "questionParameters": {
+        "placeHolder": {
+          "de": "Bitte geben Sie hier Ihre Antwort",
+          "en": "Please provide your answer here"
+        },
+        "id": 3,
+        "inputType": "text"
+      }
+    },
+    {
+      "id": 15,
+      "questionText": {
+        "de": "Wie würden Sie persönlich Ihre Arbeitsweise in Ihrem Projekt charakterisieren?",
+        "en": "How would you personally characterise your way of working in your project?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.306Z",
+      "lastUpdatedAt": "2021-11-08T16:15:12.290Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Eher agil",
+            "en": "Rather agile"
+          },
+          {
+            "de": "Hybrid",
+            "en": "Hybrid"
+          },
+          {
+            "de": "Eher planorientiert",
+            "en": "Rather plan-driven"
+          }
+        ],
+        "id": 29,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 13,
+      "questionText": {
+        "de": "Wie zufrieden sind Ihrer Meinung nach Ihre Kunden im Allgemeinen mit den Projekten, die Sie mit ihnen durchführen?",
+        "en": "In your opinion, how satisfied are your clients in general with the projects you carry out with them?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.293Z",
+      "lastUpdatedAt": "2021-11-08T16:08:52.129Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Sehr zufrieden",
+            "en": "Very Satisfied"
+          },
+          {
+            "de": "Zufrieden",
+            "en": "Satisfied"
+          },
+          {
+            "de": "Neutral",
+            "en": "Neutral"
+          },
+          {
+            "de": "Unzufrieden",
+            "en": "Unsatisfied"
+          },
+          {
+            "de": "Sehr unzufrieden",
+            "en": "Very unsatisfied"
+          }
+        ],
+        "id": 25,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 21,
+      "questionText": {
+        "de": "Wenn Sie Ihre derzeitigen Arbeitsmethoden in letzter Zeit (in den letzten 5 Jahren) geändert haben, wie würden sie die Auswirkungen auf den Erfolg Ihrer Projekte bewerten?",
+        "en": "If you have changed your current work practices recently (in the past 5 years), how would they rate the impact on success on your projects?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.349Z",
+      "lastUpdatedAt": "2021-11-08T16:14:06.979Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Keine neuerliche Änderung",
+            "en": "No recent change"
+          },
+          {
+            "de": "Positive Auswirkungen",
+            "en": "Positive impact"
+          },
+          {
+            "de": "Keine Auswirkungen",
+            "en": "No impact"
+          },
+          {
+            "de": "Negative Auswirkungen",
+            "en": "Negative impact"
+          },
+          {
+            "de": "Sowohl negative als auch positive Auswirkungen",
+            "en": "Both negative and positive impact"
+          }
+        ],
+        "id": 41,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 5,
+      "questionText": {
+        "de": "Wie zufrieden sind Sie Ihrer Meinung nach im Allgemeinen mit den Projekten, die Sie selbst durchgeführt haben?",
+        "en": "In your opinion, how satisfied are you in general with the projects you have carried out yourself?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.233Z",
+      "lastUpdatedAt": "2021-11-08T16:10:24.085Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Sehr zufrieden",
+            "en": "Very Satisfied"
+          },
+          {
+            "de": "Zufrieden",
+            "en": "Satisfied"
+          },
+          {
+            "de": "Neutral",
+            "en": "Neutral"
+          },
+          {
+            "de": "Unzufrieden",
+            "en": "Unsatisfied"
+          },
+          {
+            "de": "Sehr unzufrieden",
+            "en": "Very unsatisfied"
+          }
+        ],
+        "id": 9,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 19,
+      "questionText": {
+        "de": "Welche Klassen von nicht-funktionalen Anforderungen berücksichtigen Sie explizit in Ihrer Anforderungsdokumentation?",
+        "en": "Which classes of non-functional requirements do you explicitly consider in your requirements documentation?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.336Z",
+      "lastUpdatedAt": "2021-11-08T16:32:02.192Z",
+      "tags": [],
+      "questionType": "checkbox",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Kompatibilität (z. B. Koexistenz, Interoperabilität)",
+            "en": "Compatibility (e.g., co-existence, interoperability)"
+          },
+          {
+            "de": "Wartbarkeit (z. B. Analysierbarkeit, Modularität, Modifizierbarkeit, Wiederverwendbarkeit, Testbarkeit)",
+            "en": "Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)"
+          },
+          {
+            "de": "Leistungseffizienz (z. B. Zeitverhalten, Ressourcenauslastung, Kapazität)",
+            "en": "Performance efficiency (e.g., time behavior, resource utilisation, capacity)"
+          },
+          {
+            "de": "Übertragbarkeit (z. B. Anpassbarkeit, Installierbarkeit, Austauschbarkeit)",
+            "en": "Portability (e.g., adaptability, installability, replaceability)"
+          },
+          {
+            "de": "Übertragbarkeit (z. B. Anpassbarkeit, Installierbarkeit, Austauschbarkeit)",
+            "en": "Reliability (e.g., availability, fault tolerance, maturity, recoverability)"
+          },
+          {
+            "de": "Securty (z. B. Rechenschaftspflicht, Authentizität, Vertraulichkeit, Integrität, Unleugbarkeit)",
+            "en": "Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)"
+          },
+          {
+            "de": "Safety (z. B. Freiheit von Gesundheits- oder Katastrophenrisiken)",
+            "en": "Safety (e.g. freedom of risk for health or distaster)"
+          },
+          {
+            "de": "Usability (z. B. Zugänglichkeit, Angemessenheit, Erkennbarkeit, Erlernbarkeit, Bedienbarkeit, Benutzerfehlerschutz, Ästhetik der Benutzeroberfläche)",
+            "en": "Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)"
+          },
+          {
+            "de": "Wir berücksichtigen keine nicht-funktionalen Anforderungen für die Dokumentation",
+            "en": "We do not consider non-functional requirements for documentation"
+          }
+        ],
+        "id": 37,
+        "hasSelectAll": null,
+        "hasNone": null,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 8,
+      "questionText": {
+        "de": "Wenn Sie Ihre derzeitigen Arbeitsmethoden in letzter Zeit geändert haben, warum haben Sie sie geändert?",
+        "en": "If you have changed your current work practices recently, why did you change it?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.256Z",
+      "lastUpdatedAt": "2021-11-08T16:14:32.231Z",
+      "tags": [],
+      "questionType": "text",
+      "questionParameters": {
+        "id": 15,
+        "inputType": "text"
+      }
+    },
+    {
+      "id": 6,
+      "questionText": {
+        "de": "Wie dokumentieren Sie Anforderungen?",
+        "en": "How do you document requirements?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.241Z",
+      "lastUpdatedAt": "2021-11-08T16:20:16.576Z",
+      "tags": [],
+      "questionType": "checkbox",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Use Cases",
+            "en": "Use cases"
+          },
+          {
+            "de": "Natürliche Sprache/informeller Klartext",
+            "en": "Natural language/informal (plain) text"
+          },
+          {
+            "de": "Strukturierte Liste der Anforderungen",
+            "en": "Structured list of requirements"
+          },
+          {
+            "de": "User Stories",
+            "en": "User stories"
+          },
+          {
+            "de": "Use Case Diagramme",
+            "en": "Use case diagrams"
+          },
+          {
+            "de": "Aktivitätsdiagramme",
+            "en": "Activity diagrams"
+          },
+          {
+            "de": "Klassendiagramme",
+            "en": "Class diagrams"
+          },
+          {
+            "de": "Sequenzdiagramme",
+            "en": "Sequence diagrams"
+          },
+          {
+            "de": "Zustandsautomaten",
+            "en": "State machines"
+          },
+          {
+            "de": "Zielmodelle",
+            "en": "Goal models"
+          },
+          {
+            "de": "Geschäftsprozessmodelle",
+            "en": "Business process models"
+          },
+          {
+            "de": "Prototypen/Benutzerbildschirme",
+            "en": "Prototypes/User screens"
+          },
+          {
+            "de": "Skizzen",
+            "en": "Sketches"
+          }
+        ],
+        "id": 11,
+        "hasSelectAll": null,
+        "hasNone": null,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 16,
+      "questionText": {
+        "de": "Gibt es Qualitätsmerkmale, die für Ihr Entwicklungsprojekt von besonders hoher Bedeutung sind? ",
+        "en": "Are there quality attributes which are of particularly high importance for your development project? "
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.313Z",
+      "lastUpdatedAt": "2021-11-08T16:00:51.434Z",
+      "tags": [],
+      "questionType": "checkbox",
+      "questionParameters": {
+        "otherText": {
+          "de": "",
+          "en": "If none of the above apply, please provide your answer"
+        },
+        "choices": [
+          {
+            "de": "Compatibility (z. B. Koexistenz, Interoperabilität)",
+            "en": "Compatibility (e.g., co-existence, interoperability)"
+          },
+          {
+            "de": "Maintainability (z. B. Analysierbarkeit, Modularität, Modifizierbarkeit, Wiederverwendbarkeit, Testbarkeit)",
+            "en": "Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)"
+          },
+          {
+            "de": "Performance efficiency (z. B. Zeitverhalten, Ressourcenauslastung, Kapazität)",
+            "en": "Performance efficiency (e.g., time behavior, resource utilisation, capacity)"
+          },
+          {
+            "de": "Portability (z. B. Anpassbarkeit, Installierbarkeit, Austauschbarkeit)",
+            "en": "Portability (e.g., adaptability, installability, replaceability)"
+          },
+          {
+            "de": "Reliability (z. B. Verfügbarkeit, Fehlertoleranz, Ausgereiftheit, Wiederverwendbarkeit)",
+            "en": "Reliability (e.g., availability, fault tolerance, maturity, recoberability)"
+          },
+          {
+            "de": "Security (z. B. Rechenschaftspflicht, Authentizität, Vertraulichkeit, Integrität, Unleugbarkeit)",
+            "en": "Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)"
+          },
+          {
+            "de": "Safety (z. B. Freiheit von Gesundheits- oder Katastrophenrisiken)",
+            "en": "Safety (e.g. freedom of risk for health or distaster)"
+          },
+          {
+            "de": "Usability (z. B. Zugänglichkeit, Angemessenheit, Erkennbarkeit, Erlernbarkeit, Bedienbarkeit, Schutz vor Benutzerfehlern, Ästhetik der Benutzeroberfläche)",
+            "en": "Usability (e.g., accessibility, appropriateness recognizability learnability, operability, user error protection, user interface aesthetics)"
+          }
+        ],
+        "id": 31,
+        "hasSelectAll": true,
+        "hasNone": true,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 4,
+      "questionText": {
+        "de": "Wie viele der Anforderungen, die Sie zu Beginn erheben, finden sich Ihrer Erfahrung nach im Durchschnitt im Endprodukt wieder?",
+        "en": "In your experience, how many of the requirements you elicit in the beginning end up in the final product on average?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.225Z",
+      "lastUpdatedAt": "2021-11-08T16:12:25.809Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "0-20%",
+            "en": "0-20%"
+          },
+          {
+            "de": "21-40%",
+            "en": "21-40%"
+          },
+          {
+            "de": "41-60%",
+            "en": "41-60%"
+          },
+          {
+            "de": "61-80%",
+            "en": "61-80%"
+          },
+          {
+            "de": "81-100%",
+            "en": "81-100%"
+          }
+        ],
+        "id": 7,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 23,
+      "questionText": {
+        "de": "Wie viele Jahre Industrieerfahrung haben Sie in dieser Funktion?",
+        "en": "How many years of industrial experience do you have in this role?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.362Z",
+      "lastUpdatedAt": "2021-11-08T16:08:16.719Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "bis zu einem Jahr",
+            "en": "up to 1 year"
+          },
+          {
+            "de": "zwischen 1 und 5 Jahre",
+            "en": "1 to 5 years"
+          },
+          {
+            "de": "zwischen 6 und 10 Jahre",
+            "en": "6 to 10 years"
+          },
+          {
+            "de": "zwischen 11 und 20 Jahren",
+            "en": "11 to 20 years"
+          },
+          {
+            "de": "mehr als 20 Jahre",
+            "en": "more than 20 years"
+          }
+        ],
+        "id": 45,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 1,
+      "questionText": {
+        "de": "Wie verifizieren und/oder validieren Sie Ihre Anforderungen?",
+        "en": "How do you verify and/or validate your requirements?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.190Z",
+      "lastUpdatedAt": "2021-11-08T16:30:10.418Z",
+      "tags": [],
+      "questionType": "checkbox",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Inspektion (formale technische Überprüfungen unter Verwendung von Lesetechniken oder Checklisten)",
+            "en": "Inspection (formal technical reviews using reading techniques or checklists)"
+          },
+          {
+            "de": "Walkthroughs",
+            "en": "Walkthroughs"
+          },
+          {
+            "de": "Informelle Peer Reviews",
+            "en": "Informal peer reviews"
+          },
+          {
+            "de": "Simulationen",
+            "en": "Simulations"
+          },
+          {
+            "de": "Automatische Überprüfung",
+            "en": "Automatic checking"
+          },
+          {
+            "de": "Wir verifizieren und/oder validieren unsere Anforderungsdokumentation nicht",
+            "en": "We do not verify and/or validate our requirements documentation"
+          }
+        ],
+        "id": 1,
+        "hasSelectAll": null,
+        "hasNone": null,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 22,
+      "questionText": {
+        "de": "Was ist der Grund für diesen Grad der Zufriedenheit Ihres Kunden?",
+        "en": "What is the reason for this level of satisfaction of your client?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.356Z",
+      "lastUpdatedAt": "2021-11-08T16:09:29.833Z",
+      "tags": [],
+      "questionType": "text",
+      "questionParameters": {
+        "placeHolder": {
+          "de": "Bitte geben Sie hier Ihre Antwort",
+          "en": "Please provide your answer here"
+        },
+        "id": 43,
+        "inputType": "text"
+      }
+    },
+    {
+      "id": 3,
+      "questionText": {
+        "de": "Welche Techniken setzen Sie bei der Anforderungserhebung ein?",
+        "en": "Which techniques do you use for your requirements elicitation?"
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.217Z",
+      "lastUpdatedAt": "2021-11-08T16:17:32.193Z",
+      "tags": [],
+      "questionType": "checkbox",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Interviews",
+            "en": "Interviews"
+          },
+          {
+            "de": "Analyse der vorhandenen Dokumente",
+            "en": "Analysis of existing documents"
+          },
+          {
+            "de": "Risikoanalysen",
+            "en": "Risk analyses"
+          },
+          {
+            "de": "Prototyping",
+            "en": "Prototyping"
+          },
+          {
+            "de": "Workshops und Fokusgruppen",
+            "en": "Workshops and focus groups"
+          },
+          {
+            "de": "(Anforderungen) Wiederverwendung der vorhanden Daten und Leitlinien",
+            "en": "(Requirements) Reuse database and guidelines"
+          },
+          {
+            "de": "Design Thinking/Lean Startup",
+            "en": "Design Thinking/Lean Startup"
+          },
+          {
+            "de": "Externe Sachverständige",
+            "en": "External experts"
+          },
+          {
+            "de": "Beobachtungen/Ethnographie",
+            "en": "Observations/Ethnography"
+          },
+          {
+            "de": "Brainstorming",
+            "en": "Brainstorming"
+          },
+          {
+            "de": "Wir erheben die Anforderungen nicht (selbst)",
+            "en": "We do not elicit requirements (ourselves)"
+          }
+        ],
+        "id": 5,
+        "hasSelectAll": null,
+        "hasNone": null,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 14,
+      "questionText": {
+        "de": "Was ist die Hauptaufgabe, die Sie bei Ihren Projekten übernehmen?",
+        "en": "What is the main role you occupy within your projects?"
+      },
+      "infoText": {
+        "de": "Wenn mehr als eine Rolle auf Sie zutrifft, wählen Sie bitte diejenige aus, in der Sie am aktivsten sind.",
+        "en": "If more than one role applies to you, please select the one in which you are most active."
+      },
+      "createdAt": "2022-06-21T08:36:06.299Z",
+      "lastUpdatedAt": "2021-11-08T16:07:02.598Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Wirtschaftsanalytiker",
+            "en": "Business Analyst"
+          },
+          {
+            "de": "Anforderungsingenieur",
+            "en": "Requirements Engineer"
+          },
+          {
+            "de": "Projektleiter/Projektmanager",
+            "en": "Project Lead/Project Manager"
+          },
+          {
+            "de": "Scrum Master",
+            "en": "Scrum Master"
+          },
+          {
+            "de": "Produktmanager",
+            "en": "Product Manager"
+          },
+          {
+            "de": "Product Owner",
+            "en": "Product Owner"
+          },
+          {
+            "de": "Test Manager/Tester",
+            "en": "Test Manager/Tester"
+          },
+          {
+            "de": "Architekt",
+            "en": "Architect"
+          },
+          {
+            "de": "Entwickler",
+            "en": "Developer"
+          }
+        ],
+        "id": 27,
+        "hasOther": true,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 9,
+      "questionText": {
+        "de": "Wie lange wenden Sie Ihre derzeitigen Arbeitsmethoden schon an, ohne dass Sie eine grundlegende Veränderung vorgenommen haben?",
+        "en": "How long have you been applying your current work practices without having made a major transformation?"
+      },
+      "infoText": {
+        "de": "Damit sind grundlegende Änderungen in den Prozessen gemeint, zum Beispiel der Wechsel von Kanban zu SCRUM.",
+        "en": "This refers to fundamental changes in the processes, for example, the change from Kanban to SCRUM."
+      },
+      "createdAt": "2022-06-21T08:36:06.263Z",
+      "lastUpdatedAt": "2021-11-19T08:43:07.490Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "bis zu einem Jahr",
+            "en": "up to 1 year"
+          },
+          {
+            "de": "zwischen 1 und 5 Jahre",
+            "en": "1 to 5 years"
+          },
+          {
+            "de": "zwischen 5 und 10 Jahre",
+            "en": "6 to 10 years"
+          },
+          {
+            "de": "zwischen 11 und 20 Jahre",
+            "en": "11 to 20 years"
+          },
+          {
+            "de": "mehr als 20 Jahre",
+            "en": "more than 20 years"
+          }
+        ],
+        "id": 17,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    },
+    {
+      "id": 7,
+      "questionText": {
+        "de": "Bitte wählen Sie die Klasse von Systemen oder Dienstleistungen aus, an denen Sie im Rahmen Ihres Projekts arbeiten.",
+        "en": "Please select the class of systems or services you work on in the context of your project."
+      },
+      "infoText": null,
+      "createdAt": "2022-06-21T08:36:06.248Z",
+      "lastUpdatedAt": "2021-11-08T15:56:13.890Z",
+      "tags": [],
+      "questionType": "radiogroup",
+      "questionParameters": {
+        "otherText": null,
+        "choices": [
+          {
+            "de": "Software-intensive eingebettete Systeme",
+            "en": "Software-intensive embedded systems"
+          },
+          {
+            "de": "Betriebswirtschaftliche Informationssysteme",
+            "en": "Business information systems"
+          },
+          {
+            "de": "Hybrid aus softwareintensiven eingebetteten Systemen und betriebswirtschaftlichen Systemen",
+            "en": "Hybrid of both software-intensive embedded systems and business information systems"
+          }
+        ],
+        "id": 13,
+        "hasOther": null,
+        "colCount": null,
+        "choicesOrder": "none"
+      }
+    }
+  ],
+  "surveys": [
+    {
+      "name": {
+        "de": "Quick Check: Requirements Engineering",
+        "en": "Quick Check: Requirements Engineering"
+      },
+      "id": 1,
+      "sections": [
+        {
+          "name": {
+            "de": "Quick Check: Requirements Engineering",
+            "en": "Quick Check: Requirements Engineering"
+          },
+          "description": null,
+          "id": 1,
+          "pageIndex": 0,
+          "questions": []
+        }
+      ]
+    }
+  ],
+  "surveySections": [
+    {
+      "name": {
+        "de": "Quick Check: Requirements Engineering",
+        "en": "Quick Check: Requirements Engineering"
+      },
+      "description": null,
+      "id": 1,
+      "pageIndex": 0,
+      "questions": [
+        [
+          12,
+          {
+            "questionIndex": 12,
+            "questionId": 9,
+            "isRequired": false,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Persitenz der derzeitigen Arbeitspraktiken ",
+              "en": "Duration of current work practices"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 9,
+              "questionText": {
+                "de": "Wie lange wenden Sie Ihre derzeitigen Arbeitsmethoden schon an, ohne dass Sie eine grundlegende Veränderung vorgenommen haben?",
+                "en": "How long have you been applying your current work practices without having made a major transformation?"
+              },
+              "infoText": {
+                "de": "Damit sind grundlegende Änderungen in den Prozessen gemeint, zum Beispiel der Wechsel von Kanban zu SCRUM.",
+                "en": "This refers to fundamental changes in the processes, for example, the change from Kanban to SCRUM."
+              },
+              "createdAt": "2022-06-21T08:36:06.263Z",
+              "lastUpdatedAt": "2021-11-19T08:43:07.490Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          0,
+          {
+            "questionIndex": 0,
+            "questionId": 18,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Hauptindustriezweig",
+              "en": "Main industrial sector"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 18,
+              "questionText": {
+                "de": "Bitte wählen Sie den Hauptindustriezweig Ihres Projekts und den Anwendungsbereich der Software, die Sie entwickeln.",
+                "en": "Please select the main industrial sector of your project and the application domain of the software you build."
+              },
+              "infoText": {
+                "de": "Wenn Sie in mehr als einem Bereich aktiv sind, wählen Sie bitte den Bereich aus, in dem Sie sich am meisten engagieren.",
+                "en": "If you are active in more than one area, please select the area in which you are most involved."
+              },
+              "createdAt": "2022-06-21T08:36:06.329Z",
+              "lastUpdatedAt": "2021-11-19T08:30:36.053Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          1,
+          {
+            "questionIndex": 1,
+            "questionId": 7,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Klasse der Systemen ",
+              "en": "Class of systems "
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 7,
+              "questionText": {
+                "de": "Bitte wählen Sie die Klasse von Systemen oder Dienstleistungen aus, an denen Sie im Rahmen Ihres Projekts arbeiten.",
+                "en": "Please select the class of systems or services you work on in the context of your project."
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.248Z",
+              "lastUpdatedAt": "2021-11-08T15:56:13.890Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          2,
+          {
+            "questionIndex": 2,
+            "questionId": 16,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Wichtige Qualitätsmerkmale für die Entwicklung",
+              "en": "Important quality attributes for development"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 16,
+              "questionText": {
+                "de": "Gibt es Qualitätsmerkmale, die für Ihr Entwicklungsprojekt von besonders hoher Bedeutung sind? ",
+                "en": "Are there quality attributes which are of particularly high importance for your development project? "
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.313Z",
+              "lastUpdatedAt": "2021-11-08T16:00:51.434Z",
+              "questionType": "checkbox",
+              "tags": []
+            }
+          }
+        ],
+        [
+          3,
+          {
+            "questionIndex": 3,
+            "questionId": 11,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Umfang der Projekte",
+              "en": "Project scope"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 11,
+              "questionText": {
+                "de": "Wie würden Sie das Verhältnis zwischen dem Umfang Ihrer Projekte und der Anzahl der Projekte pro Jahr beschreiben?",
+                "en": "How would you describe the ratio between the scope of your projects with the amount of projects in a year?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.280Z",
+              "lastUpdatedAt": "2021-11-08T16:01:52.684Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          4,
+          {
+            "questionIndex": 4,
+            "questionId": 20,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Anzahl der Mitglieder des RE-Teams",
+              "en": "Number of RE team members"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 20,
+              "questionText": {
+                "de": "Wie viele Personen sind in der Regel an Ihren Projekten beteiligt?",
+                "en": "In average, how many people are typically involved in your projects?"
+              },
+              "infoText": {
+                "de": "Bitte geben Sie eine ungefähre Schätzung an, wie viele Personen im Durchschnitt an den Projekten beteiligt sind.",
+                "en": "Please give an approximate estimate of how many people are involved in the projects on average."
+              },
+              "createdAt": "2022-06-21T08:36:06.341Z",
+              "lastUpdatedAt": "2021-11-08T16:02:30.152Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          5,
+          {
+            "questionIndex": 5,
+            "questionId": 14,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Rolle in den Projekten",
+              "en": "Role in the project"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 14,
+              "questionText": {
+                "de": "Was ist die Hauptaufgabe, die Sie bei Ihren Projekten übernehmen?",
+                "en": "What is the main role you occupy within your projects?"
+              },
+              "infoText": {
+                "de": "Wenn mehr als eine Rolle auf Sie zutrifft, wählen Sie bitte diejenige aus, in der Sie am aktivsten sind.",
+                "en": "If more than one role applies to you, please select the one in which you are most active."
+              },
+              "createdAt": "2022-06-21T08:36:06.299Z",
+              "lastUpdatedAt": "2021-11-08T16:07:02.598Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          6,
+          {
+            "questionIndex": 6,
+            "questionId": 23,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Industrielle Erfahrung in Jahren",
+              "en": "Years of industrial experience"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 23,
+              "questionText": {
+                "de": "Wie viele Jahre Industrieerfahrung haben Sie in dieser Funktion?",
+                "en": "How many years of industrial experience do you have in this role?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.362Z",
+              "lastUpdatedAt": "2021-11-08T16:08:16.719Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          15,
+          {
+            "questionIndex": 15,
+            "questionId": 15,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Angewandte Arbeitsweise",
+              "en": "Methodology"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 15,
+              "questionText": {
+                "de": "Wie würden Sie persönlich Ihre Arbeitsweise in Ihrem Projekt charakterisieren?",
+                "en": "How would you personally characterise your way of working in your project?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.306Z",
+              "lastUpdatedAt": "2021-11-08T16:15:12.290Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          7,
+          {
+            "questionIndex": 7,
+            "questionId": 5,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Zufriedenheit mit den Projekten ",
+              "en": "Satisfaction with projects"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 5,
+              "questionText": {
+                "de": "Wie zufrieden sind Sie Ihrer Meinung nach im Allgemeinen mit den Projekten, die Sie selbst durchgeführt haben?",
+                "en": "In your opinion, how satisfied are you in general with the projects you have carried out yourself?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.233Z",
+              "lastUpdatedAt": "2021-11-08T16:10:24.085Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          16,
+          {
+            "questionIndex": 16,
+            "questionId": 3,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Techniken zur Erhebung von Anforderungen",
+              "en": "Requirements elicitation techniques"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 3,
+              "questionText": {
+                "de": "Welche Techniken setzen Sie bei der Anforderungserhebung ein?",
+                "en": "Which techniques do you use for your requirements elicitation?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.217Z",
+              "lastUpdatedAt": "2021-11-08T16:17:32.193Z",
+              "questionType": "checkbox",
+              "tags": []
+            }
+          }
+        ],
+        [
+          17,
+          {
+            "questionIndex": 17,
+            "questionId": 6,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Techniken zur Dokumentation von Anforderungen",
+              "en": "Requirements documentation techniques"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 6,
+              "questionText": {
+                "de": "Wie dokumentieren Sie Anforderungen?",
+                "en": "How do you document requirements?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.241Z",
+              "lastUpdatedAt": "2021-11-08T16:20:16.576Z",
+              "questionType": "checkbox",
+              "tags": []
+            }
+          }
+        ],
+        [
+          22,
+          {
+            "questionIndex": 22,
+            "questionId": 17,
+            "isRequired": true,
+            "isEvaluationFilter": false,
+            "filterText": null,
+            "sectionId": 1,
+            "question": {
+              "id": 17,
+              "questionText": {
+                "de": "Welche der folgenden Probleme im Requirements Engineering sind aus Ihrer persönlichen Erfahrung heraus die kritischsten, die auf Ihre Projekte zutreffen?",
+                "en": "From your personal experience, which of the following are the most critical problems in requirements engineering that apply to your projects?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.320Z",
+              "lastUpdatedAt": "2022-06-07T08:11:36.186Z",
+              "questionType": "cause-problem-effect",
+              "tags": []
+            }
+          }
+        ],
+        [
+          18,
+          {
+            "questionIndex": 18,
+            "questionId": 12,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Verwendung der Anforderungsdokumentation",
+              "en": "Usage of requirements documentation"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 12,
+              "questionText": {
+                "de": "Wie machen Sie Gebrauch von den dokumentierten Anforderungen?",
+                "en": "How do you make use of the documented requirements?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.286Z",
+              "lastUpdatedAt": "2021-11-08T16:21:37.551Z",
+              "questionType": "checkbox",
+              "tags": []
+            }
+          }
+        ],
+        [
+          19,
+          {
+            "questionIndex": 19,
+            "questionId": 1,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Techniken zur Überprüfung von Anforderungen ",
+              "en": "Requirements verification techniques"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 1,
+              "questionText": {
+                "de": "Wie verifizieren und/oder validieren Sie Ihre Anforderungen?",
+                "en": "How do you verify and/or validate your requirements?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.190Z",
+              "lastUpdatedAt": "2021-11-08T16:30:10.418Z",
+              "questionType": "checkbox",
+              "tags": []
+            }
+          }
+        ],
+        [
+          20,
+          {
+            "questionIndex": 20,
+            "questionId": 10,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Ausrichtung von Softwaretests",
+              "en": "Alignment of software testing "
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 10,
+              "questionText": {
+                "de": "Wie stimmen Sie die Softwaretests auf die Anforderungen ab?",
+                "en": "How do you align software testing with the requirements?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.273Z",
+              "lastUpdatedAt": "2021-11-08T16:29:09.294Z",
+              "questionType": "checkbox",
+              "tags": []
+            }
+          }
+        ],
+        [
+          21,
+          {
+            "questionIndex": 21,
+            "questionId": 19,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Klassen von nicht-funktionalen Anforderungen (Dokumentation) ",
+              "en": "Classes of non-functional requirements (documentation)"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 19,
+              "questionText": {
+                "de": "Welche Klassen von nicht-funktionalen Anforderungen berücksichtigen Sie explizit in Ihrer Anforderungsdokumentation?",
+                "en": "Which classes of non-functional requirements do you explicitly consider in your requirements documentation?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.336Z",
+              "lastUpdatedAt": "2021-11-08T16:32:02.192Z",
+              "questionType": "checkbox",
+              "tags": []
+            }
+          }
+        ],
+        [
+          8,
+          {
+            "questionIndex": 8,
+            "questionId": 2,
+            "isRequired": false,
+            "isEvaluationFilter": false,
+            "filterText": null,
+            "sectionId": 1,
+            "question": {
+              "id": 2,
+              "questionText": {
+                "de": "Was ist der Grund für Ihre Zufriedenheit mit Ihren Projekten?",
+                "en": "What is the reason for your satisfaction with your projects?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.208Z",
+              "lastUpdatedAt": "2021-11-08T16:10:52.284Z",
+              "questionType": "text",
+              "tags": []
+            }
+          }
+        ],
+        [
+          14,
+          {
+            "questionIndex": 14,
+            "questionId": 8,
+            "isRequired": false,
+            "isEvaluationFilter": false,
+            "filterText": null,
+            "sectionId": 1,
+            "question": {
+              "id": 8,
+              "questionText": {
+                "de": "Wenn Sie Ihre derzeitigen Arbeitsmethoden in letzter Zeit geändert haben, warum haben Sie sie geändert?",
+                "en": "If you have changed your current work practices recently, why did you change it?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.256Z",
+              "lastUpdatedAt": "2021-11-08T16:14:32.231Z",
+              "questionType": "text",
+              "tags": []
+            }
+          }
+        ],
+        [
+          9,
+          {
+            "questionIndex": 9,
+            "questionId": 13,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Zufriedenheit des Kunden",
+              "en": "Satisfaction of the client"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 13,
+              "questionText": {
+                "de": "Wie zufrieden sind Ihrer Meinung nach Ihre Kunden im Allgemeinen mit den Projekten, die Sie mit ihnen durchführen?",
+                "en": "In your opinion, how satisfied are your clients in general with the projects you carry out with them?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.293Z",
+              "lastUpdatedAt": "2021-11-08T16:08:52.129Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          11,
+          {
+            "questionIndex": 11,
+            "questionId": 4,
+            "isRequired": true,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Prozentsatz der umgesetzten Anforderungen",
+              "en": "Percentage of implemented requirements"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 4,
+              "questionText": {
+                "de": "Wie viele der Anforderungen, die Sie zu Beginn erheben, finden sich Ihrer Erfahrung nach im Durchschnitt im Endprodukt wieder?",
+                "en": "In your experience, how many of the requirements you elicit in the beginning end up in the final product on average?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.225Z",
+              "lastUpdatedAt": "2021-11-08T16:12:25.809Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          13,
+          {
+            "questionIndex": 13,
+            "questionId": 21,
+            "isRequired": false,
+            "isEvaluationFilter": true,
+            "filterText": {
+              "de": "Auswirkungen einer Änderung der Arbeitspraxis",
+              "en": "Success of change"
+            },
+            "sectionId": 1,
+            "question": {
+              "id": 21,
+              "questionText": {
+                "de": "Wenn Sie Ihre derzeitigen Arbeitsmethoden in letzter Zeit (in den letzten 5 Jahren) geändert haben, wie würden sie die Auswirkungen auf den Erfolg Ihrer Projekte bewerten?",
+                "en": "If you have changed your current work practices recently (in the past 5 years), how would they rate the impact on success on your projects?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.349Z",
+              "lastUpdatedAt": "2021-11-08T16:14:06.979Z",
+              "questionType": "radiogroup",
+              "tags": []
+            }
+          }
+        ],
+        [
+          10,
+          {
+            "questionIndex": 10,
+            "questionId": 22,
+            "isRequired": false,
+            "isEvaluationFilter": false,
+            "filterText": null,
+            "sectionId": 1,
+            "question": {
+              "id": 22,
+              "questionText": {
+                "de": "Was ist der Grund für diesen Grad der Zufriedenheit Ihres Kunden?",
+                "en": "What is the reason for this level of satisfaction of your client?"
+              },
+              "infoText": null,
+              "createdAt": "2022-06-21T08:36:06.356Z",
+              "lastUpdatedAt": "2021-11-08T16:09:29.833Z",
+              "questionType": "text",
+              "tags": []
+            }
+          }
+        ]
+      ],
+      "surveyId": 1
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "name": "Quick Check RE",
+      "createdAt": "2022-06-21T10:13:19.201Z"
+    }
+  ],
+  "commissions": [],
+  "evaluations": []
+}
